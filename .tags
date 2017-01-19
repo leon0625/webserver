@@ -1,0 +1,1810 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AM_BASIC	.\um.h	/^	AM_BASIC,$/;"	e	enum:__anon7
+AM_DIGEST	.\um.h	/^	AM_DIGEST,$/;"	e	enum:__anon7
+AM_FULL	.\um.h	/^	AM_FULL,$/;"	e	enum:__anon7
+AM_INVALID	.\um.h	/^	AM_INVALID$/;"	e	enum:__anon7
+AM_NONE	.\um.h	/^	AM_NONE = 0,$/;"	e	enum:__anon7
+APR	.\webs.c	/^typedef enum { JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC } MonthEnumeration;$/;"	e	enum:__anon3	file:
+ASCII	.\wwwdemo\docs\glossary.htm	/^ <A NAME="ASCII"><\/A>(American standard code for information interchange)<BR>The defacto worldwide standard for code $/;"	a
+AUG	.\webs.c	/^typedef enum { JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC } MonthEnumeration;$/;"	e	enum:__anon3	file:
+BITS	.\uemf.h	798;"	d
+BITSPERBYTE	.\uemf.h	797;"	d
+BUFSIZ	.\CE\wincompat.h	16;"	d
+BUF_MAX	.\uemf.h	300;"	d
+B_ARGS	.\uemf.h	739;"	d
+B_ARGS_DEC	.\uemf.h	738;"	d
+B_DEFAULT_MEM	.\uemf.h	759;"	d
+B_FILL_CHAR	.\uemf.h	761;"	d
+B_FILL_WORD	.\uemf.h	762;"	d
+B_INTEGRITY	.\uemf.h	768;"	d
+B_INTEGRITY_MASK	.\uemf.h	769;"	d
+B_L	.\uemf.h	737;"	d
+B_MALLOCED	.\uemf.h	758;"	d
+B_MAX_BLOCKS	.\uemf.h	763;"	d
+B_MAX_CLASS	.\uemf.h	757;"	d
+B_MAX_FILES	.\uemf.h	760;"	d
+B_ROUND	.\uemf.h	756;"	d
+B_SHIFT	.\uemf.h	755;"	d
+B_USER_BUF	.\uemf.h	771;"	d
+B_USER_BUF	.\uemf.h	973;"	d
+B_USE_MALLOC	.\uemf.h	770;"	d
+B_USE_MALLOC	.\uemf.h	972;"	d
+CGI	.\wwwdemo\docs\glossary.htm	/^<\/P><\/BLOCKQUOTE><P><B>CGI<\/B><A NAME="CGI"><\/A> (common gateway interface)<BR>A standard interface between a Web server and other programs.  CGI consists of a set of rules that describe how a Web server communicates $/;"	a
+CGI	.\wwwdemo\over\cgi.htm	/^<TABLE class=apitable BORDER="0" BORDERCOLOR="#FFFFFF" BGCOLOR="#FFFFFF"><TR BORDERCOLOR="#FFFFFF"><TD><H2>Standard CGI Implementation<A NAME="CGI"><\/A> <\/H2>$/;"	a
+CGI_BIN	.\webs.h	77;"	d
+CHAR_T_DEFINED	.\uemf.h	315;"	d
+COND_AND	.\ejIntrn.h	98;"	d
+COND_NOT	.\ejIntrn.h	100;"	d
+COND_OR	.\ejIntrn.h	99;"	d
+DB_CASE_INSENSITIVE	.\emfdb.h	42;"	d
+DB_ERR_BAD_FORMAT	.\emfdb.h	36;"	d
+DB_ERR_COL_DELETED	.\emfdb.h	31;"	d
+DB_ERR_COL_NOT_FOUND	.\emfdb.h	30;"	d
+DB_ERR_GENERAL	.\emfdb.h	29;"	d
+DB_ERR_ROW_DELETED	.\emfdb.h	33;"	d
+DB_ERR_ROW_NOT_FOUND	.\emfdb.h	32;"	d
+DB_ERR_TABLE_DELETED	.\emfdb.h	35;"	d
+DB_ERR_TABLE_NOT_FOUND	.\emfdb.h	34;"	d
+DB_OK	.\emfdb.h	28;"	d
+DEC	.\webs.c	/^typedef enum { JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC } MonthEnumeration;$/;"	e	enum:__anon3	file:
+DEFAULT_CERT_FILE	.\websSSL.h	29;"	d
+DEFAULT_KEY_FILE	.\websSSL.h	30;"	d
+DNS	.\wwwdemo\docs\glossary.htm	/^<BR>The unique name that identifies an Internet site.<\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>DNS<A NAME="DNS"><\/A><\/B> (Domain Name System) <BR>The online distributed database system that  maps $/;"	a
+EAGAIN	.\CE\wincompat.h	132;"	d
+EBADF	.\CE\wincompat.h	131;"	d
+ECONNRESET	.\uemf.h	841;"	d
+EINTR	.\CE\wincompat.h	129;"	d
+EINTR	.\uemf.h	59;"	d
+EINVAL	.\CE\wincompat.h	133;"	d
+EJ_INC	.\ejIntrn.h	45;"	d
+EJ_MAX_RECURSE	.\ejIntrn.h	48;"	d
+EJ_OFFSET	.\ejIntrn.h	47;"	d
+EJ_SCRIPT_INC	.\ejIntrn.h	46;"	d
+EMF_SCRIPT_EJSCRIPT	.\uemf.h	791;"	d
+EMF_SCRIPT_JSCRIPT	.\uemf.h	789;"	d
+EMF_SCRIPT_MAX	.\uemf.h	792;"	d
+EMF_SCRIPT_TCL	.\uemf.h	790;"	d
+EMF_SOCKET_MESSAGE	.\uemf.h	876;"	d
+ENETDOWN	.\uemf.h	838;"	d
+ENXIO	.\CE\wincompat.h	130;"	d
+EOF	.\CE\wincompat.h	31;"	d
+EWOULDBLOCK	.\uemf.h	835;"	d
+EXPR_ASSIGNMENT	.\ejIntrn.h	91;"	d
+EXPR_BOOL_COMP	.\ejIntrn.h	94;"	d
+EXPR_DEC	.\ejIntrn.h	93;"	d
+EXPR_DIV	.\ejIntrn.h	86;"	d
+EXPR_EQ	.\ejIntrn.h	82;"	d
+EXPR_GREATER	.\ejIntrn.h	80;"	d
+EXPR_GREATEREQ	.\ejIntrn.h	81;"	d
+EXPR_INC	.\ejIntrn.h	92;"	d
+EXPR_LESS	.\ejIntrn.h	78;"	d
+EXPR_LESSEQ	.\ejIntrn.h	79;"	d
+EXPR_LSHIFT	.\ejIntrn.h	88;"	d
+EXPR_MINUS	.\ejIntrn.h	85;"	d
+EXPR_MOD	.\ejIntrn.h	87;"	d
+EXPR_MUL	.\ejIntrn.h	90;"	d
+EXPR_NOTEQ	.\ejIntrn.h	83;"	d
+EXPR_PLUS	.\ejIntrn.h	84;"	d
+EXPR_RSHIFT	.\ejIntrn.h	89;"	d
+E_ARGS	.\uemf.h	602;"	d
+E_ARGS_DEC	.\uemf.h	601;"	d
+E_ASSERT	.\uemf.h	596;"	d
+E_L	.\uemf.h	600;"	d
+E_LOG	.\uemf.h	597;"	d
+E_MAX_ERROR	.\uemf.h	589;"	d
+E_MAX_REQUEST	.\uemf.h	591;"	d
+E_USER	.\uemf.h	598;"	d
+F	.\md5c.c	16;"	d	file:
+FALSE	.\uemf.h	359;"	d
+FALSE	.\um.h	57;"	d
+FAQ	.\wwwdemo\docs\glossary.htm	/^(ciphertext). <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>FAQ<\/B><A NAME="FAQ"><\/A>$/;"	a
+FEB	.\webs.c	/^typedef enum { JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC } MonthEnumeration;$/;"	e	enum:__anon3	file:
+FF	.\md5c.c	43;"	d	file:
+FF	.\md5c.c	94;"	d	file:
+FILE	.\CE\wincompat.h	/^typedef void FILE;$/;"	t
+FLAGS_EXE	.\ejIntrn.h	130;"	d
+FLAGS_FUNCTIONS	.\ejIntrn.h	132;"	d
+FLAGS_VARIABLES	.\ejIntrn.h	131;"	d
+FMT_STATIC_MAX	.\uemf.h	304;"	d
+FNAMESIZE	.\uemf.h	586;"	d
+FNAMESIZE	.\utils\webcomp.c	35;"	d	file:
+FRI	.\webs.c	/^typedef enum { SUN, MON, TUE, WED, THU, FRI, SAT } WeekdayEnumeration;$/;"	e	enum:__anon4	file:
+FTP	.\wwwdemo\docs\glossary.htm	/^questions on specific subjects.<\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>FTP<A NAME="FTP"><\/A><\/B>(File Transfer Protocol)<BR>A client-server protocol that allows a user to log in to another Internet site and transfer files over a TCP\/IP network. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>gateway<A NAME="gateway"><\/A><\/B>$/;"	a
+F_OK	.\CE\wincompat.h	185;"	d
+F_OK	.\uemf.h	233;"	d
+F_OK	.\uemf.h	234;"	d
+F_OK	.\uemf.h	287;"	d
+F_OK	.\uemf.h	288;"	d
+FixedFromGregorian	.\webs.c	/^long FixedFromGregorian(long month, long day, long year) $/;"	f
+G	.\md5c.c	17;"	d	file:
+GG	.\md5c.c	46;"	d	file:
+GG	.\md5c.c	97;"	d	file:
+GOAHEAD_COPYRIGHT	.\uemf.h	365;"	d
+GetColumnIndex	.\emfdb.c	/^static int GetColumnIndex(int tid, char_t *colName) $/;"	f	file:
+GregorianDateDifference	.\webs.c	/^long GregorianDateDifference(	long month1, long day1, long year1,$/;"	f
+GregorianEpoch	.\webs.c	/^const int GregorianEpoch = 1;$/;"	v
+GregorianLeapYearP	.\webs.c	/^int GregorianLeapYearP(long year) $/;"	f
+GregorianYearFromFixed	.\webs.c	/^long GregorianYearFromFixed(long fixedDate) $/;"	f
+H	.\md5c.c	18;"	d	file:
+HALLOC	.\h.c	/^int HALLOC(B_ARGS_DEC, void ***map)$/;"	f
+HALLOCENTRY	.\h.c	/^int HALLOCENTRY(B_ARGS_DEC, void ***list, int *max, int size)$/;"	f
+HASH_SIZE	.\websda.c	29;"	d	file:
+HEX	.\ejlex.c	25;"	d	file:
+HH	.\md5c.c	100;"	d	file:
+HH	.\md5c.c	49;"	d	file:
+HTML	.\wwwdemo\docs\glossary.htm	/^<BR>A unique name that identifies a single host within a network domain. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>HTML<\/B><A NAME="HTML"><\/A>$/;"	a
+HTTP	.\wwwdemo\docs\glossary.htm	/^<\/P><\/BLOCKQUOTE><P><B>HTTP<\/B><A NAME="HTTP"><\/A> (hypertext transmission protocol) <BR>The standard language that World Wide Web clients $/;"	a
+HTTPS	.\wwwdemo\docs\glossary.htm	/^tasks between client and server. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>HTTPS<\/B><A NAME="HTTPS"><\/A> (hypertext transport protocol, secure)$/;"	a
+H_INCR	.\h.c	33;"	d	file:
+H_LEN	.\h.c	29;"	d	file:
+H_OFFSET	.\h.c	31;"	d	file:
+H_USED	.\h.c	30;"	d	file:
+I	.\md5c.c	19;"	d	file:
+IDC_BUILDDATE	.\WIN\main.c	44;"	d	file:
+IDC_DISMISS	.\WIN\main.c	45;"	d	file:
+IDC_VERSION	.\WIN\main.c	43;"	d	file:
+IDM_ABOUTBOX	.\WIN\main.c	41;"	d	file:
+IDS_ABOUTBOX	.\WIN\main.c	42;"	d	file:
+II	.\md5c.c	103;"	d	file:
+II	.\md5c.c	52;"	d	file:
+INADDR_NONE	.\uemf.h	276;"	d
+INVALID_SOCKET	.\matrixSSLSocket.h	62;"	d
+INVALID_SOCKET	.\matrixSSLSocket.h	80;"	d
+IN_BALLOC	.\balloc.c	28;"	d	file:
+IN_GETOPT	.\CE\wincompat.c	18;"	d	file:
+IP	.\wwwdemo\docs\glossary.htm	/^<\/P><\/BLOCKQUOTE><P><B>IP<\/B><A NAME="IP"><\/A> (Internet protocol)<BR> The TCP\/IP standard protocol that defines the IP datagram as $/;"	a
+IPaddress	.\wwwdemo\docs\glossary.htm	/^routers needed to move packets across networks to their destinations.<\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>IP address<A NAME="IPaddress"><\/A>$/;"	a
+ISP	.\wwwdemo\docs\glossary.htm	/^a network portion and a host portion. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>ISP<A NAME="ISP"><\/A><\/B>$/;"	a
+InternetExplorer	.\wwwdemo\docs\glossary.htm	/^displayed. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>Internet  Explorer<A NAME="InternetExplorer"><\/A><\/B><BR>A graphical World Wide Web browser developed and distributed by $/;"	a
+Intranet	.\wwwdemo\docs\glossary.htm	/^Java applets along with text. Internet Explorer is very similar to Netscape Navigator.<\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>Intranet<\/B><A NAME="Intranet"><\/A>$/;"	a
+JAN	.\webs.c	/^typedef enum { JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC } MonthEnumeration;$/;"	e	enum:__anon3	file:
+JUL	.\webs.c	/^typedef enum { JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC } MonthEnumeration;$/;"	e	enum:__anon3	file:
+JUN	.\webs.c	/^typedef enum { JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC } MonthEnumeration;$/;"	e	enum:__anon3	file:
+Javascript	.\wwwdemo\docs\glossary.htm	/^(Internet Service Provider)<BR> An institution that provides access to the Internet , usually for a fee.<\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>Javascript<A NAME="Javascript"><\/A><\/B><BR>JavaScript is a programmable API that allows cross-platform scripting of events, objects, and actions. It allows the   designer to access events such as startups, exits, and users' mouse clicks. JavaScript extends the programmatic capabilities of browsers such as Netscape Navigator  and Internet Explorer.<\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>LAN<\/B><A NAME="LAN"><\/A> (Local Area Network<BR> A private network located within a building or complex $/;"	a
+KEYWORD_ROW	.\emfdb.c	23;"	d	file:
+KEYWORD_TABLE	.\emfdb.c	22;"	d	file:
+Korder	.\md5c.c	/^static const ulong32 Korder[] = {$/;"	v	file:
+LF_BUF_MAX	.\uemf.h	307;"	d
+LF_BUF_MAX	.\uemf.h	310;"	d
+LF_PATHSIZE	.\uemf.h	308;"	d
+LF_PATHSIZE	.\uemf.h	311;"	d
+LIBKERN_INLINE	.\uemf.h	261;"	d
+LINE_MAX	.\uemf.h	302;"	d
+LINUX	.\matrixSSLSocket.c	19;"	d	file:
+LINUX	.\matrixSSLSocket.h	28;"	d
+LINUX	.\matrixSSLSocket.h	87;"	d
+LOAD32L	.\md5c.c	31;"	d	file:
+LTZNMAX	.\CE\wincompat.h	151;"	d
+MAKEWORD	.\matrixSSLSocket.h	59;"	d
+MAKEWORD	.\matrixSSLSocket.h	77;"	d
+MAR	.\webs.c	/^typedef enum { JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC } MonthEnumeration;$/;"	e	enum:__anon3	file:
+MAXINT	.\uemf.h	795;"	d
+MAX_PORT_LEN	.\wsIntrn.h	113;"	d
+MAX_URL_DEPTH	.\default.c	34;"	d	file:
+MAX_WRITE_MSEC	.\matrixSSLSocket.c	22;"	d	file:
+MAY	.\webs.c	/^typedef enum { JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC } MonthEnumeration;$/;"	e	enum:__anon3	file:
+MIN	.\md5c.c	22;"	d	file:
+MON	.\webs.c	/^typedef enum { SUN, MON, TUE, WED, THU, FRI, SAT } WeekdayEnumeration;$/;"	e	enum:__anon4	file:
+MORE_MIME_TYPES	.\mime.c	25;"	d	file:
+MSG_DONTWAIT	.\matrixSSLSocket.h	39;"	d
+MSG_END	.\umui.c	25;"	d	file:
+MSG_NOSIGNAL	.\matrixSSLSocket.h	38;"	d
+MSG_NOSIGNAL	.\matrixSSLSocket.h	49;"	d
+MSG_NOSIGNAL	.\matrixSSLSocket.h	81;"	d
+MSG_START	.\umui.c	24;"	d	file:
+MonthEnumeration	.\webs.c	/^typedef enum { JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC } MonthEnumeration;$/;"	t	typeref:enum:__anon3	file:
+NFDBITS	.\uemf.h	267;"	d
+NLMcleanup	.\NW\main.c	/^void NLMcleanup( void )$/;"	f
+NONCE_SIZE	.\websda.c	28;"	d	file:
+NONE_OPTION	.\umui.c	23;"	d	file:
+NOV	.\webs.c	/^typedef enum { JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC } MonthEnumeration;$/;"	e	enum:__anon3	file:
+NUMBER_OF_ACCESS_COLUMNS	.\um.c	102;"	d	file:
+NUMBER_OF_GROUP_COLUMNS	.\um.c	80;"	d	file:
+NUMBER_OF_USER_COLUMNS	.\um.c	58;"	d	file:
+NetscapeNavigator	.\wwwdemo\docs\glossary.htm	/^Navigator<A NAME="NetscapeNavigator"><\/A><\/B><BR>A WWW browser  originally based on $/;"	a
+OCT	.\webs.c	/^typedef enum { JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC } MonthEnumeration;$/;"	e	enum:__anon3	file:
+OCTAL	.\ejlex.c	24;"	d	file:
+OSX	.\matrixSSLSocket.c	18;"	d	file:
+OSX	.\matrixSSLSocket.h	29;"	d
+OSX	.\matrixSSLSocket.h	88;"	d
+O_ACCMODE	.\CE\wincompat.h	39;"	d
+O_APPEND	.\CE\wincompat.h	41;"	d
+O_BINARY	.\CE\wincompat.h	43;"	d
+O_BINARY	.\uemf.h	216;"	d
+O_BINARY	.\uemf.h	251;"	d
+O_BINARY	.\utils\webcomp.c	32;"	d	file:
+O_CREAT	.\CE\wincompat.h	44;"	d
+O_NDELAY	.\CE\wincompat.h	40;"	d
+O_NOCTTY	.\CE\wincompat.h	46;"	d
+O_NONBLOCK	.\CE\wincompat.h	42;"	d
+O_RDONLY	.\CE\wincompat.h	36;"	d
+O_RDONLY	.\uemf.h	250;"	d
+O_RDWR	.\CE\wincompat.h	38;"	d
+O_TRUNC	.\CE\wincompat.h	45;"	d
+O_WRONLY	.\CE\wincompat.h	37;"	d
+P	.\NW\main.c	52;"	d	file:
+P	.\NW\main.c	55;"	d	file:
+PAGE_READ_BUFSIZE	.\wsIntrn.h	112;"	d
+PATH	.\CE\build.bat	/^set PATH=C:\\WINNT\\system32;D:\\Program Files\\Microsoft Visual Studio\\Common\\Tools\\WinNT;D:\\Program Files\\Microsoft Visual Studio\\Common\\MSDev98\\Bin;D:\\Program Files\\Microsoft Visual Studio\\Common\\Tools;D:\\Program Files\\Microsoft Visual Studio\\VC98\\Bin;D:\\Windows CE Tools\\wce212\\TEST1\\Lib\\x86;$/;"	v
+PATHSIZE	.\CE\wincompat.h	17;"	d
+PRIV_ADMIN	.\um.h	45;"	d
+PRIV_NONE	.\um.h	42;"	d
+PRIV_READ	.\um.h	43;"	d
+PRIV_WRITE	.\um.h	44;"	d
+Ps	.\NW\main.c	53;"	d	file:
+Ps	.\NW\main.c	56;"	d	file:
+RANDOMKEY	.\websda.c	27;"	d	file:
+RCHEIGHT	.\WIN\main.c	855;"	d	file:
+RCWIDTH	.\WIN\main.c	854;"	d	file:
+RINGQ_LEN	.\ringq.c	58;"	d	file:
+ROL	.\md5c.c	39;"	d	file:
+ROLc	.\md5c.c	90;"	d	file:
+ROOT_DIR	.\VXWORKS\main.c	43;"	d	file:
+ROUNDUP4	.\balloc.c	90;"	d	file:
+R_OK	.\CE\wincompat.h	182;"	d
+R_OK	.\uemf.h	227;"	d
+R_OK	.\uemf.h	228;"	d
+R_OK	.\uemf.h	281;"	d
+R_OK	.\uemf.h	282;"	d
+Rorder	.\md5c.c	/^static const unsigned char Rorder[64] = {$/;"	v	file:
+SAT	.\webs.c	/^typedef enum { SUN, MON, TUE, WED, THU, FRI, SAT } WeekdayEnumeration;$/;"	e	enum:__anon4	file:
+SECONDS_PER_DAY	.\webs.c	2876;"	d	file:
+SECS_BETWEEN_1601_AND_1970	.\CE\wincompat.c	199;"	d	file:
+SEEK_CUR	.\CE\wincompat.h	27;"	d
+SEEK_END	.\CE\wincompat.h	28;"	d
+SEEK_SET	.\CE\wincompat.h	29;"	d
+SEP	.\webs.c	/^typedef enum { JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC } MonthEnumeration;$/;"	e	enum:__anon3	file:
+SOCKET	.\matrixSSLSocket.h	/^	typedef int	SOCKET;$/;"	t
+SOCKET_AGAIN	.\uemf.h	866;"	d
+SOCKET_ASYNC	.\uemf.h	851;"	d
+SOCKET_BINARY	.\wsIntrn.h	191;"	d
+SOCKET_BINARY	.\wsIntrn.h	194;"	d
+SOCKET_BLOCK	.\uemf.h	852;"	d
+SOCKET_BROADCAST	.\uemf.h	847;"	d
+SOCKET_BUFSIZ	.\uemf.h	881;"	d
+SOCKET_BUFSIZ	.\uemf.h	883;"	d
+SOCKET_CLOSING	.\uemf.h	854;"	d
+SOCKET_CONNECTING	.\uemf.h	846;"	d
+SOCKET_CONNRESET	.\uemf.h	855;"	d
+SOCKET_DATAGRAM	.\uemf.h	850;"	d
+SOCKET_EOF	.\uemf.h	845;"	d
+SOCKET_ERROR	.\matrixSSLSocket.h	55;"	d
+SOCKET_ERROR	.\matrixSSLSocket.h	73;"	d
+SOCKET_ERROR	.\uemf.h	218;"	d
+SOCKET_EXCEPTION	.\uemf.h	875;"	d
+SOCKET_FLUSHING	.\uemf.h	849;"	d
+SOCKET_INTR	.\uemf.h	867;"	d
+SOCKET_INVAL	.\uemf.h	868;"	d
+SOCKET_LISTENING	.\uemf.h	853;"	d
+SOCKET_MYOWNBUFFERS	.\uemf.h	856;"	d
+SOCKET_NETDOWN	.\uemf.h	865;"	d
+SOCKET_PENDING	.\uemf.h	848;"	d
+SOCKET_PORT_MAX	.\uemf.h	858;"	d
+SOCKET_RDONLY	.\wsIntrn.h	190;"	d
+SOCKET_RDONLY	.\wsIntrn.h	193;"	d
+SOCKET_READABLE	.\uemf.h	873;"	d
+SOCKET_RESET	.\uemf.h	864;"	d
+SOCKET_WOULDBLOCK	.\uemf.h	863;"	d
+SOCKET_WRITABLE	.\uemf.h	874;"	d
+SOCK_DFT_SVC_TIME	.\WIN\main.c	46;"	d	file:
+SSI	.\wwwdemo\docs\glossary.htm	/^Web so a browser program on your computer can read it. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>SSI<\/B><A NAME="SSI"><\/A> (server-side includes)$/;"	a
+SSL	.\wwwdemo\docs\glossary.htm	/^<BR>HTML-embedded commands executed by the server before sending the HTML file to the client. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>SSL<\/B><A NAME="SSL"><\/A> (secure sockets layer)<BR>$/;"	a
+SSLSOCKET_CLOSE_NOTIFY	.\matrixSSLSocket.h	101;"	d
+SSLSOCKET_EOF	.\matrixSSLSocket.h	100;"	d
+SSL_NAME	.\webs.h	60;"	d
+SSL_VERSION	.\webs.h	61;"	d
+STATE_ARG_LIST	.\ejIntrn.h	116;"	d
+STATE_ARG_LIST_DONE	.\ejIntrn.h	117;"	d
+STATE_BEGIN	.\ejIntrn.h	125;"	d
+STATE_COND	.\ejIntrn.h	107;"	d
+STATE_COND_DONE	.\ejIntrn.h	108;"	d
+STATE_DEC	.\ejIntrn.h	120;"	d
+STATE_DEC_DONE	.\ejIntrn.h	121;"	d
+STATE_DEC_LIST	.\ejIntrn.h	118;"	d
+STATE_DEC_LIST_DONE	.\ejIntrn.h	119;"	d
+STATE_EOF	.\ejIntrn.h	106;"	d
+STATE_ERR	.\ejIntrn.h	105;"	d
+STATE_EXPR	.\ejIntrn.h	111;"	d
+STATE_EXPR_DONE	.\ejIntrn.h	112;"	d
+STATE_RELEXP	.\ejIntrn.h	109;"	d
+STATE_RELEXP_DONE	.\ejIntrn.h	110;"	d
+STATE_RET	.\ejIntrn.h	123;"	d
+STATE_STMT	.\ejIntrn.h	113;"	d
+STATE_STMT_BLOCK_DONE	.\ejIntrn.h	115;"	d
+STATE_STMT_DONE	.\ejIntrn.h	114;"	d
+STORE32L	.\md5c.c	25;"	d	file:
+STRSPACE	.\uemf.h	799;"	d
+STR_INC	.\misc.c	28;"	d	file:
+STR_REALLOC	.\misc.c	27;"	d	file:
+SUN	.\webs.c	/^typedef enum { SUN, MON, TUE, WED, THU, FRI, SAT } WeekdayEnumeration;$/;"	e	enum:__anon4	file:
+SYM_MAX	.\uemf.h	298;"	d
+S_IFDIR	.\CE\wincompat.h	120;"	d
+S_IFREG	.\CE\wincompat.h	119;"	d
+SigTermSignalHandler	.\NW\main.c	/^void SigTermSignalHandler( int sigtype )$/;"	f
+Sleep	.\uemf.h	277;"	d
+T	.\uemf.h	321;"	d
+T	.\uemf.h	338;"	d
+TASTRL	.\uemf.h	335;"	d
+TASTRL	.\uemf.h	341;"	d
+TCPIP	.\wwwdemo\docs\glossary.htm	/^ including the Web. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>TCP\/IP<A NAME="TCPIP"><\/A>$/;"	a
+THU	.\webs.c	/^typedef enum { SUN, MON, TUE, WED, THU, FRI, SAT } WeekdayEnumeration;$/;"	e	enum:__anon4	file:
+TLS	.\wwwdemo\docs\glossary.htm	/^<\/P><\/BLOCKQUOTE><P><B>TLS<\/B><A NAME="TLS"><\/A> (Transport Layer Security)<BR>$/;"	a
+TOK_ASSIGNMENT	.\ejIntrn.h	70;"	d
+TOK_COMMA	.\ejIntrn.h	68;"	d
+TOK_ELSE	.\ejIntrn.h	57;"	d
+TOK_EOF	.\ejIntrn.h	67;"	d
+TOK_ERR	.\ejIntrn.h	53;"	d
+TOK_EXPR	.\ejIntrn.h	61;"	d
+TOK_FOR	.\ejIntrn.h	71;"	d
+TOK_FUNCTION	.\ejIntrn.h	64;"	d
+TOK_ID	.\ejIntrn.h	66;"	d
+TOK_IF	.\ejIntrn.h	56;"	d
+TOK_INC_DEC	.\ejIntrn.h	72;"	d
+TOK_LBRACE	.\ejIntrn.h	58;"	d
+TOK_LITERAL	.\ejIntrn.h	63;"	d
+TOK_LOGICAL	.\ejIntrn.h	60;"	d
+TOK_LPAREN	.\ejIntrn.h	54;"	d
+TOK_NEWLINE	.\ejIntrn.h	65;"	d
+TOK_RBRACE	.\ejIntrn.h	59;"	d
+TOK_RETURN	.\ejIntrn.h	73;"	d
+TOK_RPAREN	.\ejIntrn.h	55;"	d
+TOK_SEMI	.\ejIntrn.h	62;"	d
+TOK_VAR	.\ejIntrn.h	69;"	d
+TRACE_MAX	.\uemf.h	296;"	d
+TRUE	.\uemf.h	355;"	d
+TRUE	.\um.h	53;"	d
+TSZ	.\uemf.h	330;"	d
+TSZ	.\uemf.h	340;"	d
+TUE	.\webs.c	/^typedef enum { SUN, MON, TUE, WED, THU, FRI, SAT } WeekdayEnumeration;$/;"	e	enum:__anon4	file:
+T_INT	.\emfdb.h	25;"	d
+T_STRING	.\emfdb.h	26;"	d
+TimerProc	.\websuemf.c	/^void TimerProc(int schedid)$/;"	f
+UM_ACCESS_TABLENAME	.\um.c	32;"	d	file:
+UM_DB_FILENAME	.\um.c	24;"	d	file:
+UM_DISABLE	.\um.c	41;"	d	file:
+UM_ERR_BAD_NAME	.\um.h	36;"	d
+UM_ERR_BAD_PASSWORD	.\um.h	37;"	d
+UM_ERR_DUPLICATE	.\um.h	34;"	d
+UM_ERR_GENERAL	.\um.h	31;"	d
+UM_ERR_IN_USE	.\um.h	35;"	d
+UM_ERR_NOT_FOUND	.\um.h	32;"	d
+UM_ERR_PROTECTED	.\um.h	33;"	d
+UM_GROUP	.\um.c	39;"	d	file:
+UM_GROUP_TABLENAME	.\um.c	31;"	d	file:
+UM_METHOD	.\um.c	42;"	d	file:
+UM_NAME	.\um.c	37;"	d	file:
+UM_OK	.\um.h	30;"	d
+UM_PASS	.\um.c	38;"	d	file:
+UM_PRIVILEGE	.\um.c	43;"	d	file:
+UM_PROT	.\um.c	40;"	d	file:
+UM_SECURE	.\um.c	44;"	d	file:
+UM_TXT_FILENAME	.\um.c	25;"	d	file:
+UM_USER_TABLENAME	.\um.c	30;"	d	file:
+UM_XOR_ENCRYPT	.\um.c	51;"	d	file:
+UPPATHSIZE	.\uemf.h	312;"	d
+URL	.\wwwdemo\docs\glossary.htm	/^the successor to SSL version 3 and is nearly identical. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>URL<\/B><A NAME="URL"><\/A>$/;"	a
+URL_MAX	.\uemf.h	590;"	d
+USE_NONBLOCKING_SSL_SOCKETS	.\matrixSSLSocket.h	25;"	d
+VALUE_ALLOCATE	.\uemf.h	672;"	d
+VALUE_INVALID	.\uemf.h	679;"	d
+VALUE_MAX_STRING	.\uemf.h	297;"	d
+VALUE_VALID	.\uemf.h	678;"	d
+WEBS	.\uemf.h	60;"	d
+WEBS_ASP	.\webs.h	90;"	d
+WEBS_ASP_BUFINC	.\webs.h	67;"	d
+WEBS_AUTH_BASIC	.\webs.h	98;"	d
+WEBS_AUTH_DIGEST	.\webs.h	99;"	d
+WEBS_BEGIN	.\wsIntrn.h	104;"	d
+WEBS_BUFSIZE	.\webs.h	69;"	d
+WEBS_CGI_REQUEST	.\webs.h	96;"	d
+WEBS_CLEN	.\webs.h	92;"	d
+WEBS_COOKIE	.\webs.h	85;"	d
+WEBS_DEFAULT_HOME	.\webs.h	29;"	d
+WEBS_DEFAULT_PORT	.\webs.h	30;"	d
+WEBS_DEFAULT_SSL_PORT	.\webs.h	31;"	d
+WEBS_DONT_USE_CACHE	.\webs.h	84;"	d
+WEBS_FORM	.\webs.h	93;"	d
+WEBS_HANDLER_FIRST	.\webs.h	105;"	d
+WEBS_HANDLER_LAST	.\webs.h	106;"	d
+WEBS_HEADER	.\wsIntrn.h	105;"	d
+WEBS_HEADER_BUFINC	.\webs.h	66;"	d
+WEBS_HEADER_DONE	.\webs.h	100;"	d
+WEBS_HEAD_REQUEST	.\webs.h	91;"	d
+WEBS_HOME_PAGE	.\webs.h	89;"	d
+WEBS_HTTP_PORT	.\webs.h	76;"	d
+WEBS_IF_MODIFIED	.\webs.h	86;"	d
+WEBS_KEEP_ALIVE	.\webs.h	83;"	d
+WEBS_KEEP_TIMEOUT	.\wsIntrn.h	109;"	d
+WEBS_LOCAL_PAGE	.\webs.h	82;"	d
+WEBS_LOCAL_REQUEST	.\webs.h	88;"	d
+WEBS_LOG_SUPPORT	.\webs.h	37;"	d
+WEBS_MAX_HEADER	.\webs.h	70;"	d
+WEBS_MAX_PASS	.\webs.h	68;"	d
+WEBS_MAX_REQUEST	.\uemf.h	878;"	d
+WEBS_MAX_URL	.\webs.h	71;"	d
+WEBS_NAME	.\webs.h	57;"	d
+WEBS_POST	.\wsIntrn.h	106;"	d
+WEBS_POST_CLEN	.\wsIntrn.h	107;"	d
+WEBS_POST_DATA	.\webs.h	95;"	d
+WEBS_POST_REQUEST	.\webs.h	87;"	d
+WEBS_PROCESSING	.\wsIntrn.h	108;"	d
+WEBS_REQUEST_DONE	.\webs.h	94;"	d
+WEBS_SECURE	.\webs.h	97;"	d
+WEBS_SOCKET_BUFSIZ	.\webs.h	72;"	d
+WEBS_SYM_INIT	.\wsIntrn.h	114;"	d
+WEBS_TIMEOUT	.\wsIntrn.h	110;"	d
+WEBS_TRACE_LEVEL	.\webs.h	41;"	d
+WEBS_TRACE_SUPPORT	.\webs.h	40;"	d
+WEBS_VERSION	.\webs.h	58;"	d
+WEBS_WHITELIST_SUPPORT	.\webs.h	34;"	d
+WED	.\webs.c	/^typedef enum { SUN, MON, TUE, WED, THU, FRI, SAT } WeekdayEnumeration;$/;"	e	enum:__anon4	file:
+WHITELIST_BLOCKED	.\default.c	43;"	d	file:
+WHITELIST_CGI	.\wsIntrn.h	220;"	d
+WHITELIST_DIR	.\default.c	44;"	d	file:
+WHITELIST_SSL	.\wsIntrn.h	219;"	d
+WOULD_BLOCK	.\matrixSSLSocket.h	40;"	d
+WOULD_BLOCK	.\matrixSSLSocket.h	57;"	d
+WOULD_BLOCK	.\matrixSSLSocket.h	75;"	d
+WSACleanup	.\matrixSSLSocket.h	61;"	d
+WSACleanup	.\matrixSSLSocket.h	79;"	d
+WSADATA	.\matrixSSLSocket.h	/^	typedef int	WSADATA;$/;"	t
+WSAStartup	.\matrixSSLSocket.h	60;"	d
+WSAStartup	.\matrixSSLSocket.h	78;"	d
+WWW	.\wwwdemo\docs\glossary.htm	/^audio clips, video, graphics, or text. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>WWW<\/B><A NAME="WWW"><\/A>$/;"	a
+W_OK	.\CE\wincompat.h	183;"	d
+W_OK	.\uemf.h	229;"	d
+W_OK	.\uemf.h	230;"	d
+W_OK	.\uemf.h	283;"	d
+W_OK	.\uemf.h	284;"	d
+WebPage	.\wwwdemo\docs\glossary.htm	/^<\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>Web Page<\/B><A NAME="WebPage"><\/A> $/;"	a
+WebServer	.\wwwdemo\docs\glossary.htm	/^<BR>An HTML document on the Web, usually one of many that together make up a Web site. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>Web Server<A NAME="WebServer"><\/A><\/B><BR> $/;"	a
+WeekdayEnumeration	.\webs.c	/^typedef enum { SUN, MON, TUE, WED, THU, FRI, SAT } WeekdayEnumeration;$/;"	t	typeref:enum:__anon4	file:
+WinMain	.\CE\main.c	/^int WINAPI WinMain(HINSTANCE hinstance, HINSTANCE hprevinstance,$/;"	f
+WinMain	.\WIN\main.c	/^int APIENTRY WinMain(HINSTANCE hinstance, HINSTANCE hprevinstance,$/;"	f
+Worder	.\md5c.c	/^static const unsigned char Worder[64] = {$/;"	v	file:
+XML_MAX	.\uemf.h	299;"	d
+X_OK	.\CE\wincompat.h	184;"	d
+X_OK	.\uemf.h	231;"	d
+X_OK	.\uemf.h	232;"	d
+X_OK	.\uemf.h	285;"	d
+X_OK	.\uemf.h	286;"	d
+_STRUCT_TIMEVAL	.\uemf.h	246;"	d
+__NO_CGI_BIN	.\uemf.h	255;"	d
+__NO_EJ_FILE	.\uemf.h	254;"	d
+__NO_FCNTL	.\uemf.h	225;"	d
+__NO_FCNTL	.\uemf.h	256;"	d
+__NO_FCNTL	.\uemf.h	279;"	d
+__NO_PACK	.\uemf.h	156;"	d
+__NO_PACK	.\uemf.h	211;"	d
+__NO_PACK	.\uemf.h	253;"	d
+__TXT	.\uemf.h	322;"	d
+_fileNode	.\default.c	/^typedef struct _fileNode {$/;"	s	file:
+_h_EJ	.\ej.h	11;"	d
+_h_EJINTERNAL	.\ejIntrn.h	11;"	d
+_h_EMFDB	.\emfdb.h	18;"	d
+_h_MD5	.\md5.h	12;"	d
+_h_SSLSOCKET	.\matrixSSLSocket.h	14;"	d
+_h_UEMF	.\uemf.h	11;"	d
+_h_UM	.\um.h	11;"	d
+_h_WEBS	.\webs.h	11;"	d
+_h_WEBSDA	.\websda.h	11;"	d
+_h_WEBS_INTERNAL	.\wsIntrn.h	11;"	d
+_h_WINCOMPAT	.\CE\wincompat.h	9;"	d
+_h_websSSL	.\websSSL.h	11;"	d
+_md5_compress	.\md5c.c	/^static void _md5_compress(psMd5Context_t *md)$/;"	f	file:
+_sslList	.\default.c	/^typedef struct _sslList {$/;"	s	file:
+_stat	.\CE\wincompat.h	/^struct _stat {$/;"	s
+_waccess	.\CE\wincompat.c	/^int _waccess(const unsigned short *path, int mode)$/;"	f
+_wasctime	.\CE\wincompat.c	/^char_t *_wasctime(const struct tm *timeptr)$/;"	f
+_wchdir	.\CE\wincompat.c	/^int _wchdir(unsigned short *path)$/;"	f
+_wchmod	.\CE\wincompat.c	/^int _wchmod(const char_t *filename, int pmode)$/;"	f
+_wctime	.\CE\wincompat.c	/^char_t* _wctime(const time_t *timer)$/;"	f
+_wexecvp	.\CE\wincompat.c	/^int _wexecvp(char_t *path, char_t** argv)$/;"	f
+_wgetcwd	.\CE\wincompat.c	/^char_t *_wgetcwd(char_t *dir, int len)$/;"	f
+_wmkdir	.\CE\wincompat.c	/^int _wmkdir(const char_t *path)$/;"	f
+_wopen	.\CE\wincompat.c	/^int _wopen(const char_t *path, int oflag, ...)$/;"	f
+_wrename	.\CE\wincompat.c	/^int _wrename(const char_t *oldname, const char_t *newname)$/;"	f
+_wrmdir	.\CE\wincompat.c	/^int _wrmdir(const char_t *path)$/;"	f
+_wstat	.\CE\wincompat.c	/^int _wstat(char_t *filename, struct _stat *sbuf)$/;"	f
+_wunlink	.\CE\wincompat.c	/^int _wunlink(char_t *file)$/;"	f
+a_assert	.\uemf.h	605;"	d
+a_assert	.\uemf.h	607;"	d
+accept	.\uemf.h	/^	socketAccept_t	accept;					\/* Accept handler *\/$/;"	m	struct:__anon16
+access	.\wsIntrn.h	/^	long			access;					\/* Access violations *\/$/;"	m	struct:__anon25
+accessColumnNames	.\um.c	/^char_t	*accessColumnNames[NUMBER_OF_ACCESS_COLUMNS] = {$/;"	v
+accessColumnTypes	.\um.c	/^int		accessColumnTypes[NUMBER_OF_ACCESS_COLUMNS] = {$/;"	v
+accessMeth_t	.\um.h	/^} accessMeth_t;$/;"	t	typeref:enum:__anon7
+accessTable	.\um.c	/^dbTable_t accessTable = {$/;"	v
+activeBrowserRequests	.\wsIntrn.h	/^	long			activeBrowserRequests;$/;"	m	struct:__anon25
+activeNetRequests	.\wsIntrn.h	/^	long			activeNetRequests;$/;"	m	struct:__anon25
+algorithm	.\wwwdemo\docs\glossary.htm	/^<\/P><\/BLOCKQUOTE><P><B>algorithm<A NAME="algorithm"><\/A><\/B><BR>$/;"	a
+alloc	.\balloc.c	/^	long	alloc;								\/* Block allocation calls *\/$/;"	m	struct:__anon18	file:
+allocated	.\balloc.c	/^	long	allocated;							\/* Bytes currently allocated *\/$/;"	m	struct:__anon19	file:
+allocated	.\uemf.h	/^	unsigned int	allocated	: 8;		\/* String was balloced *\/$/;"	m	struct:__anon10
+appendString	.\ejparse.c	/^static void appendString(char_t **ptr, char_t *s)$/;"	f	file:
+arg	.\uemf.h	/^	int				arg;					\/* Parameter value *\/$/;"	m	struct:sym_t
+arg	.\websuemf.c	/^	void	*arg;$/;"	m	struct:__anon6	file:
+arg	.\wsIntrn.h	/^	int		arg;							\/* Argument to provide to handler *\/$/;"	m	struct:__anon24
+argp	.\cgi.c	/^	char_t	**argp;				\/* pointer to buf containing argv tokens *\/$/;"	m	struct:__anon22	file:
+args	.\ejIntrn.h	/^	char_t		**args;							\/* Args for function (halloc) *\/$/;"	m	struct:__anon23
+ascToUni	.\misc.c	/^char_t *ascToUni(char_t *ubuf, char *str, int nBytes)$/;"	f
+asp	.\wwwdemo\docs\glossary.htm	/^<\/TABLE><P><B>active server pages<\/B> (ASP)<A NAME="asp"><\/A><BR>A  standard developed by Microsoft to serve Web pages with dynamic content. An ASP document has an ".asp" extension and uses embedded scripting to insert dynamic data into the page before it is sent to the user's browser.$/;"	a
+asp	.\wwwdemo\over\architecture.htm	/^<TR><TD WIDTH="21%">asp.c <A NAME="asp"><\/A><\/TD><TD WIDTH="79%">Active server page support <\/TD><\/TR>$/;"	a
+aspGenerateAccessLimitList	.\umui.c	/^static int aspGenerateAccessLimitList(int eid, webs_t wp, $/;"	f	file:
+aspGenerateAccessMethodList	.\umui.c	/^static int aspGenerateAccessMethodList(int eid, webs_t wp, $/;"	f	file:
+aspGenerateGroupList	.\umui.c	/^static int aspGenerateGroupList(int eid, webs_t wp, int argc, char_t **argv)$/;"	f	file:
+aspGeneratePrivilegeList	.\umui.c	/^static int aspGeneratePrivilegeList(int eid, webs_t wp, $/;"	f	file:
+aspGenerateUserList	.\umui.c	/^static int aspGenerateUserList(int eid, webs_t wp, int argc, char_t **argv)$/;"	f	file:
+aspOpenCount	.\asp.c	/^static int		aspOpenCount = 0;		\/* count of apps using this module *\/$/;"	v	file:
+aspTest	.\CE\main.c	/^static int aspTest(int eid, webs_t wp, int argc, char_t **argv)$/;"	f	file:
+aspTest	.\ECOS\main.c	/^static int aspTest(int eid, webs_t wp, int argc, char_t **argv)$/;"	f	file:
+aspTest	.\LINUX\main.c	/^static int aspTest(int eid, webs_t wp, int argc, char_t **argv)$/;"	f	file:
+aspTest	.\LYNX\main.c	/^static int aspTest(int eid, webs_t wp, int argc, char_t **argv)$/;"	f	file:
+aspTest	.\MACOSX\main.c	/^static int aspTest(int eid, webs_t wp, int argc, char_t **argv)$/;"	f	file:
+aspTest	.\NW\main.c	/^static int aspTest(int eid, webs_t wp, int argc, char_t **argv)$/;"	f	file:
+aspTest	.\QNX4\main.c	/^static int aspTest(int eid, webs_t wp, int argc, char_t **argv)$/;"	f	file:
+aspTest	.\VXWORKS\main.c	/^static int aspTest(int eid, webs_t wp, int argc, char_t **argv)$/;"	f	file:
+aspTest	.\WIN\main.c	/^static int aspTest(int eid, webs_t wp, int argc, char_t **argv)$/;"	f	file:
+at	.\websuemf.c	/^	time_t	at;$/;"	m	struct:__anon6	file:
+authType	.\webs.h	/^	char_t			*authType;			\/* Authorization type (Basic\/DAA) *\/$/;"	m	struct:websRec
+authentication	.\wwwdemo\docs\glossary.htm	/^numbers, punctuation, and other characters. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>authentication<A NAME="authentication"><\/A>$/;"	a
+bFillBlock	.\balloc.c	/^static void bFillBlock(void *buf, int bufsize)$/;"	f	file:
+bFlags	.\balloc.c	/^static int				bFlags = B_USE_MALLOC;	\/* Default to auto-malloc *\/$/;"	v	file:
+bFreeBuf	.\balloc.c	/^static char				*bFreeBuf;				\/* Pointer to free memory *\/$/;"	v	file:
+bFreeLeft	.\balloc.c	/^static int				bFreeLeft;				\/* Size of free left for use *\/$/;"	v	file:
+bFreeNext	.\balloc.c	/^static char				*bFreeNext;				\/* Pointer to next free mem *\/$/;"	v	file:
+bFreeSize	.\balloc.c	/^static int				bFreeSize;				\/* Size of free memory *\/$/;"	v	file:
+bQhead	.\balloc.c	/^static bType			*bQhead[B_MAX_CLASS];	\/* Per class block q head *\/$/;"	v	file:
+bStackMin	.\balloc.c	/^static void				*bStackMin = (void*) -1;\/* Miniumum stack position *\/$/;"	v	file:
+bStackStart	.\balloc.c	/^static void				*bStackStart;			\/* Starting stack position *\/$/;"	v	file:
+bStats	.\balloc.c	/^static bStatsType		bStats[B_MAX_CLASS];	\/* Per class stats *\/$/;"	v	file:
+bStatsAlloc	.\balloc.c	/^static void bStatsAlloc(B_ARGS_DEC, void *ptr, int q, int size)$/;"	f	file:
+bStatsBallocInUse	.\balloc.c	/^static int 				bStatsBallocInUse = 0;	\/* Memory currently balloced *\/$/;"	v	file:
+bStatsBallocMax	.\balloc.c	/^static int 				bStatsBallocMax = 0;	\/* Max memory ever balloced *\/$/;"	v	file:
+bStatsBlkType	.\balloc.c	/^} bStatsBlkType;$/;"	t	typeref:struct:__anon20	file:
+bStatsBlks	.\balloc.c	/^static bStatsBlkType 	bStatsBlks[B_MAX_BLOCKS];\/* Per block stats *\/$/;"	v	file:
+bStatsBlksMax	.\balloc.c	/^static int			 	bStatsBlksMax = 0;		\/* Max block entry *\/$/;"	v	file:
+bStatsFileSort	.\balloc.c	/^static int bStatsFileSort(const void *cp1, const void *cp2)$/;"	f	file:
+bStatsFileType	.\balloc.c	/^} bStatsFileType;$/;"	t	typeref:struct:__anon19	file:
+bStatsFiles	.\balloc.c	/^static bStatsFileType 	bStatsFiles[B_MAX_FILES];\/* Per file stats *\/$/;"	v	file:
+bStatsFilesMax	.\balloc.c	/^static int			 	bStatsFilesMax = 0;		\/* Max file entry *\/$/;"	v	file:
+bStatsFree	.\balloc.c	/^static void bStatsFree(B_ARGS_DEC, void *ptr, int q, int size)$/;"	f	file:
+bStatsMemInUse	.\balloc.c	/^static int 				bStatsMemInUse = 0;		\/* Memory currently in use *\/$/;"	v	file:
+bStatsMemMalloc	.\balloc.c	/^static int 				bStatsMemMalloc = 0;	\/* Malloced memory *\/$/;"	v	file:
+bStatsMemMax	.\balloc.c	/^static int 				bStatsMemMax = 0;		\/* Max memory ever used *\/$/;"	v	file:
+bStatsType	.\balloc.c	/^} bStatsType;$/;"	t	typeref:struct:__anon18	file:
+bType	.\uemf.h	/^} bType;$/;"	t	typeref:struct:__anon13
+badPath	.\default.c	/^static int badPath(char_t* path, char_t* badPath, int badLen)$/;"	f	file:
+balloc	.\balloc.c	/^void *balloc(B_ARGS_DEC, int size)$/;"	f
+balloc	.\uemf.h	925;"	d
+balloc	.\uemf.h	939;"	d
+ballocAscToUni	.\misc.c	/^char_t *ballocAscToUni(char *cp, int alen)$/;"	f
+ballocGetSize	.\balloc.c	/^static int ballocGetSize(int size, int *q)$/;"	f	file:
+ballocUniToAsc	.\misc.c	/^char *ballocUniToAsc(char_t *unip, int ulen)$/;"	f
+basename	.\misc.c	/^char_t *basename(char_t *name)$/;"	f
+basicDefaultDir	.\emfdb.c	/^static char_t	*basicDefaultDir = T("."); \/* Default set to current *\/$/;"	v	file:
+basicGetAddress	.\uemf.c	/^char_t *basicGetAddress()$/;"	f
+basicGetProduct	.\uemf.c	/^char_t *basicGetProduct()$/;"	f
+basicGetProductDir	.\emfdb.c	/^char_t *basicGetProductDir()$/;"	f
+basicProdDir	.\emfdb.c	/^static char_t	*basicProdDir = NULL;		$/;"	v	file:
+basicSetProductDir	.\emfdb.c	/^void basicSetProductDir(char_t *proddir)$/;"	f
+basicauthentication	.\wwwdemo\docs\glossary.htm	/^<\/B><BR>The positive identification of a network entity such as a server,  client, or  user. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>basic authentication<A NAME="basicauthentication"><\/A><\/B><BR>A method for a server to verify the identity of a client making a request for a document. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>bandwidth<A NAME="bandwidth"><\/A><\/B><BR> $/;"	a
+bclose	.\balloc.c	/^void bclose()$/;"	f
+bfree	.\balloc.c	/^void bfree(B_ARGS_DEC, void *mp)$/;"	f
+bfree	.\uemf.h	926;"	d
+bfree	.\uemf.h	940;"	d
+bfreeSafe	.\balloc.c	/^void bfreeSafe(B_ARGS_DEC, void *mp)$/;"	f
+bfreeSafe	.\uemf.h	927;"	d
+bfreeSafe	.\uemf.h	941;"	d
+big	.\uemf.h	/^		long	big[2];$/;"	m	union:__anon10::__anon11
+big	.\uemf.h	/^	big			= 7,$/;"	e	enum:__anon9
+bool_t	.\um.h	/^typedef short bool_t;$/;"	t
+bopen	.\balloc.c	/^int bopen(void *buf, int bufsize, int flags)$/;"	f
+bopenCount	.\balloc.c	/^static int				bopenCount = 0;			\/* Num tasks using balloc *\/$/;"	v	file:
+brealloc	.\balloc.c	/^void *brealloc(B_ARGS_DEC, void *mp, int newsize)$/;"	f
+brealloc	.\uemf.h	929;"	d
+brealloc	.\uemf.h	942;"	d
+browser	.\wwwdemo\docs\glossary.htm	/^<\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>browser<\/B><A NAME="browser"><\/A>$/;"	a
+bstats	.\balloc.c	/^void bstats(int handle, void (*writefn)(int handle, char_t *fmt, ...))$/;"	f
+bstatsWrite	.\balloc.c	/^static void bstatsWrite(int handle, char_t *fmt, ...)$/;"	f	file:
+bstrdup	.\balloc.c	/^char_t *bstrdup(B_ARGS_DEC, char_t *s)$/;"	f
+bstrdup	.\uemf.h	932;"	d
+bstrdup	.\uemf.h	943;"	d
+bstrdupA	.\balloc.c	/^char *bstrdupA(B_ARGS_DEC, char *s)$/;"	f
+bstrdupA	.\uemf.h	933;"	d
+bstrdupA	.\uemf.h	946;"	d
+bstrdupA	.\uemf.h	948;"	d
+bstrdupA	.\uemf.h	963;"	d
+bstrdupANoBalloc	.\balloc.c	/^char *bstrdupANoBalloc(char *s)$/;"	f
+bstrdupNoBalloc	.\balloc.c	/^char_t *bstrdupNoBalloc(char_t *s)$/;"	f
+buf	.\md5.h	/^    unsigned char buf[64];$/;"	m	struct:__anon21
+buf	.\uemf.h	/^	unsigned char	*buf;				\/* Holding buffer for data *\/$/;"	m	struct:__anon12
+bufferIndexIncrementGivenNTest	.\webs.c	/^static int bufferIndexIncrementGivenNTest(char_t *buf, int testIndex, char_t testChar, $/;"	f	file:
+buflen	.\uemf.h	/^	int				buflen;				\/* Length of ring queue *\/$/;"	m	struct:__anon12
+byteint	.\uemf.h	/^		char	byteint;$/;"	m	union:__anon10::__anon11
+byteint	.\uemf.h	/^	byteint		= 1,$/;"	e	enum:__anon9
+bytes	.\uemf.h	/^		char	*bytes;$/;"	m	union:__anon10::__anon11
+bytes	.\uemf.h	/^	bytes 		= 11,$/;"	e	enum:__anon9
+caddr_t	.\CE\wincompat.h	/^typedef char* caddr_t;$/;"	t
+calcPrime	.\sym.c	/^static int calcPrime(int size)$/;"	f	file:
+ceCwd	.\CE\wincompat.c	/^static char_t ceCwd[LF_PATHSIZE];$/;"	v	file:
+centerWindowOnDisplay	.\WIN\main.c	/^static void centerWindowOnDisplay(HWND hwndCenter)$/;"	f	file:
+certificate	.\wwwdemo\docs\glossary.htm	/^World Wide Web. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>certificate<\/B><A NAME="certificate"><\/A><BR>A file used for authenticating network entities under the SSL protocol. A certificate $/;"	a
+cgi	.\wwwdemo\over\architecture.htm	/^<TR><TD WIDTH="21%">cgi.c<A NAME="cgi"><\/A><\/TD><TD WIDTH="79%">Standard CGI support<\/TD><\/TR>$/;"	a
+cgi	.\wwwdemo\over\cgi.htm	/^<\/P><H3>CGI for VxWorks<A NAME="cgi"><\/A><\/H3><P>CGI's standard implementation requires that standalone processes be executed and  their outputs returned to the browser via the WebServer.  In VxWorks, processes are not  implemented, but rather tasks are.  In addition to  understanding the mechanisms used in the implementation of VxWorks CGI tasks, developers of CGI processes must  be aware of the differences between processes on other operating systems  and tasks on VxWorks.<\/P><OL><OL><LI>VxWorks tasks can be spawned using code already loaded in memory.  On VxWorks systems with no file system, the CGI task code can be included in the operating system image and is not necessarily contained in a file.<\/LI><LI>If the CGI code is contained in a file, a browser request  for it will cause it to be loaded into memory prior to its execution.  It will be unloaded and reloaded each time it is invoked, which allows the  upgrading to a new version between invocations.<\/LI><LI>The  VxWorks taskSpawn API is used to spawn the CGI  task.<\/LI><LI>An entry point symbol name must be used to spawn the task.  The request for the CGI process can define this entry point name in the request by including the query string keyword=value pair &quot;cgientry=symbolname&quot;,  where symbolname is a function name in the CGI code that is to be executed.  If cgientry is not defined in this way, a default entry name will be searched for in the loaded code.  The default name is &quot;basename_cgientry&quot;,  where basename is the name of the requested CGI process minus any file extension or path information (e.g.,  if the request is for &quot;cgi-bin\/cgitest.out&quot;, the default entry point symbol name will be &quot;cgitest_cgientry&quot;).  If the entry point symbol name is not found or if the requested module cannot be loaded, the CGI request will fail.<\/LI><LI>The priority of the spawned task will be the same priority at which    WebServer is running. <\/LI><LI>The stack size of the spawned task is 20,000 bytes.<\/LI><LI>The task name will be the same as the entry point name.<\/LI><LI>The standard CGI environment variables are copied to the task environment.  They can be retrieved\/modified by the getenv\/putenv APIs.<\/LI><LI>Command line arguments (if any) are passed to the user's entry point via a (int argc, char **argv) standard convention, where argc is the number of arguments and argv is an array of strings.<\/LI><LI>As   in standard CGI processes, the VxWorks CGI task can retrieve additional POST data from the standard input device and must write any output to be returned to the client to the standard output device.  These devices are actually temporary files where  stdin and stdout have been redirected.<\/LI><LI>User-defined CGI task codes should always be terminated with  a  return rather than an  exit API. This allows environment space and redirected I\/O files used by the task to be cleaned up and released back to the operating system appropriately.   <\/LI><\/OL><\/OL><P><\/P><H3>Environment Variables<\/H3><P>Input to Standard CGIs is   accomplished mainly through these environment variables:<\/P><P>$/;"	a
+cgiHits	.\wsIntrn.h	/^	long 			cgiHits;$/;"	m	struct:__anon25
+cgiList	.\cgi.c	/^static cgiRec	**cgiList;		\/* hAlloc chain list of wp's to be closed *\/$/;"	v	file:
+cgiMax	.\cgi.c	/^static int		cgiMax;			\/* Size of hAlloc list *\/$/;"	v	file:
+cgiPath	.\cgi.c	/^	char_t	*cgiPath;			\/* path to executable process file *\/$/;"	m	struct:__anon22	file:
+cgiQuery	.\webs.h	/^	sym_fd_t		cgiQuery;			\/* CGI decoded query string *\/$/;"	m	struct:websRec
+cgiRec	.\cgi.c	/^} cgiRec;$/;"	t	typeref:struct:__anon22	file:
+cgiStdin	.\webs.h	/^	char_t			*cgiStdin;			\/* filename for CGI stdin *\/$/;"	m	struct:websRec
+cgiVars	.\webs.h	/^	sym_fd_t		cgiVars;			\/* CGI standard variables *\/$/;"	m	struct:websRec
+charConvert	.\ejlex.c	/^static int charConvert(ej_t* ep, int base, int maxDig)$/;"	f	file:
+charCount	.\webs.c	/^static int charCount(const char_t* str, char_t ch)$/;"	f	file:
+char_t	.\uemf.h	/^typedef char				char_t;$/;"	t
+char_t	.\uemf.h	/^typedef unsigned short 		char_t;$/;"	t
+chdir	.\uemf.h	566;"	d
+checkWindowsMsgLoop	.\WIN\main.c	/^WPARAM checkWindowsMsgLoop()$/;"	f
+child	.\default.c	/^	struct _fileNode *child;	\/* Non-NULL if this is a directory with child *\/$/;"	m	struct:_fileNode	typeref:struct:_fileNode::_fileNode	file:
+cipher	.\wwwdemo\docs\glossary.htm	/^these signatures using CA certificates. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>cipher<A NAME="cipher"><\/A><\/B>$/;"	a
+ciphertext	.\wwwdemo\docs\glossary.htm	/^<\/P><\/BLOCKQUOTE><P><B>ciphertext<A NAME="ciphertext"><\/A><\/B>$/;"	a
+clearString	.\ejparse.c	/^static void clearString(char_t **ptr)$/;"	f	file:
+clen	.\webs.h	/^	int				clen;				\/* Content length *\/$/;"	m	struct:websRec
+client	.\wwwdemo\docs\glossary.htm	/^<BR>Encrypted data. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>client<\/B><A NAME="client"><\/A> $/;"	a
+client-server	.\wwwdemo\docs\glossary.htm	/^more specific kinds of server programs. Each server required a specific kind of client. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>client-server<\/B><A NAME="client-server"><\/A><BR>The model of interaction in a distributed system in which a program at one $/;"	a
+close	.\CE\wincompat.c	/^int close(int fid)$/;"	f
+close	.\uemf.h	563;"	d
+closesocket	.\matrixSSLSocket.h	58;"	d
+closesocket	.\matrixSSLSocket.h	76;"	d
+cnonce	.\webs.h	/^    char_t			*cnonce;	\/* check nonce *\/$/;"	m	struct:websRec
+code	.\webs.h	/^	int				code;				\/* Request result code *\/$/;"	m	struct:websRec
+code	.\wsIntrn.h	/^	int		code;							\/* HTTP error code *\/$/;"	m	struct:__anon26
+columnNames	.\emfdb.h	/^	char_t	**columnNames;$/;"	m	struct:dbTable_s
+columnTypes	.\emfdb.h	/^	int		*columnTypes;$/;"	m	struct:dbTable_s
+compile	.\utils\webcomp.c	/^static int compile(char *fileList, char *prefix)$/;"	f	file:
+content	.\uemf.h	/^	value_t			content;				\/* Value of symbol *\/$/;"	m	struct:sym_t
+cookie	.\webs.h	/^	char_t			*cookie;			\/* Cookie string *\/$/;"	m	struct:websRec
+count	.\balloc.c	/^	long	count;								\/* Current block count *\/$/;"	m	struct:__anon19	file:
+count	.\misc.c	/^	int		count;						\/* Buffer count *\/$/;"	m	struct:__anon5	file:
+crack	.\emfdb.c	/^static int crack(char_t *buf, char_t **key, char_t **val)$/;"	f	file:
+createAboutBox	.\WIN\main.c	/^static int createAboutBox(HINSTANCE hInstance, HWND hwnd)$/;"	f	file:
+cron_t	.\uemf.h	/^} cron_t;$/;"	t	typeref:struct:__anon15
+curlen	.\md5.h	/^    ulong32 state[4], curlen;$/;"	m	struct:__anon21
+currPt	.\matrixSSLSocket.h	/^	char				*currPt;	\/* app data current location *\/$/;"	m	struct:__anon8
+currentEvents	.\uemf.h	/^	int				currentEvents;			\/* Mask of ready events (FD_xx) *\/$/;"	m	struct:__anon16
+dateParse	.\webs.c	/^static time_t dateParse(time_t tip, char_t *cmd)$/;"	f	file:
+dateToTimet	.\webs.c	/^static time_t dateToTimet(int year, int month, int day) $/;"	f	file:
+day	.\uemf.h	/^	char_t	*day;$/;"	m	struct:__anon15
+dayofweek	.\uemf.h	/^	char_t	*dayofweek;$/;"	m	struct:__anon15
+days	.\CE\wincompat.c	/^static char_t *days[] = {$/;"	v	file:
+dbAddRow	.\emfdb.c	/^int dbAddRow(int did, char_t *tablename)$/;"	f
+dbClose	.\emfdb.c	/^void dbClose(int did)$/;"	f
+dbDeleteRow	.\emfdb.c	/^int dbDeleteRow(int did, char_t *tablename, int row)$/;"	f
+dbGetTableId	.\emfdb.c	/^int dbGetTableId(int did, char_t *tablename)$/;"	f
+dbGetTableName	.\emfdb.c	/^char_t *dbGetTableName(int did, int tid)$/;"	f
+dbGetTableNrow	.\emfdb.c	/^int dbGetTableNrow(int did, char_t *tablename)$/;"	f
+dbListTables	.\emfdb.c	/^static dbTable_t	**dbListTables = NULL;$/;"	v	file:
+dbLoad	.\emfdb.c	/^int dbLoad(int did, char_t *filename, int flags)$/;"	f
+dbMaxTables	.\emfdb.c	/^static int			dbMaxTables = 0;$/;"	v	file:
+dbOpen	.\emfdb.c	/^int dbOpen(char_t *tablename, char_t *filename, $/;"	f
+dbReadInt	.\emfdb.c	/^int dbReadInt(int did, char_t *table, char_t *column, int row, int *returnValue)$/;"	f
+dbReadStr	.\emfdb.c	/^int dbReadStr(int did, char_t *table, char_t *column, int row,$/;"	f
+dbRegisterDBSchema	.\emfdb.c	/^int dbRegisterDBSchema(dbTable_t *pTableRegister)$/;"	f
+dbSave	.\emfdb.c	/^int dbSave(int did, char_t *filename, int flags)$/;"	f
+dbSearchStr	.\emfdb.c	/^int dbSearchStr(int did, char_t *tablename, $/;"	f
+dbSetTableNrow	.\emfdb.c	/^int dbSetTableNrow(int did, char_t *tablename, int nNewRows)$/;"	f
+dbTable_s	.\emfdb.h	/^typedef struct dbTable_s {$/;"	s
+dbTable_t	.\emfdb.h	/^} dbTable_t;$/;"	t	typeref:struct:dbTable_s
+dbWriteInt	.\emfdb.c	/^int dbWriteInt(int did, char_t *table, char_t *column, int row, int iData)$/;"	f
+dbWriteKeyValue	.\emfdb.c	/^static int dbWriteKeyValue(int fd, char_t *key, char_t *value)$/;"	f	file:
+dbWriteStr	.\emfdb.c	/^int dbWriteStr(int did, char_t *table, char_t *column, int row, char_t *s)$/;"	f
+dbZero	.\emfdb.c	/^void dbZero(int did)$/;"	f
+debugSecurity	.\security.c	/^static int		debugSecurity = 0;$/;"	v	file:
+debugSecurity	.\security.c	/^static int		debugSecurity = 1;$/;"	v	file:
+decodedQuery	.\webs.h	/^	char_t			*decodedQuery;		\/* Decoded request query *\/$/;"	m	struct:websRec
+defaultErrorHandler	.\uemf.c	/^void defaultErrorHandler(int etype, char_t *msg)$/;"	f
+defaultTraceHandler	.\uemf.c	/^void defaultTraceHandler(int level, char_t *buf)$/;"	f
+demoWeb	.\CE\main.c	/^static char_t		*demoWeb = T("\/wwwdemo");		\/* Root web directory *\/$/;"	v	file:
+demoWeb	.\LINUX\main.c	/^static char_t		*demoWeb = T("wwwdemo");		\/* Root web directory *\/$/;"	v	file:
+demoWeb	.\LYNX\main.c	/^static char_t		*demoWeb = T("wwwdemo");		\/* Root web directory *\/$/;"	v	file:
+demoWeb	.\MACOSX\main.c	/^static char_t		*demoWeb = T("wwwdemo");		\/* Root web directory *\/$/;"	v	file:
+demoWeb	.\NW\main.c	/^static char_t     *demoWeb = T("wwwdemo");   \/* Root web directory *\/$/;"	v	file:
+demoWeb	.\QNX4\main.c	/^static char_t		*demoWeb = T("wwwdemo");		\/* Root web directory *\/$/;"	v	file:
+demoWeb	.\VXWORKS\main.c	/^static char_t		*demoWeb = T("wwwdemo");		\/* Root web directory *\/$/;"	v	file:
+demoWeb	.\WIN\main.c	/^static char_t	*demoWeb = T("wwwdemo");		\/* Root web directory *\/$/;"	v	file:
+didUM	.\um.c	/^static int		didUM = -1;	$/;"	v	file:
+digest	.\webs.h	/^    char_t			*digest;	\/* digest form of user password *\/$/;"	m	struct:websRec
+digestauthentication	.\wwwdemo\docs\glossary.htm	/^handles input and output according to the CGI standard.  CGI-scripts are usually written in the PERL or C programming languages. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A> <\/P><\/BLOCKQUOTE><P><B>digest access authentication<\/B> (DAA)<B><A NAME="digestauthentication"><\/A><\/B>$/;"	a
+dir	.\webs.h	/^	char_t			*dir;				\/* Directory containing the page *\/$/;"	m	struct:websRec
+dirname	.\misc.c	/^char_t *dirname(char_t *buf, char_t *name, int bufsize)$/;"	f
+docfd	.\webs.h	/^	int				docfd;				\/* Document file descriptor *\/$/;"	m	struct:websRec
+domainname	.\wwwdemo\docs\glossary.htm	/^<BR>Digest access authentication is an  authentication scheme for HTTP that is more secure than  the basic authentication scheme. Its  primary advantage  is that passwords are never transmitted across the Internet in an unencrypted form. A second advantage is that the integrity of the URL data is certified. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A>  <\/P><\/BLOCKQUOTE><P><B>domain name<\/B><A NAME="domainname"><\/A>$/;"	a
+dsnprintf	.\misc.c	/^static int dsnprintf(char_t **s, int size, char_t *fmt, va_list arg, int msize)$/;"	f	file:
+dstflag	.\CE\wincompat.h	/^	short dstflag;			\/* daylight savings *\/$/;"	m	struct:timeb
+eid	.\ejIntrn.h	/^	int			eid;							\/* Halloc handle *\/$/;"	m	struct:ej
+ej	.\ejIntrn.h	/^typedef struct ej {$/;"	s
+ejArgs	.\ejparse.c	/^int ejArgs(int argc, char_t **argv, char_t *fmt, ...)$/;"	f
+ejCloseBlock	.\ejparse.c	/^int ejCloseBlock(int eid, int vid)$/;"	f
+ejCloseEngine	.\ejparse.c	/^void ejCloseEngine(int eid)$/;"	f
+ejError	.\ejparse.c	/^void ejError(ej_t* ep, char_t* fmt, ...)$/;"	f
+ejEval	.\ejIntrn.h	/^typedef struct ejEval {$/;"	s
+ejEval	.\ejparse.c	/^char_t *ejEval(int eid, char_t *script, char_t **emsg)$/;"	f
+ejEvalBlock	.\ejparse.c	/^char_t *ejEvalBlock(int eid, char_t *script, char_t **emsg)$/;"	f
+ejEvalFile	.\ejparse.c	/^char_t *ejEvalFile(int eid, char_t *path, char_t **emsg)$/;"	f
+ejGetFunctionTable	.\ejparse.c	/^sym_fd_t ejGetFunctionTable(int eid)$/;"	f
+ejGetGlobalFunction	.\ejparse.c	/^void *ejGetGlobalFunction(int eid, char_t *name)$/;"	f
+ejGetLineNumber	.\ejparse.c	/^int ejGetLineNumber(int eid)$/;"	f
+ejGetResult	.\ejparse.c	/^char_t *ejGetResult(int eid)$/;"	f
+ejGetUserHandle	.\ejparse.c	/^void* ejGetUserHandle(int eid)$/;"	f
+ejGetVar	.\ejparse.c	/^int ejGetVar(int eid, char_t *var, char_t **value)$/;"	f
+ejGetVariableTable	.\ejparse.c	/^sym_fd_t ejGetVariableTable(int eid)$/;"	f
+ejHandles	.\ejparse.c	/^ej_t			**ejHandles;							\/* List of ej handles *\/$/;"	v
+ejLexClose	.\ejlex.c	/^void ejLexClose(ej_t* ep)$/;"	f
+ejLexCloseScript	.\ejlex.c	/^void ejLexCloseScript(ej_t* ep)$/;"	f
+ejLexFreeInputState	.\ejlex.c	/^void ejLexFreeInputState(ej_t* ep, ejinput_t* state)$/;"	f
+ejLexGetToken	.\ejlex.c	/^int ejLexGetToken(ej_t* ep, int state)$/;"	f
+ejLexOpen	.\ejlex.c	/^int ejLexOpen(ej_t* ep)$/;"	f
+ejLexOpenScript	.\ejlex.c	/^int ejLexOpenScript(ej_t* ep, char_t *script)$/;"	f
+ejLexPutbackToken	.\ejlex.c	/^void ejLexPutbackToken(ej_t* ep, int tid, char_t *string)$/;"	f
+ejLexRestoreInputState	.\ejlex.c	/^void ejLexRestoreInputState(ej_t* ep, ejinput_t* state)$/;"	f
+ejLexSaveInputState	.\ejlex.c	/^void ejLexSaveInputState(ej_t* ep, ejinput_t* state)$/;"	f
+ejMax	.\ejparse.c	/^int				ejMax = -1;								\/* Maximum size of	*\/$/;"	v
+ejOpenBlock	.\ejparse.c	/^int ejOpenBlock(int eid)$/;"	f
+ejOpenEngine	.\ejparse.c	/^int ejOpenEngine(sym_fd_t variables, sym_fd_t functions)$/;"	f
+ejPtr	.\ejparse.c	/^static ej_t *ejPtr(int eid)$/;"	f	file:
+ejRemoveGlobalFunction	.\ejparse.c	/^int ejRemoveGlobalFunction(int eid, char_t *name)$/;"	f
+ejRemoveNewlines	.\ejparse.c	/^static void ejRemoveNewlines(ej_t *ep, int state)$/;"	f	file:
+ejSetGlobalFunction	.\ejparse.c	/^int ejSetGlobalFunction(int eid, char_t *name,$/;"	f
+ejSetGlobalFunctionDirect	.\ejparse.c	/^int ejSetGlobalFunctionDirect(sym_fd_t functions, char_t *name,$/;"	f
+ejSetGlobalVar	.\ejparse.c	/^void ejSetGlobalVar(int eid, char_t *var, char_t *value)$/;"	f
+ejSetLocalVar	.\ejparse.c	/^void ejSetLocalVar(int eid, char_t *var, char_t *value)$/;"	f
+ejSetResult	.\ejparse.c	/^void ejSetResult(int eid, char_t *s)$/;"	f
+ejSetUserHandle	.\ejparse.c	/^void ejSetUserHandle(int eid, void* handle)$/;"	f
+ejSetVar	.\ejparse.c	/^void ejSetVar(int eid, char_t *var, char_t *value)$/;"	f
+ej_t	.\ejIntrn.h	/^} ej_t;$/;"	t	typeref:struct:ej
+ejfunc_t	.\ejIntrn.h	/^} ejfunc_t;$/;"	t	typeref:struct:__anon23
+ejinput_t	.\ejIntrn.h	/^} ejinput_t;$/;"	t	typeref:struct:ejEval
+ejlex	.\wwwdemo\over\architecture.htm	/^<TR><TD WIDTH="21%">ejlex.c<A NAME="ejlex"><\/A><\/TD><TD WIDTH="79%">Embedded JavaScript lexical analyser<\/TD><\/TR>$/;"	a
+ejparse	.\wwwdemo\over\architecture.htm	/^<TR><TD WIDTH="21%">ejparse.c <A NAME="ejparse"><\/A><\/TD><TD WIDTH="79%">Embedded JavaScript parser and API <\/TD><\/TR>$/;"	a
+elementsof	.\uemf.h	610;"	d
+embeddedwebserver	.\wwwdemo\docs\glossary.htm	/^<\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>embedded Web server<A NAME="embeddedwebserver"><\/A> $/;"	a
+emfInst	.\uemf.c	/^int emfInst;							\/* Application instance handle *\/$/;"	v
+emfInstGet	.\uemf.c	/^int emfInstGet()$/;"	f
+emfInstSet	.\uemf.c	/^void emfInstSet(int inst)$/;"	f
+emfReschedCallback	.\websuemf.c	/^void emfReschedCallback(int schedid, int delay)$/;"	f
+emfSchedCallback	.\websuemf.c	/^int emfSchedCallback(int delay, emfSchedProc *proc, void *arg)$/;"	f
+emfSchedProc	.\uemf.h	/^typedef void	(emfSchedProc)(void *data, int id);$/;"	t
+emfSchedProcess	.\websuemf.c	/^void emfSchedProcess()$/;"	f
+emfUnschedCallback	.\websuemf.c	/^void emfUnschedCallback(int schedid)$/;"	f
+emfdb	.\wwwdemo\over\architecture.htm	/^<TR><TD WIDTH="21%">emfdb.c<A NAME="emfdb"><\/A><\/TD><TD WIDTH="79%">WebServer database<\/TD><\/TR>$/;"	a
+encryption	.\wwwdemo\docs\glossary.htm	/^                  software engine enables access to the device via any Web browser. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>encryption<A NAME="encryption"><\/A><\/B>$/;"	a
+endbuf	.\uemf.h	/^	unsigned char	*endbuf;			\/* Pointer to end of buffer *\/$/;"	m	struct:__anon12
+endp	.\uemf.h	/^	unsigned char	*endp;				\/* Pointer to end of data *\/$/;"	m	struct:__anon12
+envp	.\cgi.c	/^	char_t	**envp;				\/* pointer to array of environment strings *\/$/;"	m	struct:__anon22	file:
+errmsg	.\uemf.h	/^		char_t	*errmsg;$/;"	m	union:__anon10::__anon11
+errmsg	.\uemf.h	/^	errmsg 		= 13$/;"	e	enum:__anon9
+errno	.\CE\wincompat.c	/^int								errno;$/;"	v
+error	.\ejIntrn.h	/^	char_t		*error;							\/* Error message *\/$/;"	m	struct:ej
+error	.\uemf.c	/^void error(E_ARGS_DEC, int etype, char_t *fmt, ...)$/;"	f
+error	.\uemf.h	/^	int				error;					\/* Last error *\/$/;"	m	struct:__anon16
+errorClose	.\uemf.c	/^void errorClose()$/;"	f
+errorHandler	.\uemf.c	/^static void (*errorHandler)(int etype, char_t *msg) = defaultErrorHandler;$/;"	v	file:
+errorOpen	.\uemf.c	/^int errorOpen(char_t *pname)$/;"	f
+errorSetHandler	.\uemf.c	/^void (*errorSetHandler(void (*function)(int etype, char_t *msg))) \\$/;"	f
+errors	.\wsIntrn.h	/^	long			errors;					\/* General errors *\/$/;"	m	struct:__anon25
+evalCond	.\ejparse.c	/^static int evalCond(ej_t *ep, char_t *lhs, int rel, char_t *rhs)$/;"	f	file:
+evalExpr	.\ejparse.c	/^static int evalExpr(ej_t *ep, char_t *lhs, int rel, char_t *rhs)$/;"	f	file:
+evalFunction	.\ejparse.c	/^static int evalFunction(ej_t *ep)$/;"	f	file:
+ext	.\wsIntrn.h	/^	char_t	*ext;							\/* File extension *\/$/;"	m	struct:__anon27
+f	.\CE\wincompat.c	/^static fh_t			**f;			\/* Array of all open files *\/$/;"	v	file:
+fMax	.\CE\wincompat.c	/^static int			fMax;			\/* Maximum size of f array *\/$/;"	v	file:
+fcntl	.\matrixSSLSocket.h	37;"	d
+fcntl	.\matrixSSLSocket.h	72;"	d
+fcntl	.\uemf.h	555;"	d
+fd	.\matrixSSLSocket.h	/^	SOCKET				fd;$/;"	m	struct:__anon8
+fd_mask	.\uemf.h	/^	typedef int32_t			fd_mask;$/;"	t
+fd_mask	.\uemf.h	/^    typedef long        fd_mask;$/;"	t
+fd_mask	.\uemf.h	275;"	d
+fdopen	.\CE\wincompat.c	/^FILE* fdopen(int handle, const unsigned short *mode)$/;"	f
+fh_t	.\CE\wincompat.c	/^} fh_t;$/;"	t	typeref:struct:__anon2	file:
+file	.\balloc.c	/^	char_t 	file[FNAMESIZE];$/;"	m	struct:__anon19	file:
+fileHandle	.\uemf.h	/^	int				fileHandle;				\/* ID of the file handler *\/$/;"	m	struct:__anon16
+fileNode_t	.\default.c	/^} fileNode_t;$/;"	t	typeref:struct:_fileNode	file:
+fileTimeToUnixEpochTime	.\CE\wincompat.c	/^static time_t fileTimeToUnixEpochTime(FILETIME f)$/;"	f	file:
+finished	.\CE\main.c	/^static int			finished;						\/* Finished flag *\/$/;"	v	file:
+finished	.\ECOS\main.c	/^static int		finished;			\/* Finished flag *\/$/;"	v	file:
+finished	.\LINUX\main.c	/^static int			finished = 0;					\/* Finished flag *\/$/;"	v	file:
+finished	.\LYNX\main.c	/^static int			finished;						\/* Finished flag *\/$/;"	v	file:
+finished	.\MACOSX\main.c	/^static int			finished = 0;					\/* Finished flag *\/$/;"	v	file:
+finished	.\NW\main.c	/^static int        finished;                  \/* Finished flag *\/$/;"	v	file:
+finished	.\QNX4\main.c	/^static int			finished;						\/* Finished flag *\/$/;"	v	file:
+finished	.\VXWORKS\main.c	/^static int			finished;						\/* Finished flag *\/$/;"	v	file:
+finished	.\WIN\main.c	/^static int		finished;						\/* Finished flag *\/$/;"	v	file:
+flag	.\misc.c	/^enum flag {$/;"	g	file:
+flag	.\uemf.h	/^		char	flag;$/;"	m	union:__anon10::__anon11
+flag	.\uemf.h	/^	flag		= 8,$/;"	e	enum:__anon9
+flag_hash	.\misc.c	/^	flag_hash = 8,$/;"	e	enum:flag	file:
+flag_long	.\misc.c	/^	flag_long = 64$/;"	e	enum:flag	file:
+flag_minus	.\misc.c	/^	flag_minus = 1,$/;"	e	enum:flag	file:
+flag_none	.\misc.c	/^	flag_none = 0,$/;"	e	enum:flag	file:
+flag_plus	.\misc.c	/^	flag_plus = 2,$/;"	e	enum:flag	file:
+flag_short	.\misc.c	/^	flag_short = 32,$/;"	e	enum:flag	file:
+flag_space	.\misc.c	/^	flag_space = 4,$/;"	e	enum:flag	file:
+flag_zero	.\misc.c	/^	flag_zero = 16,$/;"	e	enum:flag	file:
+flags	.\default.c	/^	int		flags;				\/* Flags pertaining to this list entry *\/$/;"	m	struct:_fileNode	file:
+flags	.\ejIntrn.h	/^	int			flags;							\/* Flags *\/$/;"	m	struct:ej
+flags	.\misc.c	/^	int		flags;						\/* Allocation flags *\/$/;"	m	struct:__anon5	file:
+flags	.\uemf.h	/^	int				flags;					\/* Current state flags *\/$/;"	m	struct:__anon16
+flags	.\uemf.h	/^	int			flags;							\/* Per block allocation flags *\/$/;"	m	struct:__anon13
+flags	.\webs.h	/^	int				flags;				\/* Current flags -- see above *\/$/;"	m	struct:websRec
+flags	.\wsIntrn.h	/^	int		flags;							\/* Flags *\/$/;"	m	struct:__anon24
+floating	.\uemf.h	/^		double	floating;$/;"	m	union:__anon10::__anon11
+floating	.\uemf.h	/^	floating	= 9,$/;"	e	enum:__anon9
+fmtAlloc	.\misc.c	/^int fmtAlloc(char_t **s, int n, char_t *fmt, ...)$/;"	f
+fmtRealloc	.\misc.c	/^int fmtRealloc(char_t **s, int n, int msize, char_t *fmt, ...)$/;"	f
+fmtStatic	.\misc.c	/^int fmtStatic(char_t *s, int n, char_t *fmt, ...)$/;"	f
+fmtValloc	.\misc.c	/^int fmtValloc(char_t **s, int n, char_t *fmt, va_list arg)$/;"	f
+fname	.\ejIntrn.h	/^	char_t		*fname;							\/* Function name *\/$/;"	m	struct:__anon23
+form	.\wwwdemo\over\architecture.htm	/^<TR><TD WIDTH="21%">form.c<A NAME="form"><\/A><\/TD><TD WIDTH="79%">In-memory forms processor with GCI support<\/TD><\/TR>$/;"	a
+formAddAccessLimit	.\umui.c	/^static void formAddAccessLimit(webs_t wp, char_t *path, char_t *query)$/;"	f	file:
+formAddGroup	.\umui.c	/^static void formAddGroup(webs_t wp, char_t *path, char_t *query)$/;"	f	file:
+formAddUser	.\umui.c	/^static void formAddUser(webs_t wp, char_t *path, char_t *query)$/;"	f	file:
+formDefineUserMgmt	.\umui.c	/^void formDefineUserMgmt(void)$/;"	f
+formDeleteAccessLimit	.\umui.c	/^static void formDeleteAccessLimit(webs_t wp, char_t *path, char_t *query)$/;"	f	file:
+formDeleteGroup	.\umui.c	/^static void formDeleteGroup(webs_t wp, char_t *path, char_t *query)$/;"	f	file:
+formDeleteUser	.\umui.c	/^static void formDeleteUser(webs_t wp, char_t *path, char_t *query)$/;"	f	file:
+formDisplayUser	.\umui.c	/^static void formDisplayUser(webs_t wp, char_t *path, char_t *query)$/;"	f	file:
+formHits	.\wsIntrn.h	/^	long 			formHits;$/;"	m	struct:__anon25
+formLoadUserManagement	.\umui.c	/^static void formLoadUserManagement(webs_t wp, char_t *path, char_t *query)$/;"	f	file:
+formSaveUserManagement	.\umui.c	/^static void formSaveUserManagement(webs_t wp, char_t *path, char_t *query)$/;"	f	file:
+formSymtab	.\form.c	/^static sym_fd_t	formSymtab = -1;			\/* Symbol table for form handlers *\/$/;"	v	file:
+formTest	.\CE\main.c	/^static void formTest(webs_t wp, char_t *path, char_t *query)$/;"	f	file:
+formTest	.\ECOS\main.c	/^static void formTest(webs_t wp, char_t *path, char_t *query)$/;"	f	file:
+formTest	.\LINUX\main.c	/^static void formTest(webs_t wp, char_t *path, char_t *query)$/;"	f	file:
+formTest	.\LYNX\main.c	/^static void formTest(webs_t wp, char_t *path, char_t *query)$/;"	f	file:
+formTest	.\MACOSX\main.c	/^static void formTest(webs_t wp, char_t *path, char_t *query)$/;"	f	file:
+formTest	.\NW\main.c	/^static void formTest(webs_t wp, char_t *path, char_t *query)$/;"	f	file:
+formTest	.\QNX4\main.c	/^static void formTest(webs_t wp, char_t *path, char_t *query)$/;"	f	file:
+formTest	.\VXWORKS\main.c	/^static void formTest(webs_t wp, char_t *path, char_t *query)$/;"	f	file:
+formTest	.\WIN\main.c	/^static void formTest(webs_t wp, char_t *path, char_t *query)$/;"	f	file:
+forw	.\uemf.h	/^	struct sym_t	*forw;					\/* Pointer to next hash list *\/$/;"	m	struct:sym_t	typeref:struct:sym_t::sym_t
+fplacemark	.\cgi.c	/^	long	fplacemark;			\/* seek location for CGI output file *\/$/;"	m	struct:__anon22	file:
+freeFunc	.\ejparse.c	/^static void freeFunc(ejfunc_t *func)$/;"	f	file:
+fstat	.\CE\wincompat.c	/^int fstat(int fid, struct _stat *sbuf)$/;"	f
+ftime	.\CE\wincompat.c	/^void ftime(struct timeb *tp)$/;"	f
+func	.\ejIntrn.h	/^	ejfunc_t	*func;							\/* Current function *\/$/;"	m	struct:ej
+functions	.\ejIntrn.h	/^	sym_fd_t	functions;						\/* Symbol table for functions *\/$/;"	m	struct:ej
+gaccess	.\uemf.h	428;"	d
+gaccess	.\uemf.h	531;"	d
+gasctime	.\uemf.h	383;"	d
+gasctime	.\uemf.h	494;"	d
+gatoi	.\uemf.h	457;"	d
+gatoi	.\uemf.h	546;"	d
+gchdir	.\uemf.h	434;"	d
+gchdir	.\uemf.h	466;"	d
+gchdir	.\uemf.h	470;"	d
+gchdir	.\uemf.h	474;"	d
+gchmod	.\uemf.h	429;"	d
+gchmod	.\uemf.h	481;"	d
+gclose	.\uemf.h	410;"	d
+gclose	.\uemf.h	479;"	d
+gclosedir	.\uemf.h	480;"	d
+gcreat	.\uemf.h	411;"	d
+gcreat	.\uemf.h	520;"	d
+gctime	.\uemf.h	459;"	d
+gctime	.\uemf.h	548;"	d
+getAbsolutePath	.\VXWORKS\main.c	/^static char_t *getAbsolutePath(char_t *path)$/;"	f	file:
+getBinBlockSize	.\ringq.c	/^static int	getBinBlockSize(int size)$/;"	f	file:
+getCGIvars	.\wwwdemo\cgi-bin\cgitest.c	/^char **getCGIvars() $/;"	f
+getLexicalToken	.\ejlex.c	/^static int getLexicalToken(ej_t* ep, int state)$/;"	f	file:
+getSocketError	.\matrixSSLSocket.h	41;"	d
+getSocketError	.\matrixSSLSocket.h	56;"	d
+getSocketError	.\matrixSSLSocket.h	74;"	d
+getcwd	.\uemf.h	560;"	d
+geteuid	.\CE\wincompat.c	/^uid_t geteuid(void)$/;"	f
+getopt	.\CE\wincompat.c	/^int	getopt(int argc, char_t* const * argv, const char_t* opts)$/;"	f
+gexecvp	.\uemf.h	461;"	d
+gexecvp	.\uemf.h	550;"	d
+gfgets	.\uemf.h	412;"	d
+gfgets	.\uemf.h	521;"	d
+gfindclose	.\uemf.h	426;"	d
+gfindclose	.\uemf.h	530;"	d
+gfinddata_t	.\uemf.h	424;"	d
+gfinddata_t	.\uemf.h	528;"	d
+gfindfirst	.\uemf.h	423;"	d
+gfindfirst	.\uemf.h	527;"	d
+gfindnext	.\uemf.h	425;"	d
+gfindnext	.\uemf.h	529;"	d
+gfopen	.\uemf.h	408;"	d
+gfopen	.\uemf.h	519;"	d
+gfprintf	.\uemf.h	386;"	d
+gfprintf	.\uemf.h	497;"	d
+gfputs	.\uemf.h	413;"	d
+gfputs	.\uemf.h	522;"	d
+gfscanf	.\uemf.h	414;"	d
+gfscanf	.\uemf.h	523;"	d
+ggetcwd	.\uemf.h	436;"	d
+ggetcwd	.\uemf.h	482;"	d
+ggetenv	.\uemf.h	460;"	d
+ggetenv	.\uemf.h	549;"	d
+ggets	.\uemf.h	415;"	d
+ggets	.\uemf.h	524;"	d
+gid_t	.\CE\wincompat.h	/^typedef unsigned short gid_t;$/;"	t
+gisalnum	.\uemf.h	455;"	d
+gisalnum	.\uemf.h	542;"	d
+gisalpha	.\uemf.h	456;"	d
+gisalpha	.\uemf.h	543;"	d
+gisdigit	.\uemf.h	442;"	d
+gisdigit	.\uemf.h	450;"	d
+gisdigit	.\uemf.h	540;"	d
+gislower	.\uemf.h	445;"	d
+gislower	.\uemf.h	453;"	d
+gislower	.\uemf.h	545;"	d
+gisprint	.\uemf.h	446;"	d
+gisspace	.\uemf.h	441;"	d
+gisspace	.\uemf.h	449;"	d
+gisspace	.\uemf.h	539;"	d
+gisupper	.\uemf.h	444;"	d
+gisupper	.\uemf.h	452;"	d
+gisupper	.\uemf.h	544;"	d
+gisxdigit	.\uemf.h	443;"	d
+gisxdigit	.\uemf.h	451;"	d
+gisxdigit	.\uemf.h	541;"	d
+gloadModule	.\uemf.h	484;"	d
+glseek	.\uemf.h	416;"	d
+glseek	.\uemf.h	483;"	d
+gmain	.\uemf.h	381;"	d
+gmain	.\uemf.h	552;"	d
+gmkdir	.\uemf.h	433;"	d
+gmkdir	.\uemf.h	467;"	d
+gmkdir	.\uemf.h	471;"	d
+gmkdir	.\uemf.h	475;"	d
+gogetenv	.\wwwdemo\cgi-bin\cgitest.c	/^char *gogetenv(char *varname)$/;"	f
+gopen	.\uemf.h	409;"	d
+gopen	.\uemf.h	485;"	d
+gopendir	.\uemf.h	486;"	d
+gprintf	.\uemf.h	385;"	d
+gprintf	.\uemf.h	496;"	d
+gread	.\uemf.h	418;"	d
+gread	.\uemf.h	487;"	d
+greaddir	.\uemf.h	488;"	d
+gremove	.\uemf.h	448;"	d
+gremove	.\uemf.h	535;"	d
+grename	.\uemf.h	419;"	d
+grename	.\uemf.h	489;"	d
+grmdir	.\uemf.h	435;"	d
+grmdir	.\uemf.h	468;"	d
+grmdir	.\uemf.h	472;"	d
+grmdir	.\uemf.h	476;"	d
+groupColumnNames	.\um.c	/^char_t	*groupColumnNames[NUMBER_OF_GROUP_COLUMNS] = {$/;"	v
+groupColumnTypes	.\um.c	/^int		groupColumnTypes[NUMBER_OF_GROUP_COLUMNS] = {$/;"	v
+groupTable	.\um.c	/^dbTable_t groupTable = {$/;"	v
+gsprintf	.\uemf.h	384;"	d
+gsprintf	.\uemf.h	495;"	d
+gsscanf	.\uemf.h	387;"	d
+gsscanf	.\uemf.h	498;"	d
+gstat	.\uemf.h	427;"	d
+gstat	.\uemf.h	490;"	d
+gstat_t	.\uemf.h	/^typedef struct _stat gstat_t;$/;"	t	typeref:struct:_stat
+gstat_t	.\uemf.h	/^typedef struct stat gstat_t;$/;"	t	typeref:struct:stat
+gstrcat	.\uemf.h	394;"	d
+gstrcat	.\uemf.h	505;"	d
+gstrchr	.\uemf.h	398;"	d
+gstrchr	.\uemf.h	509;"	d
+gstrcmp	.\uemf.h	395;"	d
+gstrcmp	.\uemf.h	506;"	d
+gstrcpy	.\uemf.h	390;"	d
+gstrcpy	.\uemf.h	501;"	d
+gstrcspn	.\uemf.h	404;"	d
+gstrcspn	.\uemf.h	515;"	d
+gstrdup	.\uemf.h	934;"	d
+gstrdup	.\uemf.h	953;"	d
+gstricmp	.\uemf.h	397;"	d
+gstricmp	.\uemf.h	508;"	d
+gstrlen	.\uemf.h	393;"	d
+gstrlen	.\uemf.h	504;"	d
+gstrncat	.\uemf.h	392;"	d
+gstrncat	.\uemf.h	503;"	d
+gstrncmp	.\uemf.h	396;"	d
+gstrncmp	.\uemf.h	507;"	d
+gstrncpy	.\uemf.h	391;"	d
+gstrncpy	.\uemf.h	502;"	d
+gstrnlen	.\misc.c	/^static int gstrnlen(char_t *s, unsigned int n)$/;"	f	file:
+gstrnset	.\uemf.h	401;"	d
+gstrnset	.\uemf.h	512;"	d
+gstrrchr	.\uemf.h	399;"	d
+gstrrchr	.\uemf.h	402;"	d
+gstrrchr	.\uemf.h	510;"	d
+gstrrchr	.\uemf.h	513;"	d
+gstrspn	.\uemf.h	403;"	d
+gstrspn	.\uemf.h	514;"	d
+gstrstr	.\uemf.h	405;"	d
+gstrstr	.\uemf.h	516;"	d
+gstrtoi	.\misc.c	/^unsigned int gstrtoi(char_t *s)$/;"	f
+gstrtok	.\uemf.h	400;"	d
+gstrtok	.\uemf.h	511;"	d
+gstrtol	.\uemf.h	406;"	d
+gstrtol	.\uemf.h	517;"	d
+gtempnam	.\uemf.h	422;"	d
+gtempnam	.\uemf.h	526;"	d
+gtmpnam	.\uemf.h	421;"	d
+gtmpnam	.\uemf.h	525;"	d
+gtolower	.\uemf.h	438;"	d
+gtolower	.\uemf.h	537;"	d
+gtoupper	.\uemf.h	439;"	d
+gtoupper	.\uemf.h	538;"	d
+gunlink	.\uemf.h	417;"	d
+gunlink	.\uemf.h	491;"	d
+gvsprintf	.\uemf.h	388;"	d
+gvsprintf	.\uemf.h	499;"	d
+gwrite	.\uemf.h	420;"	d
+gwrite	.\uemf.h	492;"	d
+hAlloc	.\uemf.h	991;"	d
+hAllocEntry	.\uemf.h	992;"	d
+hFree	.\h.c	/^int hFree(void ***map, int handle)$/;"	f
+hand	.\CE\wincompat.c	/^	HANDLE	hand;$/;"	m	struct:__anon2	file:
+handle	.\cgi.c	/^	int		handle;				\/* process handle of the task *\/$/;"	m	struct:__anon22	file:
+handler	.\uemf.h	/^	socketHandler_t	handler;				\/* User I\/O handler *\/$/;"	m	struct:__anon16
+handler	.\wsIntrn.h	/^	int		(*handler)(webs_t wp, char_t *urlPrefix, char_t *webDir, int arg, $/;"	m	struct:__anon24
+handler	.\wwwdemo\over\architecture.htm	/^<TR><TD WIDTH="21%">handler.c<A NAME="handler"><\/A><\/TD><TD WIDTH="79%">URL handler support<\/TD><\/TR>$/;"	a
+handlerHits	.\wsIntrn.h	/^	long 			handlerHits;$/;"	m	struct:__anon25
+handlerMask	.\uemf.h	/^	int				handlerMask;			\/* Handler events of interest *\/$/;"	m	struct:__anon16
+handler_data	.\uemf.h	/^	void			*handler_data;			\/* User handler data *\/$/;"	m	struct:__anon16
+hash	.\sym.c	/^static sym_t *hash(sym_tabent_t *tp, char_t *name)$/;"	f	file:
+hashIndex	.\sym.c	/^static int hashIndex(sym_tabent_t *tp, char_t *name)$/;"	f	file:
+hash_size	.\sym.c	/^	int		hash_size;					\/* Size of the table below *\/$/;"	m	struct:__anon1	file:
+hash_table	.\sym.c	/^	sym_t	**hash_table;				\/* Allocated at run time *\/$/;"	m	struct:__anon1	file:
+header	.\webs.h	/^	ringq_t			header;				\/* Header dynamic string *\/$/;"	m	struct:websRec
+hex	.\uemf.h	/^		long	hex;$/;"	m	union:__anon10::__anon11
+hex	.\uemf.h	/^	hex			= 4,$/;"	e	enum:__anon9
+hextoi	.\misc.c	/^unsigned int hextoi(char_t *hexstring)$/;"	f
+host	.\uemf.h	/^	char			host[64];				\/* Host name *\/$/;"	m	struct:__anon16
+host	.\webs.h	/^	char_t			*host;				\/* Requested host *\/$/;"	m	struct:websRec
+host	.\wwwdemo\docs\glossary.htm	/^dissimilar protocols.<\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>host<\/B><A NAME="host"><\/A>$/;"	a
+hostname	.\wwwdemo\docs\glossary.htm	/^<B>hostname<\/B><A NAME="hostname"><\/A>$/;"	a
+hour	.\uemf.h	/^	char_t	*hour;$/;"	m	struct:__anon15
+htIndex	.\sym.c	/^static int			htIndex;			\/* Current location in table *\/$/;"	v	file:
+htmExt	.\url.c	/^char_t	htmExt[] = T(".htm");$/;"	v
+hwnd	.\CE\main.c	/^static HWND			hwnd;							\/* Window handle *\/$/;"	v	file:
+hwnd	.\WIN\main.c	/^static HWND		hwnd;							\/* Main Window handle *\/$/;"	v	file:
+hwndAbout	.\WIN\main.c	/^static HWND		hwndAbout;						\/* About Window handle *\/$/;"	v	file:
+hypertext	.\wwwdemo\docs\glossary.htm	/^World Wide Web. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>hypertext<A NAME="hypertext"><\/A><\/B><BR> $/;"	a
+i	.\www\llm.js	/^var i=1;$/;"	v
+ifaddr	.\webs.h	/^	char_t			ifaddr[32];			\/* Local interface ipaddress *\/$/;"	m	struct:websRec
+inBuf	.\uemf.h	/^	ringq_t			inBuf;					\/* Input ring queue *\/$/;"	m	struct:__anon16
+increment	.\uemf.h	/^	int				increment;			\/* Growth increment *\/$/;"	m	struct:__anon12
+initWebs	.\CE\main.c	/^static int initWebs(int demo)$/;"	f	file:
+initWebs	.\ECOS\main.c	/^static int initWebs()$/;"	f	file:
+initWebs	.\LINUX\main.c	/^static int initWebs(int demo)$/;"	f	file:
+initWebs	.\LYNX\main.c	/^static int initWebs(int demo)$/;"	f	file:
+initWebs	.\MACOSX\main.c	/^static int initWebs(int demo)$/;"	f	file:
+initWebs	.\NW\main.c	/^static int initWebs(int demo)$/;"	f	file:
+initWebs	.\QNX4\main.c	/^static int initWebs(int demo)$/;"	f	file:
+initWebs	.\VXWORKS\main.c	/^static int initWebs(int demo)$/;"	f	file:
+initWebs	.\WIN\main.c	/^static int initWebs(int demo)$/;"	f	file:
+input	.\ejIntrn.h	/^	ejinput_t	*input;							\/* Input evaluation block *\/$/;"	m	struct:ej
+inputGetc	.\ejlex.c	/^static int inputGetc(ej_t* ep)$/;"	f	file:
+inputPutback	.\ejlex.c	/^static void inputPutback(ej_t* ep, int c)$/;"	f	file:
+int32	.\md5c.c	/^typedef int             int32;$/;"	t	file:
+integer	.\uemf.h	/^		long	integer;$/;"	m	union:__anon10::__anon11
+integer	.\uemf.h	/^	integer		= 3,$/;"	e	enum:__anon9
+interestEvents	.\uemf.h	/^	int				interestEvents;			\/* Mask of events to watch for *\/$/;"	m	struct:__anon16
+inuse	.\balloc.c	/^	long	inuse;								\/* Blocks in use *\/$/;"	m	struct:__anon18	file:
+inuse	.\sym.c	/^	int		inuse;						\/* Is this entry in use *\/$/;"	m	struct:__anon1	file:
+ipaddr	.\webs.h	/^	char_t			ipaddr[32];			\/* Connecting ipaddress *\/$/;"	m	struct:websRec
+isBadWindowsPath	.\default.c	/^static int isBadWindowsPath(char_t** parts, int partCount)$/;"	f	file:
+isDir	.\wsIntrn.h	/^	int				isDir;					\/* Set if directory *\/$/;"	m	struct:__anon28
+isPrime	.\sym.c	/^static int isPrime(int n)$/;"	f	file:
+isgoodchar	.\webs.c	901;"	d	file:
+kGreaterThan	.\webs.c	1537;"	d	file:
+kGt	.\webs.c	1536;"	d	file:
+kLessThan	.\webs.c	1535;"	d	file:
+kLt	.\webs.c	1534;"	d	file:
+kUseMemcopy	.\misc.c	18;"	d	file:
+largest	.\balloc.c	/^	long	largest;							\/* largest allocated here *\/$/;"	m	struct:__anon19	file:
+len	.\wsIntrn.h	/^	int		len;							\/* Length of urlPrefix for speed *\/$/;"	m	struct:__anon24
+lengthHi	.\md5.h	/^    ulong32 lengthHi;$/;"	m	struct:__anon21
+lengthLo	.\md5.h	/^    ulong32 lengthLo;$/;"	m	struct:__anon21
+line	.\ejIntrn.h	/^	char_t		*line;							\/* Current line *\/$/;"	m	struct:ejEval
+lineBuf	.\uemf.h	/^	ringq_t			lineBuf;				\/* Line ring queue *\/$/;"	m	struct:__anon16
+lineColumn	.\ejIntrn.h	/^	int			lineColumn;						\/* Column in line *\/$/;"	m	struct:ejEval
+lineLength	.\ejIntrn.h	/^	int			lineLength;						\/* Current line length *\/$/;"	m	struct:ejEval
+lineNumber	.\ejIntrn.h	/^	int			lineNumber;						\/* Parse line number *\/$/;"	m	struct:ejEval
+listenSid	.\webs.h	/^	int				listenSid;			\/* Listen Socket id *\/$/;"	m	struct:websRec
+localHits	.\wsIntrn.h	/^	long 			localHits;$/;"	m	struct:__anon25
+localctime	.\CE\wincompat.c	/^static char_t localctime[32];$/;"	v	file:
+localtime	.\CE\wincompat.c	/^struct tm* localtime(const time_t *timer)$/;"	f
+localtime	.\uemf.h	570;"	d
+localtime_r	.\wsIntrn.h	40;"	d
+localtm	.\CE\wincompat.c	/^static struct tm localtm;$/;"	v	typeref:struct:tm	file:
+lpath	.\webs.h	/^	char_t			*lpath;				\/* Cache local path name *\/$/;"	m	struct:websRec
+lpwAlign	.\WIN\main.c	/^static LPWORD lpwAlign(LPWORD lpIn)$/;"	f	file:
+lseek	.\CE\wincompat.c	/^long lseek(int handle, long offset, int origin)$/;"	f
+lseek	.\uemf.h	567;"	d
+main	.\ECOS\main.c	/^int main(int argc, char** argv)$/;"	f
+main	.\LINUX\main.c	/^int main(int argc, char** argv)$/;"	f
+main	.\LYNX\main.c	/^int main(int argc, char **argv)$/;"	f
+main	.\MACOSX\main.c	/^int main(int argc, char** argv)$/;"	f
+main	.\NW\main.c	/^int main(int argc, char** argv)$/;"	f
+main	.\QNX4\main.c	/^int main(int argc, char **argv)$/;"	f
+main	.\utils\webcomp.c	/^int main(int argc, char* argv[])$/;"	f
+main	.\wwwdemo\cgi-bin\cgitest.c	/^int main(int argc, char *argv[])$/;"	f
+main	.\wwwdemo\over\architecture.htm	/^<TR><TD WIDTH="21%">main.c<A NAME="main"><\/A><\/TD><TD WIDTH="79%">Main program and startup for operating system<\/TD><\/TR>$/;"	a
+map64	.\mime64.c	/^static char_t	map64[] = {$/;"	v	file:
+max	.\misc.c	/^	int		max;						\/* Maximum buffer size *\/$/;"	m	struct:__anon5	file:
+max	.\uemf.h	802;"	d
+maxsize	.\uemf.h	/^	int				maxsize;			\/* Maximum size *\/$/;"	m	struct:__anon12
+md5_compress	.\md5c.c	/^static void md5_compress(psMd5Context_t *md)$/;"	f	file:
+memLeaks	.\CE\main.c	/^static void memLeaks() $/;"	f	file:
+memLeaks	.\LINUX\main.c	/^static void memLeaks() $/;"	f	file:
+memLeaks	.\LYNX\main.c	/^static void memLeaks() $/;"	f	file:
+memLeaks	.\MACOSX\main.c	/^static void memLeaks() $/;"	f	file:
+memLeaks	.\NW\main.c	/^static void memLeaks() $/;"	f	file:
+memLeaks	.\QNX4\main.c	/^static void memLeaks() $/;"	f	file:
+memLeaks	.\VXWORKS\main.c	/^static void memLeaks() $/;"	f	file:
+memLeaks	.\WIN\main.c	/^static void memLeaks() $/;"	f	file:
+millitm	.\CE\wincompat.h	/^	unsigned short millitm;	\/* 1000 msec of additional accuracy *\/$/;"	m	struct:timeb
+min	.\matrixSSLSocket.h	94;"	d
+min	.\uemf.h	806;"	d
+minute	.\uemf.h	/^	char_t	*minute;$/;"	m	struct:__anon15
+mode_t	.\CE\wincompat.h	/^typedef unsigned short mode_t;$/;"	t
+month	.\uemf.h	/^	char_t	*month;$/;"	m	struct:__anon15
+months	.\CE\wincompat.c	/^static char_t *months[] = {$/;"	v	file:
+msg	.\wsIntrn.h	/^	char_t	*msg;							\/* HTTP error message *\/$/;"	m	struct:__anon26
+mtime	.\wsIntrn.h	/^	time_t			mtime;					\/* Modified time *\/$/;"	m	struct:__anon28
+nArgs	.\ejIntrn.h	/^	int			nArgs;							\/* Number of args *\/$/;"	m	struct:__anon23
+nColumns	.\emfdb.h	/^	int		nColumns;$/;"	m	struct:dbTable_s
+nCopyAnsiToWideChar	.\WIN\main.c	/^static int nCopyAnsiToWideChar(LPWORD lpWCStr, LPSTR lpAnsiIn)$/;"	f	file:
+nRows	.\emfdb.h	/^	int		nRows;$/;"	m	struct:dbTable_s
+name	.\CE\main.c	/^static char_t		*name = T("gowebs");			\/* Window name *\/$/;"	v	file:
+name	.\WIN\main.c	/^static char_t	*name = T("gowebs");			\/* Window name *\/$/;"	v	file:
+name	.\default.c	/^	char	*name;				\/* path segment with trailing '\/' or filename *\/$/;"	m	struct:_fileNode	file:
+name	.\emfdb.h	/^	char_t	*name;$/;"	m	struct:dbTable_s
+name	.\uemf.h	/^	value_t			name;					\/* Name of symbol *\/$/;"	m	struct:sym_t
+nap	.\CE\wincompat.c	/^long nap(long ms)$/;"	f
+nc	.\webs.h	/^    char_t			*nc;		\/* nonce count *\/$/;"	m	struct:websRec
+net_requests	.\wsIntrn.h	/^	long			net_requests;$/;"	m	struct:__anon25
+next	.\default.c	/^	struct _fileNode *next;		\/* Next file\/dir on same level (NULL if last) *\/$/;"	m	struct:_fileNode	typeref:struct:_fileNode::_fileNode	file:
+next	.\default.c	/^	struct _sslList *next;$/;"	m	struct:_sslList	typeref:struct:_sslList::_sslList	file:
+next	.\sym.c	/^static sym_t*		next;				\/* Next symbol in iteration *\/$/;"	v	file:
+next	.\uemf.h	/^		void	*next;							\/* Pointer to next in q *\/$/;"	m	union:__anon13::__anon14
+nonce	.\webs.h	/^    char_t			*nonce;		\/* opaque-to-client string sent by server *\/$/;"	m	struct:websRec
+numbytes	.\webs.h	/^	int				numbytes;			\/* Bytes to transfer to browser *\/$/;"	m	struct:websRec
+octal	.\uemf.h	/^		long	octal;$/;"	m	union:__anon10::__anon11
+octal	.\uemf.h	/^	octal		= 6,$/;"	e	enum:__anon9
+opaque	.\webs.h	/^    char_t			*opaque;	\/* opaque value passed from server *\/$/;"	m	struct:websRec
+open	.\uemf.h	562;"	d
+optarg	.\CE\wincompat.c	/^__declspec(dllexport) char_t*	optarg;$/;"	v
+optswi	.\CE\wincompat.c	/^static char	optswi = '-';$/;"	v	file:
+outBuf	.\uemf.h	/^	ringq_t			outBuf;					\/* Output ring queue *\/$/;"	m	struct:__anon16
+page	.\wsIntrn.h	/^	unsigned char	*page;					\/* Web page data *\/$/;"	m	struct:__anon29
+parse	.\ejparse.c	/^static int parse(ej_t *ep, int state, int flags)$/;"	f	file:
+parseArgs	.\ejparse.c	/^static int parseArgs(ej_t *ep, int state, int flags)$/;"	f	file:
+parseCond	.\ejparse.c	/^static int parseCond(ej_t *ep, int state, int flags)$/;"	f	file:
+parseDate1or2	.\webs.c	/^static time_t parseDate1or2(char_t *buf, int *index) $/;"	f	file:
+parseDate3Time	.\webs.c	/^static time_t parseDate3Time(char_t *buf, int *index) $/;"	f	file:
+parseDeclaration	.\ejparse.c	/^static int parseDeclaration(ej_t *ep, int state, int flags)$/;"	f	file:
+parseExpr	.\ejparse.c	/^static int parseExpr(ej_t *ep, int state, int flags)$/;"	f	file:
+parseMonth	.\webs.c	/^static int parseMonth(char_t *buf, int *index) $/;"	f	file:
+parseNDIGIT	.\webs.c	/^static int parseNDIGIT(char_t *buf, int digits, int *index) $/;"	f	file:
+parseStmt	.\ejparse.c	/^static int parseStmt(ej_t *ep, int state, int flags)$/;"	f	file:
+parseTime	.\webs.c	/^static int parseTime(char_t *buf, int *index) $/;"	f	file:
+parseWeekday	.\webs.c	/^static int parseWeekday(char_t *buf, int *index) $/;"	f	file:
+parseYear	.\webs.c	/^static int parseYear(char_t *buf, int *index) $/;"	f	file:
+password	.\CE\main.c	/^static char_t		*password = T("");				\/* Security password *\/$/;"	v	file:
+password	.\ECOS\main.c	/^static char_t	*password = T("");	\/* Security password *\/$/;"	v	file:
+password	.\LINUX\main.c	/^static char_t		*password = T("");				\/* Security password *\/$/;"	v	file:
+password	.\LYNX\main.c	/^static char_t		*password = T("");				\/* Security password *\/$/;"	v	file:
+password	.\MACOSX\main.c	/^static char_t		*password = T("");				\/* Security password *\/$/;"	v	file:
+password	.\NW\main.c	/^static char_t     *password = T("");         \/* Security password *\/$/;"	v	file:
+password	.\QNX4\main.c	/^static char_t		*password = T("");				\/* Security password *\/$/;"	v	file:
+password	.\VXWORKS\main.c	/^static char_t		*password = T("");				\/* Security password *\/$/;"	v	file:
+password	.\WIN\main.c	/^static char_t	*password = T("");				\/* Security password *\/$/;"	v	file:
+password	.\webs.h	/^	char_t			*password;			\/* Authorization password *\/$/;"	m	struct:websRec
+path	.\webs.h	/^	char_t			*path;				\/* Path name without query *\/$/;"	m	struct:websRec
+path	.\wsIntrn.h	/^	char_t			*path;					\/* Web page URL path *\/$/;"	m	struct:__anon29
+percent	.\uemf.h	/^		char	percent;$/;"	m	union:__anon10::__anon11
+percent	.\uemf.h	/^	percent 	= 5,$/;"	e	enum:__anon9
+pid_t	.\CE\wincompat.h	/^typedef short pid_t;$/;"	t
+port	.\CE\main.c	/^static int			port = 80;						\/* Server port *\/$/;"	v	file:
+port	.\ECOS\main.c	/^static int		port = 80;			\/* Server port *\/$/;"	v	file:
+port	.\LINUX\main.c	/^static int			port = WEBS_DEFAULT_PORT;		\/* Server port *\/$/;"	v	file:
+port	.\LYNX\main.c	/^static int			port = 80;						\/* Server port *\/$/;"	v	file:
+port	.\MACOSX\main.c	/^static int			port = WEBS_DEFAULT_PORT;		\/* Server port *\/$/;"	v	file:
+port	.\NW\main.c	/^static int        port = 80;                 \/* Server port *\/$/;"	v	file:
+port	.\QNX4\main.c	/^static int			port = 80;						\/* Server port *\/$/;"	v	file:
+port	.\VXWORKS\main.c	/^static int			port = 80;						\/* Server port *\/$/;"	v	file:
+port	.\WIN\main.c	/^static int		port = WEBS_DEFAULT_PORT;		\/* Server port *\/$/;"	v	file:
+port	.\uemf.h	/^	int				port;					\/* Port to listen on *\/$/;"	m	struct:__anon16
+port	.\webs.h	/^	int				port;				\/* Request port number *\/$/;"	m	struct:websRec
+pos	.\wsIntrn.h	/^	int				pos;					\/* Current read position *\/$/;"	m	struct:__anon29
+printMemStats	.\CE\main.c	/^static void printMemStats(int handle, char_t *fmt, ...)$/;"	f	file:
+printMemStats	.\LINUX\main.c	/^static void printMemStats(int handle, char_t *fmt, ...)$/;"	f	file:
+printMemStats	.\LYNX\main.c	/^static void printMemStats(int handle, char_t *fmt, ...)$/;"	f	file:
+printMemStats	.\MACOSX\main.c	/^static void printMemStats(int handle, char_t *fmt, ...)$/;"	f	file:
+printMemStats	.\NW\main.c	/^static void printMemStats(int handle, char_t *fmt, ...)$/;"	f	file:
+printMemStats	.\QNX4\main.c	/^static void printMemStats(int handle, char_t *fmt, ...)$/;"	f	file:
+printMemStats	.\VXWORKS\main.c	/^static void printMemStats(int handle, char_t *fmt, ...)$/;"	f	file:
+printMemStats	.\WIN\main.c	/^static void printMemStats(int handle, char_t *fmt, ...)$/;"	f	file:
+protoVersion	.\webs.h	/^	char_t			*protoVersion;		\/* Protocol version *\/$/;"	m	struct:websRec
+protocol	.\webs.h	/^	char_t			*protocol;			\/* Protocol (normally HTTP) *\/$/;"	m	struct:websRec
+proxyserver	.\wwwdemo\docs\glossary.htm	/^<\/P><\/BLOCKQUOTE><P><B>proxy server<\/B><A NAME="proxyserver"><\/A>$/;"	a
+psBurnStack	.\md5c.c	/^static void psBurnStack(int len)$/;"	f	file:
+psDigestContext_t	.\md5.h	/^} psDigestContext_t;$/;"	t	typeref:struct:__anon21
+psMd5Context_t	.\md5.h	/^typedef psDigestContext_t	psMd5Context_t;$/;"	t
+psMd5Final	.\md5c.c	/^int32 psMd5Final(psMd5Context_t* md, unsigned char *hash)$/;"	f
+psMd5Init	.\md5c.c	/^void psMd5Init(psMd5Context_t* md)$/;"	f
+psMd5Update	.\md5c.c	/^void psMd5Update(psMd5Context_t* md, unsigned char *buf, unsigned int len)$/;"	f
+psZeromem	.\md5c.c	/^static void psZeromem(void *dst, int len)$/;"	f	file:
+pt	.\matrixSSLSocket.h	/^	char				*pt;		\/* app data start *\/$/;"	m	struct:__anon8
+ptBytes	.\matrixSSLSocket.h	/^	int					ptBytes;	\/* plaintext bytes remaining *\/$/;"	m	struct:__anon8
+ptReqBytes	.\matrixSSLSocket.h	/^	int					ptReqBytes;$/;"	m	struct:__anon8
+ptr	.\balloc.c	/^	void			*ptr;						\/* Pointer to memory *\/$/;"	m	struct:__anon20	file:
+putBackToken	.\ejIntrn.h	/^	char_t		*putBackToken;					\/* Putback token string *\/$/;"	m	struct:ejEval
+putBackTokenId	.\ejIntrn.h	/^	int			putBackTokenId;					\/* Putback token ID *\/$/;"	m	struct:ejEval
+put_char	.\misc.c	/^static void put_char(strbuf_t *buf, char_t c)$/;"	f	file:
+put_string	.\misc.c	/^static void put_string(strbuf_t *buf, char_t *s, int len, int width,$/;"	f	file:
+put_ulong	.\misc.c	/^static void put_ulong(strbuf_t *buf, unsigned long int value, int base,$/;"	f	file:
+q	.\balloc.c	/^	int		q;$/;"	m	struct:__anon19	file:
+qop	.\webs.h	/^    char_t			*qop;		\/* quality operator *\/$/;"	m	struct:websRec
+query	.\webs.h	/^	char_t			*query;				\/* Request query *\/$/;"	m	struct:websRec
+read	.\CE\wincompat.c	/^int read(int fid, void *buf, unsigned int len)$/;"	f
+read	.\uemf.h	564;"	d
+readAscToUni	.\CE\wincompat.c	/^int readAscToUni(int fid, void **buf, unsigned int len)$/;"	f
+realm	.\webs.h	/^    char_t			*realm;		\/* usually the same as "host" from websRec *\/$/;"	m	struct:websRec
+recv	.\ECOS\main.c	/^int recv(int s, void *buf, size_t len, int flags)$/;"	f
+redirects	.\wsIntrn.h	/^	long			redirects;$/;"	m	struct:__anon25
+registerAboutBox	.\WIN\main.c	/^static int registerAboutBox(HINSTANCE hInstance)$/;"	f	file:
+remoteHits	.\wsIntrn.h	/^	long 			remoteHits;$/;"	m	struct:__anon25
+result	.\ejIntrn.h	/^	char_t		*result;						\/* Current expression result *\/$/;"	m	struct:ej
+retries	.\CE\main.c	/^static int			retries = 5;					\/* Server port retries *\/$/;"	v	file:
+retries	.\ECOS\main.c	/^static int		retries = 5;		\/* Server port retries *\/$/;"	v	file:
+retries	.\LINUX\main.c	/^static int			retries = 5;					\/* Server port retries *\/$/;"	v	file:
+retries	.\LYNX\main.c	/^static int			retries = 5;					\/* Server port retries *\/$/;"	v	file:
+retries	.\MACOSX\main.c	/^static int			retries = 5;					\/* Server port retries *\/$/;"	v	file:
+retries	.\NW\main.c	/^static int        retries = 5;               \/* Server port retries *\/$/;"	v	file:
+retries	.\QNX4\main.c	/^static int			retries = 5;					\/* Server port retries *\/$/;"	v	file:
+retries	.\VXWORKS\main.c	/^static int			retries = 5;					\/* Server port retries *\/$/;"	v	file:
+retries	.\WIN\main.c	/^static int		retries = 5;					\/* Server port retries *\/$/;"	v	file:
+ringqAddNull	.\ringq.c	/^void ringqAddNull(ringq_t *rq)$/;"	f
+ringqClose	.\ringq.c	/^void ringqClose(ringq_t *rq)$/;"	f
+ringqFlush	.\ringq.c	/^void ringqFlush(ringq_t *rq)$/;"	f
+ringqGetBlk	.\ringq.c	/^int ringqGetBlk(ringq_t *rq, unsigned char *buf, int size)$/;"	f
+ringqGetBlkAdj	.\ringq.c	/^void ringqGetBlkAdj(ringq_t *rq, int size)$/;"	f
+ringqGetBlkMax	.\ringq.c	/^int ringqGetBlkMax(ringq_t *rq)$/;"	f
+ringqGetc	.\ringq.c	/^int ringqGetc(ringq_t *rq)$/;"	f
+ringqGetcA	.\ringq.c	/^int ringqGetcA(ringq_t *rq)$/;"	f
+ringqGetcA	.\uemf.h	1024;"	d
+ringqGrow	.\ringq.c	/^static int ringqGrow(ringq_t *rq)$/;"	f	file:
+ringqGrowCalls	.\ringq.c	/^int			ringqGrowCalls = 0;$/;"	v
+ringqInsertc	.\ringq.c	/^int ringqInsertc(ringq_t *rq, char_t c)$/;"	f
+ringqInsertcA	.\ringq.c	/^int ringqInsertcA(ringq_t *rq, char c)$/;"	f
+ringqInsertcA	.\uemf.h	1022;"	d
+ringqLen	.\ringq.c	/^int ringqLen(ringq_t *rq)$/;"	f
+ringqOpen	.\ringq.c	/^int ringqOpen(ringq_t *rq, int initSize, int maxsize)$/;"	f
+ringqPutBlk	.\ringq.c	/^int ringqPutBlk(ringq_t *rq, unsigned char *buf, int size)$/;"	f
+ringqPutBlkAdj	.\ringq.c	/^void ringqPutBlkAdj(ringq_t *rq, int size)$/;"	f
+ringqPutBlkMax	.\ringq.c	/^int ringqPutBlkMax(ringq_t *rq)$/;"	f
+ringqPutStr	.\ringq.c	/^int ringqPutStr(ringq_t *rq, char_t *str)$/;"	f
+ringqPutStrA	.\ringq.c	/^int ringqPutStrA(ringq_t *rq, char *str)$/;"	f
+ringqPutStrA	.\uemf.h	1023;"	d
+ringqPutc	.\ringq.c	/^int ringqPutc(ringq_t *rq, char_t c)$/;"	f
+ringqPutcA	.\ringq.c	/^int ringqPutcA(ringq_t *rq, char c)$/;"	f
+ringqPutcA	.\uemf.h	1021;"	d
+ringq_t	.\uemf.h	/^} ringq_t;$/;"	t	typeref:struct:__anon12
+rom	.\wwwdemo\over\architecture.htm	/^<TR><TD WIDTH="21%">rom.c<A NAME="rom"><\/A><\/TD><TD WIDTH="79%">ROM Web pages access module when not using a file system.<\/TD><\/TR>$/;"	a
+romTab	.\rom.c	/^sym_fd_t	romTab;						\/* Symbol table for web pages *\/$/;"	v
+rootWeb	.\CE\main.c	/^static char_t		*rootWeb = T("\/www");			\/* Root web directory *\/$/;"	v	file:
+rootWeb	.\LINUX\main.c	/^static char_t		*rootWeb = T("www");			\/* Root web directory *\/$/;"	v	file:
+rootWeb	.\LYNX\main.c	/^static char_t		*rootWeb = T("www");			\/* Root web directory *\/$/;"	v	file:
+rootWeb	.\MACOSX\main.c	/^static char_t		*rootWeb = T("www");			\/* Root web directory *\/$/;"	v	file:
+rootWeb	.\NW\main.c	/^static char_t     *rootWeb = T("www");       \/* Root web directory *\/$/;"	v	file:
+rootWeb	.\QNX4\main.c	/^static char_t		*rootWeb = T("www");			\/* Root web directory *\/$/;"	v	file:
+rootWeb	.\VXWORKS\main.c	/^static char_t		*rootWeb = T("www");			\/* Root web directory *\/$/;"	v	file:
+rootWeb	.\WIN\main.c	/^static char_t	*rootWeb = T("www");			\/* Root web directory *\/$/;"	v	file:
+router	.\wwwdemo\docs\glossary.htm	/^<BR>A server that relays requests and responses between clients and other servers. <\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>router<\/B><A NAME="router"><\/A> $/;"	a
+routine	.\websuemf.c	/^	void	(*routine)(void *arg, int id);$/;"	m	struct:__anon6	file:
+rows	.\emfdb.h	/^	int		**rows;$/;"	m	struct:dbTable_s
+s	.\misc.c	/^	char_t	*s;							\/* Pointer to buffer *\/$/;"	m	struct:__anon5	file:
+saveFilename	.\um.c	/^static char_t	*saveFilename = NULL;$/;"	v	file:
+saveMask	.\uemf.h	/^	int				saveMask;				\/* saved Mask for socketFlush *\/$/;"	m	struct:__anon16
+sched	.\websuemf.c	/^static sched_t		**sched;$/;"	v	file:
+schedMax	.\websuemf.c	/^static int			schedMax;$/;"	v	file:
+sched_t	.\websuemf.c	/^} sched_t;$/;"	t	typeref:struct:__anon6	file:
+schedid	.\websuemf.c	/^	int		schedid;$/;"	m	struct:__anon6	file:
+script	.\ejIntrn.h	/^	ringq_t		script;							\/* Input script for parsing *\/$/;"	m	struct:ejEval
+scriptEval	.\websuemf.c	/^int scriptEval(int engine, char_t *cmd, char_t **result, void* chan)$/;"	f
+security	.\wwwdemo\over\architecture.htm	/^<TR><TD WIDTH="21%">security.c<A NAME="security"><\/A><\/TD><TD WIDTH="79%">Security URL handler. Implements a basic security policy<\/TD><\/TR>$/;"	a
+securitycertificate	.\wwwdemo\docs\glossary.htm	/^<\/P><\/BLOCKQUOTE><P><B>security certificate<\/B><A NAME="securitycertificate"><\/A>$/;"	a
+selectEvents	.\uemf.h	/^	int				selectEvents;			\/* Events being selected *\/$/;"	m	struct:__anon16
+send	.\ECOS\main.c	/^int send(int s, const void *buf, size_t len, int flags)$/;"	f
+sendBlocked	.\matrixSSLSocket.h	/^	int					sendBlocked;$/;"	m	struct:__anon8
+server	.\wwwdemo\docs\glossary.htm	/^security certificate.<\/P><BLOCKQUOTE><P><A HREF="#top">return<\/A><\/P><\/BLOCKQUOTE><P><B>server<A NAME="server"><\/A><\/B><BR> A computer that serves information and software to the Internet community and, in $/;"	a
+servp	.\uemf.h	/^	unsigned char	*servp;				\/* Pointer to start of data *\/$/;"	m	struct:__anon12
+setSocketNonblock	.\matrixSSLSocket.c	/^static void setSocketNonblock(SOCKET sock)$/;"	f	file:
+setString	.\ejparse.c	/^static void setString(B_ARGS_DEC, char_t **ptr, char_t *s)$/;"	f	file:
+setString	.\ejparse.c	33;"	d	file:
+shortint	.\uemf.h	/^		short	shortint;$/;"	m	union:__anon10::__anon11
+shortint	.\uemf.h	/^	shortint	= 2,$/;"	e	enum:__anon9
+sid	.\uemf.h	/^	int				sid;					\/* Index into socket[] *\/$/;"	m	struct:__anon16
+sid	.\webs.h	/^	int				sid;				\/* Socket id (handler) *\/$/;"	m	struct:websRec
+sigintHandler	.\LINUX\main.c	/^static void sigintHandler(int unused)$/;"	f	file:
+sigintHandler	.\MACOSX\main.c	/^static void sigintHandler(int unused)$/;"	f	file:
+since	.\webs.h	/^	time_t			since;				\/* Parsed if-modified-since time *\/$/;"	m	struct:websRec
+size	.\misc.c	/^	int		size;						\/* Current buffer size *\/$/;"	m	struct:__anon5	file:
+size	.\uemf.h	/^		int		size;							\/* Actual requested size *\/$/;"	m	union:__anon13::__anon14
+size	.\wsIntrn.h	/^	int				size;					\/* Size of web page in bytes *\/$/;"	m	struct:__anon29
+size	.\wsIntrn.h	/^	unsigned long	size;					\/* File length *\/$/;"	m	struct:__anon28
+skipWhite	.\asp.c	/^static char_t *skipWhite(char_t *s) $/;"	f	file:
+sleep	.\CE\wincompat.c	/^unsigned sleep(unsigned s)$/;"	f
+snprintf	.\wsIntrn.h	42;"	d
+sock	.\uemf.h	/^	int				sock;					\/* Actual socket handle *\/$/;"	m	struct:__anon16
+sock	.\wwwdemo\over\architecture.htm	/^<TR><TD WIDTH="21%">sock.c<A NAME="sock"><\/A><\/TD><TD WIDTH="79%">Generic socket support<\/TD><\/TR>$/;"	a
+sockGen	.\wwwdemo\over\architecture.htm	/^<TR><TD WIDTH="21%">sockGen.c<A NAME="sockGen"><\/A><\/TD><TD WIDTH="79%">platform-independent socket support<\/TD><\/TR>$/;"	a
+sockServiceTime	.\CE\main.c	/^static int			sockServiceTime = 1000;			\/* milliseconds *\/$/;"	v	file:
+sockServiceTime	.\WIN\main.c	/^static int		sockServiceTime;				\/* in milliseconds *\/$/;"	v	file:
+socketAccept	.\sockGen.c	/^static void socketAccept(socket_t *sp)$/;"	f	file:
+socketAccept_t	.\uemf.h	/^typedef int		(*socketAccept_t)(int sid, char *ipaddr, int port, $/;"	t
+socketAlloc	.\sock.c	/^int socketAlloc(char *host, int port, socketAccept_t accept, int flags)$/;"	f
+socketCanWrite	.\sock.c	/^int socketCanWrite(int sid)$/;"	f
+socketClose	.\sockGen.c	/^void socketClose()$/;"	f
+socketCloseConnection	.\sockGen.c	/^void socketCloseConnection(int sid)$/;"	f
+socketCreateHandler	.\sock.c	/^void socketCreateHandler(int sid, int handlerMask, socketHandler_t handler, $/;"	f
+socketDeleteHandler	.\sock.c	/^void socketDeleteHandler(int sid)$/;"	f
+socketDoEvent	.\sockGen.c	/^static int socketDoEvent(socket_t *sp)$/;"	f	file:
+socketDoOutput	.\sock.c	/^static int socketDoOutput(socket_t *sp, char *buf, int toWrite, int *errCode)$/;"	f	file:
+socketDontBlock	.\sockGen.c	/^int socketDontBlock()$/;"	f
+socketEof	.\sock.c	/^int socketEof(int sid)$/;"	f
+socketFlush	.\sock.c	/^int socketFlush(int sid)$/;"	f
+socketFree	.\sock.c	/^void socketFree(int sid)$/;"	f
+socketGetBlock	.\sock.c	/^int socketGetBlock(int sid)$/;"	f
+socketGetError	.\sock.c	/^int socketGetError()$/;"	f
+socketGetHandle	.\sock.c	/^int socketGetHandle(int sid)$/;"	f
+socketGetInput	.\sockGen.c	/^int socketGetInput(int sid, char *buf, int toRead, int *errCode)$/;"	f
+socketGetMode	.\sock.c	/^int socketGetMode(int sid)$/;"	f
+socketGetPort	.\sock.c	/^int socketGetPort(int sid)$/;"	f
+socketGets	.\sock.c	/^int	socketGets(int sid, char_t **buf)$/;"	f
+socketHandler_t	.\uemf.h	/^typedef void 	(*socketHandler_t)(int sid, int mask, void* data);$/;"	t
+socketHighestFd	.\sock.c	/^int			socketHighestFd = -1;	\/* Highest socket fd opened *\/$/;"	v
+socketInputBuffered	.\sock.c	/^int socketInputBuffered(int sid)$/;"	f
+socketList	.\sock.c	/^socket_t	**socketList;			\/* List of open sockets *\/$/;"	v
+socketMax	.\sock.c	/^int			socketMax;				\/* Maximum size of socket *\/$/;"	v
+socketOpen	.\sockGen.c	/^int socketOpen()$/;"	f
+socketOpenConnection	.\sockGen.c	/^int socketOpenConnection(char *host, int port, socketAccept_t accept, int flags)$/;"	f
+socketOpenCount	.\sockGen.c	/^static int			socketOpenCount = 0;	\/* Number of task using sockets *\/$/;"	v	file:
+socketProcess	.\sockGen.c	/^void socketProcess(int sid)$/;"	f
+socketPtr	.\sock.c	/^socket_t *socketPtr(int sid)$/;"	f
+socketRead	.\sock.c	/^int	socketRead(int sid, char *buf, int bufsize)$/;"	f
+socketReady	.\sockGen.c	/^int socketReady(int sid)$/;"	f
+socketRegisterInterest	.\sockGen.c	/^void socketRegisterInterest(socket_t *sp, int handlerMask)$/;"	f
+socketSelect	.\sockGen.c	/^int socketSelect(int sid, int timeout)$/;"	f
+socketSetBlock	.\sockGen.c	/^int socketSetBlock(int sid, int on)$/;"	f
+socketSetBufferSize	.\sock.c	/^void socketSetBufferSize(int sid, int in, int line, int out)$/;"	f
+socketSetMode	.\sock.c	/^void socketSetMode(int sid, int mode)$/;"	f
+socketSockBuffered	.\sockGen.c	/^int socketSockBuffered(int sock)$/;"	f
+socketWaitForEvent	.\sockGen.c	/^int socketWaitForEvent(socket_t *sp, int handlerMask, int *errCode)$/;"	f
+socketWrite	.\sock.c	/^int	socketWrite(int sid, char *buf, int bufsize)$/;"	f
+socketWriteString	.\sock.c	/^int	socketWriteString(int sid, char_t *buf)$/;"	f
+socket_t	.\uemf.h	/^} socket_t;$/;"	t	typeref:struct:__anon16
+socklen_t	.\uemf.h	/^typedef int socklen_t;$/;"	t
+sprintf	.\balloc.c	796;"	d	file:
+ssl	.\matrixSSLSocket.h	/^	ssl_t				*ssl;$/;"	m	struct:__anon8
+sslAccept	.\matrixSSLSocket.c	/^int sslAccept(sslConn_t **conn, SOCKET fd, sslKeys_t *keys, int32 resume,$/;"	f
+sslAssert	.\matrixSSLSocket.h	91;"	d
+sslConn	.\websSSL.h	/^	sslConn_t* sslConn;$/;"	m	struct:__anon17
+sslConn_t	.\matrixSSLSocket.h	/^} sslConn_t;$/;"	t	typeref:struct:__anon8
+sslFreeConnection	.\matrixSSLSocket.c	/^void sslFreeConnection(sslConn_t **cpp)$/;"	f
+sslKeys	.\websSSL.c	/^static sslKeys_t	*sslKeys = NULL;$/;"	v	file:
+sslList	.\default.c	/^static sslList_t	*sslList;$/;"	v	file:
+sslList_t	.\default.c	/^} sslList_t;$/;"	t	typeref:struct:_sslList	file:
+sslListenSock	.\websSSL.c	/^static int			sslListenSock   = -1;            \/* Listen socket *\/$/;"	v	file:
+sslRead	.\matrixSSLSocket.c	/^int	sslRead(sslConn_t *cp, char *inbuf, int inlen)$/;"	f
+sslWrite	.\matrixSSLSocket.c	/^int sslWrite(sslConn_t *cp, char *data, int len)$/;"	f
+sslWriteClosureAlert	.\matrixSSLSocket.c	/^void sslWriteClosureAlert(sslConn_t *cp)$/;"	f
+st_atime	.\CE\wincompat.h	/^	time_t st_atime;		\/* time of last access				*\/$/;"	m	struct:_stat
+st_ctime	.\CE\wincompat.h	/^	time_t st_ctime;		\/* time of last file status change	*\/$/;"	m	struct:_stat
+st_mode	.\CE\wincompat.h	/^	long st_mode;$/;"	m	struct:_stat
+st_mtime	.\CE\wincompat.h	/^	time_t st_mtime;		\/* time of last data modification	*\/$/;"	m	struct:_stat
+st_size	.\CE\wincompat.h	/^	long st_size;	\/* file size in bytes				*\/$/;"	m	struct:_stat
+stat_t	.\utils\webcomp.c	/^typedef struct stat stat_t;$/;"	t	typeref:struct:stat	file:
+state	.\md5.h	/^    ulong32 state[4], curlen;$/;"	m	struct:__anon21
+state	.\webs.h	/^	int				state;				\/* Current state *\/$/;"	m	struct:websRec
+stdIn	.\cgi.c	/^	char_t	*stdIn;				\/* file desc. for task's temp input fd *\/$/;"	m	struct:__anon22	file:
+stdOut	.\cgi.c	/^	char_t	*stdOut;			\/* file desc. for task's temp output fd *\/$/;"	m	struct:__anon22	file:
+strbuf_t	.\misc.c	/^} strbuf_t;$/;"	t	typeref:struct:__anon5	file:
+strcmpci	.\websuemf.c	/^int strcmpci(char_t *s1, char_t *s2)$/;"	f
+strcmpci	.\wwwdemo\cgi-bin\cgitest.c	/^int strcmpci(char *s1, char *s2)$/;"	f
+string	.\uemf.h	/^		char_t	*string;$/;"	m	union:__anon10::__anon11
+string	.\uemf.h	/^	string 		= 10,$/;"	e	enum:__anon9
+stritoa	.\uemf.c	/^char_t *stritoa(int n, char_t *string, int width)$/;"	f
+strlower	.\uemf.c	/^char_t *strlower(char_t *string)$/;"	f
+strtokcmp	.\asp.c	/^static char_t *strtokcmp(char_t *s1, char_t *s2)$/;"	f	file:
+strupper	.\uemf.c	/^char_t *strupper(char_t *string)$/;"	f
+sym	.\sym.c	/^static sym_tabent_t	**sym;				\/* List of symbol tables *\/$/;"	v	file:
+symClose	.\sym.c	/^void symClose(sym_fd_t sd)$/;"	f
+symDelete	.\sym.c	/^int symDelete(sym_fd_t sd, char_t *name)$/;"	f
+symEnter	.\sym.c	/^sym_t *symEnter(sym_fd_t sd, char_t *name, value_t v, int arg)$/;"	f
+symFirst	.\sym.c	/^sym_t* symFirst(sym_fd_t sd)$/;"	f
+symLookup	.\sym.c	/^sym_t *symLookup(sym_fd_t sd, char_t *name)$/;"	f
+symMax	.\sym.c	/^static int			symMax;				\/* One past the max symbol table *\/$/;"	v	file:
+symNext	.\sym.c	/^sym_t* symNext(sym_fd_t sd)$/;"	f
+symOpen	.\sym.c	/^sym_fd_t symOpen(int hash_size)$/;"	f
+symOpenCount	.\sym.c	/^static int			symOpenCount = 0;	\/* Count of apps using sym *\/$/;"	v	file:
+symSubClose	.\sym.c	/^void symSubClose()$/;"	f
+symSubOpen	.\sym.c	/^int symSubOpen()$/;"	f
+sym_fd_t	.\uemf.h	/^typedef int sym_fd_t;						\/* Returned by symOpen *\/$/;"	t
+sym_t	.\uemf.h	/^typedef struct sym_t {$/;"	s
+sym_t	.\uemf.h	/^} sym_t;$/;"	t	typeref:struct:sym_t
+sym_tabent_t	.\sym.c	/^} sym_tabent_t;$/;"	t	typeref:struct:__anon1	file:
+symbol	.\uemf.h	/^		void	*symbol;$/;"	m	union:__anon10::__anon11
+symbol	.\uemf.h	/^	symbol 		= 12,$/;"	e	enum:__anon9
+tableToBlock	.\cgi.c	/^static unsigned char *tableToBlock(char **table)$/;"	f	file:
+tempnam	.\uemf.h	561;"	d
+tid	.\ejIntrn.h	/^	int			tid;							\/* Current token id *\/$/;"	m	struct:ej
+time	.\CE\wincompat.c	/^time_t time(time_t *timer)$/;"	f
+time	.\CE\wincompat.h	/^	time_t time;			\/* time, seconds since the epoch *\/$/;"	m	struct:timeb
+timeMsec	.\CE\wincompat.c	/^time_t timeMsec()$/;"	f
+timeb	.\CE\wincompat.h	/^struct timeb {$/;"	s
+timeout	.\webs.h	/^	int				timeout;			\/* Timeout handle *\/$/;"	m	struct:websRec
+timeouts	.\wsIntrn.h	/^	long 			timeouts;$/;"	m	struct:__anon25
+times	.\balloc.c	/^	long	times;								\/* Count of alloc attempts *\/$/;"	m	struct:__anon19	file:
+timestamp	.\webs.h	/^	time_t			timestamp;			\/* Last transaction with browser *\/$/;"	m	struct:websRec
+timeval	.\uemf.h	/^struct timeval$/;"	s
+timezone	.\CE\wincompat.h	/^	short timezone;			\/* timezone, minutes west of GMT *\/$/;"	m	struct:timeb
+title	.\CE\main.c	/^static char_t		*title = T("GoAhead WebServer");\/* Window title *\/$/;"	v	file:
+title	.\WIN\main.c	/^static char_t	*title = T("GoAhead WebServer");\/* Window title *\/$/;"	v	file:
+tm	.\CE\wincompat.h	/^struct tm$/;"	s
+tm_hour	.\CE\wincompat.h	/^	int tm_hour;$/;"	m	struct:tm
+tm_isdst	.\CE\wincompat.h	/^	int tm_isdst;$/;"	m	struct:tm
+tm_mday	.\CE\wincompat.h	/^	int tm_mday;$/;"	m	struct:tm
+tm_min	.\CE\wincompat.h	/^	int tm_min;$/;"	m	struct:tm
+tm_mon	.\CE\wincompat.h	/^	int tm_mon;$/;"	m	struct:tm
+tm_name	.\CE\wincompat.h	/^	char tm_name[LTZNMAX];	\/* name of timezone	*\/$/;"	m	struct:tm
+tm_sec	.\CE\wincompat.h	/^	int tm_sec;$/;"	m	struct:tm
+tm_tzadj	.\CE\wincompat.h	/^	long tm_tzadj;$/;"	m	struct:tm
+tm_wday	.\CE\wincompat.h	/^	int tm_wday;$/;"	m	struct:tm
+tm_yday	.\CE\wincompat.h	/^	int tm_yday;$/;"	m	struct:tm
+tm_year	.\CE\wincompat.h	/^	int tm_year;$/;"	m	struct:tm
+tokbuf	.\ejIntrn.h	/^	ringq_t		tokbuf;							\/* Current token *\/$/;"	m	struct:ejEval
+token	.\ejIntrn.h	/^	char_t		*token;							\/* Pointer to token string *\/$/;"	m	struct:ej
+tokenAddChar	.\ejlex.c	/^static int tokenAddChar(ej_t *ep, int c)$/;"	f	file:
+top	.\wwwdemo\docs\glossary.htm	/^<H1>WebServer Glossary<A NAME="top"><\/A><\/H1><TABLE BORDER="0" WIDTH="456">$/;"	a
+top	.\wwwdemo\over\architecture.htm	/^<H1>GoAhead WebServer Architecture<A NAME="top"><\/A><\/H1><P>The  following diagram is provided to illustrate  major WebServer functionality, showing   function relationships  and identifying associated files. Refer to the list following this illustration for   <A HREF="#descriptions">descriptions<\/A> of these files.   <\/P><P><IMG SRC="webs_block.gif" WIDTH="534" HEIGHT="520" BORDER="0" USEMAP="#wsblock"><\/P><BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE><BLOCKQUOTE><P><B>WebServer Architecture<\/B> (<A HREF="blockdiagram.htm">large view<\/A>) <\/P><BLOCKQUOTE><BLOCKQUOTE><P>&nbsp;<\/P><\/BLOCKQUOTE><\/BLOCKQUOTE><\/BLOCKQUOTE><\/BLOCKQUOTE><\/BLOCKQUOTE><\/BLOCKQUOTE><H2><B>WebServer File Descriptions<A NAME="descriptions"><\/A><\/B><\/H2><TABLE WIDTH="92%" BORDER="0">$/;"	a
+trace	.\uemf.c	/^void trace(int level, char_t *fmt, ...)$/;"	f
+traceHandler	.\uemf.c	/^static void (*traceHandler)(int level, char_t *buf) = defaultTraceHandler;$/;"	v	file:
+traceHandler	.\webs.c	/^static void traceHandler(int level, char_t *buf)$/;"	f	file:
+traceRaw	.\uemf.c	/^void traceRaw(char_t *buf)$/;"	f
+traceSetHandler	.\uemf.c	/^void (*traceSetHandler(void (*function)(int level, char_t *buf))) $/;"	f
+trim	.\emfdb.c	/^static char_t *trim(char_t *str)$/;"	f	file:
+tryAlternateConnect	.\sockGen.c	/^static int tryAlternateConnect(int sock, struct sockaddr *sockaddr)$/;"	f	file:
+tryAlternateSendTo	.\sock.c	/^static int tryAlternateSendTo(int sock, char *buf, int toWrite, int i,$/;"	f	file:
+tv_sec	.\uemf.h	/^	time_t	tv_sec;		\/* Seconds.  *\/$/;"	m	struct:timeval
+tv_usec	.\uemf.h	/^	time_t	tv_usec;	\/* Microseconds.  *\/$/;"	m	struct:timeval
+type	.\uemf.h	/^	vtype_t			type;$/;"	m	struct:__anon10
+type	.\webs.h	/^	char_t			type[64];			\/* Mime type *\/$/;"	m	struct:websRec
+type	.\wsIntrn.h	/^	char_t	*type;							\/* Mime type *\/$/;"	m	struct:__anon27
+u	.\uemf.h	/^	} u;$/;"	m	struct:__anon13	typeref:union:__anon13::__anon14
+u_char	.\CE\wincompat.h	/^typedef unsigned char u_char;$/;"	t
+u_int	.\CE\wincompat.h	/^typedef unsigned int u_int;$/;"	t
+u_long	.\CE\wincompat.h	/^typedef unsigned long u_long;$/;"	t
+u_long	.\CE\wincompat.h	63;"	d
+u_short	.\CE\wincompat.h	/^typedef unsigned short u_short;$/;"	t
+u_short	.\CE\wincompat.h	64;"	d
+uchar_t	.\uemf.h	/^typedef unsigned char		uchar_t;$/;"	t
+uchar_t	.\uemf.h	/^typedef unsigned short		uchar_t;$/;"	t
+uid_t	.\CE\wincompat.h	/^typedef unsigned short uid_t;$/;"	t
+uint	.\CE\wincompat.h	/^typedef unsigned int uint;$/;"	t
+uint_t	.\CE\wincompat.h	/^typedef unsigned int uint_t;$/;"	t
+ulong	.\CE\wincompat.h	/^typedef unsigned long ulong;$/;"	t
+ulong32	.\md5.h	/^typedef unsigned int	ulong32;$/;"	t
+umAccessLimitExists	.\um.c	/^bool_t	umAccessLimitExists(char_t *url)$/;"	f
+umAddAccessLimit	.\um.c	/^int	umAddAccessLimit(char_t *url, accessMeth_t am, short secure, char_t *group)$/;"	f
+umAddGroup	.\um.c	/^int	umAddGroup(char_t *group, short priv, accessMeth_t am, $/;"	f
+umAddUser	.\um.c	/^int	umAddUser(char_t *user, char_t *pass, char_t *group, $/;"	f
+umCheckName	.\um.c	/^static bool_t umCheckName(char_t *name)$/;"	f	file:
+umClose	.\um.c	/^void umClose()$/;"	f
+umCommit	.\um.c	/^int	umCommit(char_t *filename)$/;"	f
+umDeleteAccessLimit	.\um.c	/^int	umDeleteAccessLimit(char_t *url)$/;"	f
+umDeleteGroup	.\um.c	/^int	umDeleteGroup(char_t *group)$/;"	f
+umDeleteUser	.\um.c	/^int	umDeleteUser(char_t *user)$/;"	f
+umEncryptString	.\um.c	/^static int umEncryptString(char_t *textString)$/;"	f	file:
+umGetAccessLimit	.\security.c	38;"	d	file:
+umGetAccessLimit	.\um.c	/^char_t *umGetAccessLimit(char_t *url)$/;"	f
+umGetAccessLimitGroup	.\um.c	/^char_t *umGetAccessLimitGroup(char_t *url)$/;"	f
+umGetAccessLimitMethod	.\um.c	/^accessMeth_t umGetAccessLimitMethod(char_t *url)$/;"	f
+umGetAccessLimitSecure	.\security.c	37;"	d	file:
+umGetAccessLimitSecure	.\um.c	/^short umGetAccessLimitSecure(char_t *url)$/;"	f
+umGetAccessMethodForURL	.\security.c	33;"	d	file:
+umGetAccessMethodForURL	.\um.c	/^accessMeth_t umGetAccessMethodForURL(char_t *url)$/;"	f
+umGetFirstAccessLimit	.\um.c	/^char_t *umGetFirstAccessLimit()$/;"	f
+umGetFirstGroup	.\um.c	/^char_t *umGetFirstGroup()$/;"	f
+umGetFirstRowData	.\um.c	/^static char_t *umGetFirstRowData(char_t *tableName, char_t *columnName)$/;"	f	file:
+umGetFirstUser	.\um.c	/^char_t *umGetFirstUser()$/;"	f
+umGetGroupAccessMethod	.\um.c	/^accessMeth_t umGetGroupAccessMethod(char_t *group)$/;"	f
+umGetGroupEnabled	.\um.c	/^bool_t umGetGroupEnabled(char_t *group)$/;"	f
+umGetGroupInUse	.\um.c	/^bool_t umGetGroupInUse(char_t *group)$/;"	f
+umGetGroupPrivilege	.\um.c	/^short umGetGroupPrivilege(char_t *group)$/;"	f
+umGetGroupProtected	.\um.c	/^bool_t umGetGroupProtected(char_t *group)$/;"	f
+umGetNextAccessLimit	.\um.c	/^char_t *umGetNextAccessLimit(char_t *urlLast)$/;"	f
+umGetNextGroup	.\um.c	/^char_t *umGetNextGroup(char_t *groupLast)$/;"	f
+umGetNextRowData	.\um.c	/^static char_t *umGetNextRowData(char_t *tableName, char_t *columnName, $/;"	f	file:
+umGetNextUser	.\um.c	/^char_t *umGetNextUser(char_t *userLast)$/;"	f
+umGetUserEnabled	.\um.c	/^bool_t	umGetUserEnabled(char_t *user)$/;"	f
+umGetUserGroup	.\um.c	/^char_t *umGetUserGroup(char_t *user)$/;"	f
+umGetUserPassword	.\security.c	36;"	d	file:
+umGetUserPassword	.\um.c	/^char_t *umGetUserPassword(char_t *user)$/;"	f
+umGetUserProtected	.\um.c	/^bool_t umGetUserProtected(char_t *user)$/;"	f
+umGroupExists	.\um.c	/^bool_t umGroupExists(char_t *group)$/;"	f
+umOpen	.\um.c	/^int umOpen()$/;"	f
+umOpenCount	.\um.c	/^static int		umOpenCount = 0;		\/* count of apps using this module *\/$/;"	v	file:
+umRestore	.\um.c	/^int umRestore(char_t *filename)$/;"	f
+umSetAccessLimitGroup	.\um.c	/^int	umSetAccessLimitGroup(char_t *url, char_t *group)$/;"	f
+umSetAccessLimitMethod	.\um.c	/^int	umSetAccessLimitMethod(char_t *url, accessMeth_t am)$/;"	f
+umSetAccessLimitSecure	.\um.c	/^int	umSetAccessLimitSecure(char_t *url, short secure)$/;"	f
+umSetGroupAccessMethod	.\um.c	/^int	umSetGroupAccessMethod(char_t *group, accessMeth_t am)$/;"	f
+umSetGroupEnabled	.\um.c	/^int umSetGroupEnabled(char_t *group, bool_t enabled)$/;"	f
+umSetGroupPrivilege	.\um.c	/^int	umSetGroupPrivilege(char_t *group, short privilege)$/;"	f
+umSetGroupProtected	.\um.c	/^int	umSetGroupProtected(char_t *group, bool_t protect)$/;"	f
+umSetUserEnabled	.\um.c	/^int	umSetUserEnabled(char_t *user, bool_t enabled)$/;"	f
+umSetUserGroup	.\um.c	/^int	umSetUserGroup(char_t *user, char_t *group)$/;"	f
+umSetUserPassword	.\um.c	/^int	umSetUserPassword(char_t *user, char_t *pass)$/;"	f
+umSetUserProtected	.\um.c	/^int	umSetUserProtected(char_t *user, bool_t protect)$/;"	f
+umUserCanAccessURL	.\security.c	35;"	d	file:
+umUserCanAccessURL	.\um.c	/^bool_t umUserCanAccessURL(char_t *user, char_t *url)$/;"	f
+umUserExists	.\security.c	34;"	d	file:
+umUserExists	.\um.c	/^bool_t umUserExists(char_t *user)$/;"	f
+umask	.\CE\wincompat.c	/^int umask(int mode)$/;"	f
+umc	.\wwwdemo\over\architecture.htm	/^<TR><TD WIDTH="21%">um.c<A NAME="umc"><\/A><\/TD><TD WIDTH="79%">user management<\/TD><\/TR>$/;"	a
+unchar	.\CE\wincompat.h	/^typedef unsigned char unchar;$/;"	t
+undefined	.\uemf.h	/^	undefined	= 0,$/;"	e	enum:__anon9
+unescape_url	.\wwwdemo\cgi-bin\cgitest.c	/^void unescape_url(char *url) $/;"	f
+uniToAsc	.\misc.c	/^char *uniToAsc(char *buf, char_t *ustr, int nBytes)$/;"	f
+unlink	.\uemf.h	568;"	d
+uri	.\webs.h	/^    char_t			*uri;		\/* URI found in DAA header *\/$/;"	m	struct:websRec
+url	.\default.c	/^	char			*url;$/;"	m	struct:_sslList	file:
+url	.\webs.h	/^	char_t			*url;				\/* Full request url *\/$/;"	m	struct:websRec
+urlHandlerOpenCount	.\handler.c	/^static int					urlHandlerOpenCount = 0;	\/* count of apps *\/$/;"	v	file:
+urlPrefix	.\wsIntrn.h	/^	char_t	*urlPrefix;						\/* URL leading prefix *\/$/;"	m	struct:__anon24
+usage	.\utils\webcomp.c	/^static void usage()$/;"	f	file:
+userAgent	.\webs.h	/^	char_t			*userAgent;			\/* User agent (browser) *\/$/;"	m	struct:websRec
+userColumnNames	.\um.c	/^char_t	*userColumnNames[NUMBER_OF_USER_COLUMNS] = {$/;"	v
+userColumnTypes	.\um.c	/^int		userColumnTypes[NUMBER_OF_USER_COLUMNS] = {$/;"	v
+userHandle	.\ejIntrn.h	/^	void		*userHandle;					\/* User defined handle *\/$/;"	m	struct:ej
+userName	.\webs.h	/^	char_t			*userName;			\/* Authorization username *\/$/;"	m	struct:websRec
+userTable	.\um.c	/^dbTable_t userTable = {$/;"	v
+ushort	.\CE\wincompat.h	/^typedef unsigned short ushort;$/;"	t
+valid	.\uemf.h	/^	unsigned int	valid		: 8;$/;"	m	struct:__anon10
+value	.\uemf.h	/^	} value;$/;"	m	struct:__anon10	typeref:union:__anon10::__anon11
+valueFree	.\value.c	/^void valueFree(value_t* v)$/;"	f
+valueInteger	.\value.c	/^value_t valueInteger(long value)$/;"	f
+valueString	.\value.c	/^value_t valueString(char_t* value, int flags)$/;"	f
+value_numeric	.\uemf.h	674;"	d
+value_ok	.\uemf.h	676;"	d
+value_str	.\uemf.h	675;"	d
+value_t	.\uemf.h	/^} value_t;$/;"	t	typeref:struct:__anon10
+variableMax	.\ejIntrn.h	/^	int			variableMax;					\/* Number of entries *\/$/;"	m	struct:ej
+variables	.\ejIntrn.h	/^	sym_fd_t	*variables;						\/* hAlloc list of variables *\/$/;"	m	struct:ej
+verifyBallocSpace	.\balloc.c	/^void verifyBallocSpace()$/;"	f
+verifyFreeBlock	.\balloc.c	/^static void verifyFreeBlock(bType *bp, int q)$/;"	f	file:
+verifyUsedBlock	.\balloc.c	/^static void verifyUsedBlock(bType *bp, int q)$/;"	f	file:
+vtype_t	.\uemf.h	/^} vtype_t;$/;"	t	typeref:enum:__anon9
+vxWebsCgiEntry	.\cgi.c	/^static void vxWebsCgiEntry(void *entryAddr(int argc, char_t **argv),$/;"	f	file:
+vxcgitst_cgientry	.\VXWORKS\vxcgitst.c	/^void vxcgitst_cgientry(int argc, char **argv)$/;"	f
+vxchdir	.\VXWORKS\main.c	/^int vxchdir(char_t *dirname)$/;"	f
+waitForWriteEvent	.\matrixSSLSocket.c	/^static int waitForWriteEvent(int fd, int msec)$/;"	f	file:
+webDir	.\wsIntrn.h	/^	char_t	*webDir;						\/* Web directory if required *\/$/;"	m	struct:__anon24
+webs	.\webs.c	/^webs_t			*webs;					\/* Open connection list head *\/$/;"	v
+webs	.\wwwdemo\over\architecture.htm	/^<TR><TD WIDTH="21%">webs.c<A NAME="webs"><\/A><\/TD><TD WIDTH="79%">primary GoAhead WebServer code. Includes state machine.<\/TD><\/TR>$/;"	a
+websAboutProc	.\WIN\main.c	/^static long CALLBACK websAboutProc(HWND hwndDlg, unsigned int msg, $/;"	f	file:
+websAccept	.\webs.c	/^int websAccept(int sid, char *ipaddr, int port, int listenSid)$/;"	f
+websAlloc	.\webs.c	/^int websAlloc(int sid)$/;"	f
+websAspClose	.\asp.c	/^void websAspClose()$/;"	f
+websAspDefine	.\asp.c	/^int websAspDefine(char_t *name, $/;"	f
+websAspFunctions	.\asp.c	/^static sym_fd_t	websAspFunctions = -1;	\/* Symbol table of functions *\/$/;"	v	file:
+websAspOpen	.\asp.c	/^int websAspOpen()$/;"	f
+websAspRequest	.\asp.c	/^int websAspRequest(webs_t wp, char_t *lpath)$/;"	f
+websAspWrite	.\asp.c	/^int websAspWrite(int ejid, webs_t wp, int argc, char_t **argv)$/;"	f
+websBuildWhitelist	.\default.c	/^int websBuildWhitelist(void)$/;"	f
+websBuildWhitelist	.\default.c	69;"	d	file:
+websBuildWhitelistRecursive	.\default.c	/^static int websBuildWhitelistRecursive(char *_path, fileNode_t *dir, int level)$/;"	f	file:
+websCalcDigest	.\websda.c	/^char_t *websCalcDigest(webs_t wp)$/;"	f
+websCalcNonce	.\websda.c	/^char_t *websCalcNonce(webs_t wp)$/;"	f
+websCalcOpaque	.\websda.c	/^char_t *websCalcOpaque(webs_t wp)$/;"	f
+websCalcUrlDigest	.\websda.c	/^char_t *websCalcUrlDigest(webs_t wp)$/;"	f
+websCgiCleanup	.\cgi.c	/^void websCgiCleanup()$/;"	f
+websCgiGatherOutput	.\cgi.c	/^void websCgiGatherOutput (cgiRec *cgip)$/;"	f
+websCgiHandler	.\cgi.c	/^int websCgiHandler(webs_t wp, char_t *urlPrefix, char_t *webDir, int arg, $/;"	f
+websCheckCgiProc	.\cgi.c	/^int websCheckCgiProc(int handle)$/;"	f
+websCloseListen	.\webs.c	/^void websCloseListen()$/;"	f
+websCloseServer	.\webs.c	/^void websCloseServer()$/;"	f
+websCompareVar	.\webs.c	/^int websCompareVar(webs_t wp, char_t *var, char_t *value)$/;"	f
+websCondenseMultipleChars	.\handler.c	/^static char_t *websCondenseMultipleChars(char_t *strToCondense, char_t cCondense)$/;"	f	file:
+websDecode64	.\mime64.c	/^int websDecode64(char_t *outbuf, char_t *string, int outlen)$/;"	f
+websDecodeUrl	.\webs.c	/^void websDecodeUrl(char_t *decoded, char_t *token, int len)$/;"	f
+websDefaultClose	.\default.c	/^void websDefaultClose()$/;"	f
+websDefaultDir	.\default.c	/^static char_t	*websDefaultDir;			\/* Default Web page directory *\/$/;"	v	file:
+websDefaultHandler	.\default.c	/^int websDefaultHandler(webs_t wp, char_t *urlPrefix, char_t *webDir, int arg,$/;"	f
+websDefaultOpen	.\default.c	/^void websDefaultOpen()$/;"	f
+websDefaultPage	.\default.c	/^static char_t	*websDefaultPage;			\/* Default page name *\/$/;"	v	file:
+websDefaultWriteEvent	.\default.c	/^static void websDefaultWriteEvent(webs_t wp)$/;"	f	file:
+websDeleteWhitelist	.\default.c	/^void websDeleteWhitelist(void)$/;"	f
+websDeleteWhitelistRecursive	.\default.c	/^static void websDeleteWhitelistRecursive(fileNode_t *dir)$/;"	f	file:
+websDone	.\webs.c	/^void websDone(webs_t wp, int code)$/;"	f
+websError	.\webs.c	/^void websError(webs_t wp, int code, char_t *fmt, ...)$/;"	f
+websErrorMsg	.\webs.c	/^char_t *websErrorMsg(int code)$/;"	f
+websErrorType	.\wsIntrn.h	/^} websErrorType;$/;"	t	typeref:struct:__anon26
+websErrors	.\webs.c	/^websErrorType websErrors[] = {$/;"	v
+websFooter	.\form.c	/^void websFooter(webs_t wp)$/;"	f
+websFormClose	.\form.c	/^void websFormClose()$/;"	f
+websFormDefine	.\form.c	/^int websFormDefine(char_t *name, void (*fn)(webs_t wp, char_t *path, $/;"	f
+websFormHandler	.\form.c	/^int websFormHandler(webs_t wp, char_t *urlPrefix, char_t *webDir, int arg, $/;"	f
+websFormOpen	.\form.c	/^void websFormOpen()$/;"	f
+websFree	.\webs.c	/^void websFree(webs_t wp)$/;"	f
+websGetCgiCommName	.\cgi.c	/^char_t *websGetCgiCommName()$/;"	f
+websGetDateString	.\webs.c	/^char_t *websGetDateString(websStatType *sbuf)$/;"	f
+websGetDefaultDir	.\default.c	/^char_t *websGetDefaultDir()$/;"	f
+websGetDefaultPage	.\default.c	/^char_t *websGetDefaultPage()$/;"	f
+websGetHost	.\webs.c	/^char_t *websGetHost()$/;"	f
+websGetHostUrl	.\webs.c	/^char_t *websGetHostUrl()$/;"	f
+websGetInput	.\webs.c	/^static int websGetInput(webs_t wp, char_t **ptext, int *pnbytes) $/;"	f	file:
+websGetIpaddrUrl	.\webs.c	/^char_t *websGetIpaddrUrl()$/;"	f
+websGetPassword	.\security.c	/^char_t *websGetPassword()$/;"	f
+websGetPort	.\webs.c	/^int websGetPort()$/;"	f
+websGetPublishDir	.\handler.c	/^char_t *websGetPublishDir(char_t *path, char_t **urlPrefix)$/;"	f
+websGetRealm	.\webs.c	/^char_t *websGetRealm()$/;"	f
+websGetRequestBytes	.\webs.c	/^int websGetRequestBytes(webs_t wp)$/;"	f
+websGetRequestDir	.\webs.c	/^char_t *websGetRequestDir(webs_t wp)$/;"	f
+websGetRequestFlags	.\webs.c	/^int websGetRequestFlags(webs_t wp)$/;"	f
+websGetRequestIpaddr	.\webs.c	/^char_t *websGetRequestIpaddr(webs_t wp)$/;"	f
+websGetRequestLpath	.\webs.c	/^char_t *websGetRequestLpath(webs_t wp)$/;"	f
+websGetRequestPassword	.\webs.c	/^char_t *websGetRequestPassword(webs_t wp)$/;"	f
+websGetRequestPath	.\webs.c	/^char_t *websGetRequestPath(webs_t wp)$/;"	f
+websGetRequestType	.\webs.c	/^char_t *websGetRequestType(webs_t wp)$/;"	f
+websGetRequestUserName	.\webs.c	/^char_t *websGetRequestUserName(webs_t wp)$/;"	f
+websGetRequestWritten	.\webs.c	/^int websGetRequestWritten(webs_t wp)$/;"	f
+websGetTimeSinceMark	.\webs.c	/^static int websGetTimeSinceMark(webs_t wp)$/;"	f	file:
+websGetVar	.\webs.c	/^char_t *websGetVar(webs_t wp, char_t *var, char_t *defaultGetValue)$/;"	f
+websHeader	.\form.c	/^void websHeader(webs_t wp)$/;"	f
+websHomePageHandler	.\CE\main.c	/^static int websHomePageHandler(webs_t wp, char_t *urlPrefix, char_t *webDir,$/;"	f	file:
+websHomePageHandler	.\ECOS\main.c	/^static int websHomePageHandler(webs_t wp, char_t *urlPrefix, char_t *webDir,$/;"	f	file:
+websHomePageHandler	.\LINUX\main.c	/^static int websHomePageHandler(webs_t wp, char_t *urlPrefix, char_t *webDir,$/;"	f	file:
+websHomePageHandler	.\LYNX\main.c	/^static int websHomePageHandler(webs_t wp, char_t *urlPrefix, char_t *webDir,$/;"	f	file:
+websHomePageHandler	.\MACOSX\main.c	/^static int websHomePageHandler(webs_t wp, char_t *urlPrefix, char_t *webDir,$/;"	f	file:
+websHomePageHandler	.\NW\main.c	/^static int websHomePageHandler(webs_t wp, char_t *urlPrefix, char_t *webDir,$/;"	f	file:
+websHomePageHandler	.\QNX4\main.c	/^static int websHomePageHandler(webs_t wp, char_t *urlPrefix, char_t *webDir,$/;"	f	file:
+websHomePageHandler	.\VXWORKS\main.c	/^static int websHomePageHandler(webs_t wp, char_t *urlPrefix, char_t *webDir,$/;"	f	file:
+websHomePageHandler	.\WIN\main.c	/^static int websHomePageHandler(webs_t wp, char_t *urlPrefix, char_t *webDir,$/;"	f	file:
+websHost	.\webs.c	/^char_t			websHost[64];			\/* Host name for the server *\/$/;"	v
+websHostUrl	.\webs.c	/^char_t			*websHostUrl = NULL;	\/* URL to access server *\/$/;"	v
+websIpaddr	.\webs.c	/^char_t			websIpaddr[64];			\/* IP address for the server *\/$/;"	v
+websIpaddrUrl	.\webs.c	/^char_t			*websIpaddrUrl = NULL;	\/* URL to access server *\/$/;"	v
+websLaunchCgiProc	.\cgi.c	/^int websLaunchCgiProc(char_t *cgiPath, char_t **argp, char_t **envp,$/;"	f
+websListenSock	.\webs.c	/^static int		websListenSock;					\/* Listen socket *\/$/;"	v	file:
+websLog	.\webs.c	/^static void websLog(webs_t wp, int code)$/;"	f	file:
+websLogFd	.\webs.c	/^static int 		websLogFd;						\/* Log file handle *\/$/;"	v	file:
+websLogname	.\webs.c	/^static char_t	websLogname[64] = T("log.txt");	\/* Log filename *\/$/;"	v	file:
+websMD5	.\websda.c	/^char_t *websMD5(char_t *string)$/;"	f
+websMD5binary	.\websda.c	/^char *websMD5binary(unsigned char *buf, int length)$/;"	f
+websMakePath	.\default.c	/^static void websMakePath(char *d, char *src, char *subdir, int wildcard)$/;"	f	file:
+websMax	.\webs.c	/^int				websMax;				\/* List size *\/$/;"	v
+websMime	.\webs.c	/^sym_fd_t		websMime;				\/* Set of mime types *\/$/;"	v
+websMimeList	.\mime.c	/^websMimeType websMimeList[] = {$/;"	v
+websMimeType	.\wsIntrn.h	/^} websMimeType;$/;"	t	typeref:struct:__anon27
+websMsgEnd	.\umui.c	/^static void	websMsgEnd(webs_t wp)$/;"	f	file:
+websMsgStart	.\umui.c	/^static void	websMsgStart(webs_t wp)$/;"	f	file:
+websOpenCount	.\webs.c	/^static int		websOpenCount = 0;		\/* count of apps using this module *\/$/;"	v	file:
+websOpenListen	.\webs.c	/^int websOpenListen(int port, int retries)$/;"	f
+websOpenServer	.\webs.c	/^int websOpenServer(int port, int retries)$/;"	f
+websPageClose	.\page.c	/^void websPageClose(webs_t wp)$/;"	f
+websPageIsDirectory	.\page.c	/^int websPageIsDirectory(char_t *lpath)$/;"	f
+websPageOpen	.\page.c	/^int websPageOpen(webs_t wp, char_t *lpath, char_t *path, int mode, int perm)$/;"	f
+websPageReadData	.\page.c	/^int websPageReadData(webs_t wp, char *buf, int nBytes)$/;"	f
+websPageSeek	.\page.c	/^void websPageSeek(webs_t wp, long offset)$/;"	f
+websPageStat	.\page.c	/^int websPageStat(webs_t wp, char_t *lpath, char_t *path, websStatType* sbuf)$/;"	f
+websParseFirst	.\webs.c	/^static int websParseFirst(webs_t wp, char_t *text)$/;"	f	file:
+websParseRequest	.\webs.c	/^static void websParseRequest(webs_t wp)$/;"	f	file:
+websPassword	.\security.c	/^static char_t	websPassword[WEBS_MAX_PASS];	\/* Access password (decoded) *\/$/;"	v	file:
+websPort	.\webs.c	/^int				websPort;				\/* Listen port for server *\/$/;"	v
+websPublish	.\handler.c	/^int websPublish(char_t *urlPrefix, char_t *path)$/;"	f
+websPublishHandler	.\handler.c	/^static int websPublishHandler(webs_t wp, char_t *urlPrefix, char_t *webDir, $/;"	f	file:
+websReadEvent	.\webs.c	/^void websReadEvent(webs_t wp)$/;"	f
+websRealm	.\webs.c	/^static char_t	websRealm[64] = T("GoAhead");	\/* Realm name *\/$/;"	v	file:
+websRec	.\webs.h	/^typedef struct websRec {$/;"	s
+websRec	.\webs.h	/^} websRec;$/;"	t	typeref:struct:websRec
+websRedirect	.\webs.c	/^void websRedirect(webs_t wp, char_t *url)$/;"	f
+websRequireSSL	.\default.c	/^int websRequireSSL(char *url)$/;"	f
+websResponse	.\webs.c	/^void websResponse(webs_t wp, int code, char_t *message, char_t *redirect)$/;"	f
+websRomClose	.\rom.c	/^void websRomClose()$/;"	f
+websRomOpen	.\rom.c	/^int websRomOpen()$/;"	f
+websRomPageClose	.\rom.c	/^void websRomPageClose(int fd)$/;"	f
+websRomPageIndex	.\webrom.c	/^websRomPageIndexType websRomPageIndex[] = {$/;"	v
+websRomPageIndexType	.\wsIntrn.h	/^} websRomPageIndexType;$/;"	t	typeref:struct:__anon29
+websRomPageOpen	.\rom.c	/^int websRomPageOpen(webs_t wp, char_t *path, int mode, int perm)$/;"	f
+websRomPageReadData	.\rom.c	/^int websRomPageReadData(webs_t wp, char *buf, int nBytes)$/;"	f
+websRomPageSeek	.\rom.c	/^long websRomPageSeek(webs_t wp, long offset, int origin)$/;"	f
+websRomPageStat	.\rom.c	/^int websRomPageStat(char_t *path, websStatType *sbuf)$/;"	f
+websSSLAccept	.\websSSL.c	/^int websSSLAccept(int sid, char *ipaddr, int port, int listenSid)$/;"	f
+websSSLClose	.\websSSL.c	/^void websSSLClose()$/;"	f
+websSSLEof	.\websSSL.c	/^int websSSLEof(websSSL_t *wsp)$/;"	f
+websSSLFlush	.\websSSL.c	/^int websSSLFlush(websSSL_t *wsp)$/;"	f
+websSSLFree	.\websSSL.c	/^int websSSLFree(websSSL_t *wsp)$/;"	f
+websSSLGets	.\websSSL.c	/^int websSSLGets(websSSL_t *wsp, char_t **buf)$/;"	f
+websSSLIsOpen	.\websSSL.c	/^int websSSLIsOpen()$/;"	f
+websSSLOpen	.\websSSL.c	/^int websSSLOpen()$/;"	f
+websSSLRead	.\websSSL.c	/^int websSSLRead(websSSL_t *wsp, char_t *buf, int len)$/;"	f
+websSSLReadEvent	.\websSSL.c	/^static int websSSLReadEvent (webs_t wp)$/;"	f	file:
+websSSLSocketEvent	.\websSSL.c	/^static void websSSLSocketEvent(int sid, int mask, void *iwp)$/;"	f	file:
+websSSLWrite	.\websSSL.c	/^int websSSLWrite(websSSL_t *wsp, char_t *buf, int len)$/;"	f
+websSSL_t	.\websSSL.h	/^} websSSL_t;$/;"	t	typeref:struct:__anon17
+websSafeUrl	.\webs.c	/^static char_t* websSafeUrl(const char_t* url)$/;"	f	file:
+websSecurityDelete	.\security.c	/^void websSecurityDelete()$/;"	f
+websSecurityHandler	.\security.c	/^int websSecurityHandler(webs_t wp, char_t *urlPrefix, char_t *webDir, int arg, $/;"	f
+websSetDefaultDir	.\default.c	/^void websSetDefaultDir(char_t *dir)$/;"	f
+websSetDefaultPage	.\default.c	/^void websSetDefaultPage(char_t *page)$/;"	f
+websSetEnv	.\webs.c	/^void websSetEnv(webs_t wp)$/;"	f
+websSetHost	.\webs.c	/^void websSetHost(char_t *host)$/;"	f
+websSetHostUrl	.\webs.c	/^void websSetHostUrl(char_t *url)$/;"	f
+websSetIpaddr	.\webs.c	/^void websSetIpaddr(char_t *ipaddr)$/;"	f
+websSetPassword	.\security.c	/^void websSetPassword(char_t *password)$/;"	f
+websSetRealm	.\webs.c	/^void websSetRealm(char_t *realmName)$/;"	f
+websSetRequestBytes	.\webs.c	/^void websSetRequestBytes(webs_t wp, int bytes)$/;"	f
+websSetRequestFlags	.\webs.c	/^void websSetRequestFlags(webs_t wp, int flags)$/;"	f
+websSetRequestLpath	.\webs.c	/^void websSetRequestLpath(webs_t wp, char_t *lpath)$/;"	f
+websSetRequestPath	.\webs.c	/^void websSetRequestPath(webs_t wp, char_t *dir, char_t *path)$/;"	f
+websSetRequestSocketHandler	.\webs.c	/^void websSetRequestSocketHandler(webs_t wp, int mask, void (*fn)(webs_t wp))$/;"	f
+websSetRequestWritten	.\webs.c	/^void websSetRequestWritten(webs_t wp, int written)$/;"	f
+websSetTimeMark	.\webs.c	/^void websSetTimeMark(webs_t wp)$/;"	f
+websSetVar	.\webs.c	/^void websSetVar(webs_t wp, char_t *var, char_t *value)$/;"	f
+websSocketEvent	.\webs.c	/^static void websSocketEvent(int sid, int mask, void* iwp)$/;"	f	file:
+websStatType	.\wsIntrn.h	/^} websStatType;$/;"	t	typeref:struct:__anon28
+websStats	.\webs.c	/^websStatsType	websStats;				\/* Web access stats *\/$/;"	v
+websStatsType	.\wsIntrn.h	/^} websStatsType;$/;"	t	typeref:struct:__anon25
+websTermSigHandler	.\VXWORKS\main.c	/^static void websTermSigHandler(int signo)$/;"	f	file:
+websTestVar	.\webs.c	/^int websTestVar(webs_t wp, char_t *var)$/;"	f
+websTimeout	.\webs.c	/^void websTimeout(void *arg, int id)$/;"	f
+websTimeoutCancel	.\webs.c	/^void websTimeoutCancel(webs_t wp)$/;"	f
+websTraceFd	.\webs.c	/^static int 		websTraceFd;						\/* Log file handle *\/$/;"	v	file:
+websTracename	.\webs.c	/^static char_t	websTracename[64] = T("trace.txt");	\/* Log filename *\/$/;"	v	file:
+websType	.\webs.h	/^typedef websRec websType;$/;"	t
+websUrlHandler	.\handler.c	/^static websUrlHandlerType	*websUrlHandler;			\/* URL handler list *\/$/;"	v	file:
+websUrlHandlerClose	.\handler.c	/^void websUrlHandlerClose()$/;"	f
+websUrlHandlerDefine	.\handler.c	/^int websUrlHandlerDefine(char_t *urlPrefix, char_t *webDir, int arg,$/;"	f
+websUrlHandlerDelete	.\handler.c	/^int websUrlHandlerDelete(int (*handler)(webs_t wp, char_t *urlPrefix, $/;"	f
+websUrlHandlerMax	.\handler.c	/^static int					websUrlHandlerMax;			\/* Number of entries *\/$/;"	v	file:
+websUrlHandlerOpen	.\handler.c	/^int websUrlHandlerOpen()$/;"	f
+websUrlHandlerRequest	.\handler.c	/^int websUrlHandlerRequest(webs_t wp)$/;"	f
+websUrlHandlerSort	.\handler.c	/^static int websUrlHandlerSort(const void *p1, const void *p2)$/;"	f	file:
+websUrlHandlerType	.\wsIntrn.h	/^} websUrlHandlerType;$/;"	t	typeref:struct:__anon24
+websUrlParse	.\url.c	/^int websUrlParse(char_t *url, char_t **pbuf, char_t **phost, char_t **ppath, $/;"	f
+websUrlType	.\url.c	/^char_t *websUrlType(char_t *url, char_t *buf, int charCnt)$/;"	f
+websValid	.\webs.c	/^int websValid(webs_t wp)$/;"	f
+websValidateUrl	.\default.c	/^int websValidateUrl(webs_t wp, char_t *path)$/;"	f
+websWhitelistCheck	.\default.c	/^int websWhitelistCheck(char *url)$/;"	f
+websWhitelistCheckRecursive	.\default.c	/^static fileNode_t* websWhitelistCheckRecursive(fileNode_t *n, char *path)$/;"	f	file:
+websWindProc	.\WIN\main.c	/^static long CALLBACK websWindProc(HWND hwnd, unsigned int msg, $/;"	f	file:
+websWrite	.\webs.c	/^int websWrite(webs_t wp, char_t *fmt, ...)$/;"	f
+websWriteBlock	.\webs.c	/^int websWriteBlock(webs_t wp, char_t *buf, int nChars)$/;"	f
+websWriteDataNonBlock	.\webs.c	/^int websWriteDataNonBlock(webs_t wp, char *buf, int nChars)$/;"	f
+webs_t	.\webs.h	/^typedef websRec	*webs_t;$/;"	t
+websvxmain	.\VXWORKS\main.c	/^int websvxmain(int argc, char **argv)$/;"	f
+whitelist	.\default.c	/^static fileNode_t	*whitelist = NULL; \/* Global tree of files in list *\/$/;"	v	file:
+who	.\balloc.c	/^	bStatsFileType	*who;						\/* Who allocated the memory *\/$/;"	m	struct:__anon20	file:
+wid	.\webs.h	/^	int				wid;				\/* Index into webs *\/$/;"	m	struct:websRec
+windowsClose	.\WIN\main.c	/^static int windowsClose(HINSTANCE hInstance)$/;"	f	file:
+windowsInit	.\CE\main.c	/^static int windowsInit(HINSTANCE hinstance)$/;"	f	file:
+windowsInit	.\WIN\main.c	/^static int windowsInit(HINSTANCE hinstance)$/;"	f	file:
+wp	.\cgi.c	/^	webs_t	wp;					\/* pointer to session websRec *\/$/;"	m	struct:__anon22	file:
+wp	.\websSSL.h	/^	struct websRec* wp;$/;"	m	struct:__anon17	typeref:struct:__anon17::websRec
+write	.\CE\wincompat.c	/^int write(int fid, void *buf, unsigned int len)$/;"	f
+write	.\uemf.h	565;"	d
+writeSocket	.\webs.h	/^	void			(*writeSocket)(struct websRec *wp);$/;"	m	struct:websRec
+writeUniToAsc	.\CE\wincompat.c	/^int writeUniToAsc(int fid, void *buf, unsigned int len)$/;"	f
+written	.\webs.h	/^	int				written;			\/* Bytes actually transferred *\/$/;"	m	struct:websRec
+wsp	.\webs.h	/^	websSSL_t		*wsp;		\/* SSL data structure *\/$/;"	m	struct:websRec
+x2c	.\wwwdemo\cgi-bin\cgitest.c	/^char x2c(char *what) $/;"	f

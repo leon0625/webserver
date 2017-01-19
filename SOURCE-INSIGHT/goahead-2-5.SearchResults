@@ -1,0 +1,16 @@
+---- sym Matches (15 in 2 files) ----
+Sym.c (z:\software\webs-2-5): * sym.c -- Symbol Table module
+Sym.c (z:\software\webs-2-5):static sym_tabent_t	**sym;				/* List of symbol tables */
+Sym.c (z:\software\webs-2-5):static int			symOpenCount = 0;	/* Count of apps using sym */
+Sym.c (z:\software\webs-2-5):		sym = NULL;
+Sym.c (z:\software\webs-2-5):	if ((sd = hAlloc((void***) &sym)) < 0) {
+Sym.c (z:\software\webs-2-5):		symMax = hFree((void***) &sym, sd);
+Sym.c (z:\software\webs-2-5):	sym[sd] = tp;
+Sym.c (z:\software\webs-2-5):	tp = sym[sd];
+Sym.c (z:\software\webs-2-5):	symMax = hFree((void***) &sym, sd);
+Sym.c (z:\software\webs-2-5):	tp = sym[sd];
+Sym.c (z:\software\webs-2-5):	tp = sym[sd];
+Sym.c (z:\software\webs-2-5):	if ((tp = sym[sd]) == NULL) {
+Sym.c (z:\software\webs-2-5):	tp = sym[sd];
+Sym.c (z:\software\webs-2-5):	tp = sym[sd];
+wsIntrn.h (z:\software\webs-2-5):#define WEBS_SYM_INIT		64			/* initial # of sym table entries */

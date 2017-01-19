@@ -1,0 +1,55 @@
+
+/*********************************** Code *************************************/
+/*
+ *	Write to a socket. Absorb as much data as the socket can buffer. Block if 
+ *	the socket is in blocking mode. Returns -1 on error, otherwise the number 
+ *	of bytes written.
+ */
+
+int	socketWrite(int sid, char *buf, int bufsize)
+{
+	socket_t	*sp;
+	ringq_t		*rq;
+	int			len, bytesWritten, room;
+
+	a_assert(buf);
+	a_assert(bufsize >= 0);
+
+	if ((sp = socketPtr(sid)) == NULL) {
+		return -1;
+	}
+
+/*
+ *	Loop adding as much data to the output ringq as we can absorb. Initiate a 
+ *	flush when the ringq is too full and continue. Block in socketFlush if the
+ *	socket is in blocking mode.
+ */
+	rq = &sp->outBuf;
+	for (bytesWritten = 0; bufsize > 0; ) {
+		if ((room = ringqPutBlkMax(rq)) == 0) {
+			if (socketFlush(sid) < 0) {
+				return -1;
+			}
+			if ((room = ringqPutBlkMax(rq)) == 0) {
+				if (sp->flags & SOCKET_BLOCK) {
+#if (defined (WIN) || defined (CE))
+					int		errCode;
+					if (! socketWaitForEvent(sp,  FD_WRITE | SOCKET_WRITABLE,
+						&errCode)) {
+						return -1;
+					}
+#endif
+					continue;
+				}
+				break;
+			}
+			continue;
+		}
+		len = min(room, bufsize);
+		ringqPutBlk(rq, (unsigned char *) buf, len);
+		bytesWritten += len;
+		bufsize -= len;
+		buf += len;
+	}
+	return bytesWritten;
+}

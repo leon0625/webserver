@@ -1,0 +1,1902 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"web",
+				"webroot"
+			],
+			[
+				"arg",
+				"args_text"
+			],
+			[
+				"ar",
+				"args_text"
+			],
+			[
+				"sel",
+				"self.view.substr"
+			],
+			[
+				"out",
+				"outfile"
+			],
+			[
+				"grep",
+				"grep_rule"
+			],
+			[
+				"exc",
+				"exclude_list"
+			],
+			[
+				"retu",
+				"return_flag"
+			],
+			[
+				"compile",
+				"compile_need_files"
+			],
+			[
+				"code",
+				"code_type"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"iconv",
+				"iconv_close"
+			],
+			[
+				"ic",
+				"iconv"
+			],
+			[
+				"outbu",
+				"outbufsize"
+			],
+			[
+				"inbuf",
+				"inbufsize"
+			],
+			[
+				"tran",
+				"translate.json"
+			],
+			[
+				"qu",
+				"quota_mark_count"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"nex",
+				"next_line_text"
+			],
+			[
+				"img",
+				"img_tag_in_region\t(autofilename.py)"
+			],
+			[
+				"compre",
+				"compress_web"
+			],
+			[
+				"save",
+				"save_path"
+			],
+			[
+				"com",
+				"compress_html"
+			],
+			[
+				"sa",
+				"save_path"
+			],
+			[
+				"swi",
+				"switch"
+			],
+			[
+				"compr",
+				"is_compress"
+			],
+			[
+				"in",
+				"input_fd"
+			],
+			[
+				"ex",
+				"exclude_list"
+			],
+			[
+				"cfm",
+				"CommitCfm"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"wan",
+				"wan_surf_check"
+			],
+			[
+				"工作",
+				"工作笔记"
+			],
+			[
+				"PR",
+				"PROJECT_DIR"
+			],
+			[
+				"PRO",
+				"PROJECT_NAME"
+			],
+			[
+				"key",
+				"key_index"
+			],
+			[
+				"def",
+				"define"
+			],
+			[
+				"char",
+				"char_t"
+			],
+			[
+				"ba",
+				"base64encode"
+			],
+			[
+				"user",
+				"userNameBase64"
+			],
+			[
+				"h",
+				"hList"
+			],
+			[
+				"name",
+				"nameValue"
+			],
+			[
+				"all",
+				"allValues"
+			],
+			[
+				"p",
+				"p_hex"
+			],
+			[
+				"print",
+				"print_pkt"
+			],
+			[
+				"ma",
+				"match_result"
+			],
+			[
+				"match",
+				"match_result"
+			],
+			[
+				"mat",
+				"match_result"
+			],
+			[
+				"mian",
+				"main\tl_main_file"
+			],
+			[
+				"te",
+				"test_proc_fops"
+			],
+			[
+				"mo",
+				"modify_path"
+			],
+			[
+				"pa",
+				"patch_path1"
+			],
+			[
+				"cmp",
+				"cmp_file"
+			],
+			[
+				"mkdir",
+				"mkdir_r"
+			],
+			[
+				"ch",
+				"child_dir"
+			],
+			[
+				"symb",
+				"symbol_head"
+			],
+			[
+				"sym",
+				"symbol_head"
+			],
+			[
+				"sy",
+				"symbol_name"
+			],
+			[
+				"SYM",
+				"SYMBOL_TABLE"
+			],
+			[
+				"SY",
+				"SYMBOL_MAX"
+			],
+			[
+				"ssid",
+				"ssid_2g"
+			],
+			[
+				"telnet",
+				"telnetPwd"
+			],
+			[
+				"tel",
+				"telnetPwd"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"msg",
+				"msgstr"
+			],
+			[
+				"cn",
+				"cn_dict"
+			],
+			[
+				"igmp",
+				"igmpproxy"
+			],
+			[
+				"igm",
+				"igmp_debug"
+			],
+			[
+				"M",
+				"MCAST_ADDR"
+			],
+			[
+				"MC",
+				"MCAST_INTERVAL"
+			],
+			[
+				"m",
+				"mcast_addr"
+			],
+			[
+				"OBJ",
+				"OBJ_LIB"
+			],
+			[
+				"EXEC",
+				"EXEC_LIB"
+			],
+			[
+				"func",
+				"func_name"
+			],
+			[
+				"fun",
+				"func_name"
+			],
+			[
+				"j",
+				"json"
+			],
+			[
+				"tra",
+				"translate2"
+			],
+			[
+				"get",
+				"getfp"
+			],
+			[
+				"b",
+				"backtrace_ce123"
+			],
+			[
+				"prin",
+				"print_stack"
+			],
+			[
+				"stack",
+				"stack_floor"
+			],
+			[
+				"mac",
+				"macfile"
+			],
+			[
+				"data",
+				"data_load"
+			],
+			[
+				"da",
+				"data_dump"
+			],
+			[
+				"fill",
+				"fill_size"
+			],
+			[
+				"fil",
+				"fill_char"
+			],
+			[
+				"fi",
+				"fill_char"
+			],
+			[
+				"r",
+				"rbytes"
+			],
+			[
+				"w",
+				"wbytes"
+			],
+			[
+				"fd",
+				"fd_input"
+			],
+			[
+				"opt",
+				"optarg"
+			],
+			[
+				"send",
+				"sendbuf"
+			],
+			[
+				"inet",
+				"inet_addr"
+			],
+			[
+				"lo",
+				"loginPwd"
+			],
+			[
+				"lib",
+				"libtest"
+			],
+			[
+				"DEVI",
+				"device_sn"
+			],
+			[
+				"min",
+				"main\tl_main_file"
+			],
+			[
+				"he",
+				"helpinfo"
+			],
+			[
+				"input",
+				"inputFile"
+			],
+			[
+				"ou",
+				"outputFile"
+			],
+			[
+				"str",
+				"strlen"
+			],
+			[
+				"n",
+				"next"
+			],
+			[
+				"main",
+				"main\tl_main_file"
+			],
+			[
+				"err",
+				"err_cnt"
+			],
+			[
+				"mai",
+				"main\tl_nmain"
+			],
+			[
+				"l",
+				"__LINE__"
+			],
+			[
+				"rand",
+				"rand_num"
+			],
+			[
+				"wireless",
+				"wireless_extra"
+			],
+			[
+				"envram",
+				"envram_head"
+			],
+			[
+				"flash",
+				"init_flashinfo"
+			],
+			[
+				"falsh",
+				"flash"
+			],
+			[
+				"reboot",
+				"reboot_etime"
+			],
+			[
+				"pare",
+				"parseInt"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"dis",
+				"disable"
+			],
+			[
+				"ebp",
+				"ebp_reg"
+			],
+			[
+				"nums",
+				"nums2Size"
+			],
+			[
+				"num",
+				"nums2Size"
+			],
+			[
+				"nums1",
+				"nums1Size"
+			],
+			[
+				"num1",
+				"nums1Size"
+			],
+			[
+				"ipv6-sta",
+				"ipv6-static-ip"
+			],
+			[
+				"wan6",
+				"wan6_enable"
+			],
+			[
+				"TY",
+				"TYPE_NUM"
+			],
+			[
+				"calc",
+				"calc_stack"
+			],
+			[
+				"return",
+				"returnSize"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"can",
+				"cancel"
+			],
+			[
+				"sub",
+				"submitStr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "www/home.html",
+			"settings":
+			{
+				"buffer_size": 818,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"last_filter": "diff",
+		"selected_items":
+		[
+			[
+				"diff",
+				"Modific: Show diff"
+			],
+			[
+				"mp",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Cscope: ",
+				"Cscope: Find file"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pcl",
+				"Package Control: List Packages"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"ssc",
+				"Set Syntax: C"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"auto",
+				"AutoFileName: Default Settings"
+			],
+			[
+				"pc",
+				"Package Control: List Packages"
+			],
+			[
+				"evernote",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"note",
+				"Evernote: New empty note"
+			],
+			[
+				"modi",
+				"Modific: Revert modified part"
+			],
+			[
+				"lin",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"Snippet: ",
+				"Snippet: l_main_file"
+			],
+			[
+				"export",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"PCI",
+				"Package Control: Install Package"
+			],
+			[
+				"PCR",
+				"Package Control: Remove Package"
+			],
+			[
+				"keyma",
+				"Keymaps: Cheat Sheet"
+			],
+			[
+				"ke",
+				"Keymaps: Cheat Sheet"
+			],
+			[
+				"sub",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"linter",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"modif",
+				"Modific: Revert modified part"
+			],
+			[
+				"mod",
+				"Modific: Revert modified part"
+			],
+			[
+				"cscop",
+				"Cscope: Look up symbol"
+			],
+			[
+				"ever",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"cscope",
+				"Cscope: Look up symbol"
+			],
+			[
+				"e",
+				"Evernote: New empty note"
+			],
+			[
+				"mpp",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"sss",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"evernote ",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernote save",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"packe",
+				"Preferences: Browse Packages"
+			],
+			[
+				"omi",
+				"OmniMarkupPreviewer: Preview Current Markup in Browser"
+			],
+			[
+				"mdpp",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"csc",
+				"Cscope: Look up symbol"
+			],
+			[
+				"ssshell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"clang",
+				"Clang Format: Format Selection"
+			],
+			[
+				"form",
+				"Clang Format: Format Selection"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"ssm",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ssmd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ss",
+				"Set Syntax: C"
+			],
+			[
+				"utf",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"html",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"",
+				"Cscope: Look up symbol"
+			],
+			[
+				"pcd",
+				"Package Control: Disable Package"
+			],
+			[
+				"pacce",
+				"Package Control: Enable Package"
+			],
+			[
+				"cloas",
+				"File: Close All"
+			],
+			[
+				"ppr",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"md",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"ppi",
+				"Package Control: Install Package"
+			],
+			[
+				"mdp",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ssM",
+				"Set Syntax: Makefile Improved"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"SSMAKE",
+				"Set Syntax: Makefile Improved"
+			],
+			[
+				"source",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pce",
+				"Package Control: Enable Package"
+			],
+			[
+				"pcin",
+				"Package Control: Install Package"
+			],
+			[
+				"ppl",
+				"Package Control: List Packages"
+			],
+			[
+				"ssp",
+				"Set Syntax: Python"
+			],
+			[
+				"eh",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"SSM",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ctags",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"c imp",
+				"Set Syntax: C Improved"
+			],
+			[
+				"ci",
+				"Set Syntax: C Improved"
+			],
+			[
+				"shy",
+				"SyntaxHighlightTools: New tmLang File…"
+			],
+			[
+				"pcins",
+				"Package Control: Install Package"
+			],
+			[
+				"cs:",
+				"CTags: Show Symbols (file)"
+			],
+			[
+				"make",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"maker",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"pic",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssyc",
+				"Set Syntax: C"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"exp",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"exports",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"ex",
+				"Export to BBCode: Show Export Menu"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ctage",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Bracket Highlighter",
+				"BracketHighlighter: Jump to Left Bracket"
+			],
+			[
+				"setjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Export HTML",
+				"Export to HTML: Show Export Menu"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 223.0,
+		"history":
+		[
+			"view.run_command('example')",
+			"help(sublime)",
+			"python",
+			"help(line)",
+			"view.run_command('example')",
+			"view.run_command('example') ",
+			"view.run_command('Example') ",
+			"view.run_command('example') ",
+			"print \"aa\"",
+			"print aa",
+			"cs",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": true
+	},
+	"expanded_folders":
+	[
+		"/Z/software/webs-2-5"
+	],
+	"file_history":
+	[
+		"/Z/test/linux/find_dupnumber.c",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/httpd/tools/replace_uri.c",
+		"/E/工作笔记/github/blog/web页面的缓存处理.md",
+		"/Z/test/linux/web_cache/key.txt",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/httpd/11ac/web/network-diagnose.html",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/httpd/11ac/web/index.html",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/httpd/11ac/web/main.html",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/httpd/Makefile",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/httpd/11ac/web_mini_nocache/js/index.js",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/httpd/11ac/web_mini_nocache/ali_code.html",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/httpd/tools/compress_web.sh",
+		"/Z/software/webs-2-5/ECOS/main.c",
+		"/Z/software/webs-2-5/default.c",
+		"/Z/software/webs-2-5/page.c",
+		"/Z/software/webs-2-5/webs.h",
+		"/Z/software/webs-2-5/url.c",
+		"/Z/software/webs-2-5/webs.c",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/httpd/tools/nocache_v2.sh",
+		"/W/ac6_nex/AC_PRODUCT_SVN4216/prod/httpd/11ac/web/network-diagnose.html",
+		"/Z/software/webs-2-5/uemf.h",
+		"/Z/software/webs-2-5/ringq.c",
+		"/Z/software/webs-2-5/security.c",
+		"/Z/test/linux/web_compress/JSMin-master/jsmin.c",
+		"/Z/software/webs-2-5/www/home.htm",
+		"/Z/software/webs-2-5/www/home.html",
+		"/Z/test/linux/web_compress/compress_json.c",
+		"/Z/test/linux/web_compress/compress_html.c",
+		"/Z/test/linux/web_compress/compress_web.sh",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/cbb/service/ddns/phddns_tenda/phupdate.c",
+		"/E/工作笔记/github/blog/web压缩笔记.md",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/cbb/service/ddns/phddns_tenda/main.c",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/cbb/service/ddns/phddns_tenda/generate.c",
+		"/Z/test/linux/web_compress/a9_multi/phone/common/js/common.js",
+		"/E/工作笔记/随记/页面代码压缩/compress_json.c",
+		"/C/Users/Administrator/Desktop/jsmin.c",
+		"/Z/test/linux/web_compress/a9_multi/js/libs/common.js",
+		"/C/Users/Administrator/Desktop/Makefile",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/auto_discover/Makefile",
+		"/Z/test/python/test.py",
+		"/Z/test/python/excel_to_json/read_excel.py",
+		"/Z/test/python/compare_translate_key/cmp_translate_package_key.py",
+		"/E/学习资料/python/路由器自动化测试例子/password_err.py",
+		"/Z/test/python/新建文件夹/translate.json",
+		"/Z/test/python/新建文件夹/read_excel.py",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/vendor/bcm47189_wl_9.10.178.7/genromfs.sh",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/httpd/httpd/src/webs.c",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/targets/ac6/romfs/webroot_ro/ali_code.html",
+		"/Z/test/linux/web_cache/nocache.sh",
+		"/Z/test/linux/web_cache/web页面的缓存处理.md",
+		"/C/Users/Administrator/Desktop/222.htnl",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/cbb/lan/dhcps/dnsmasq.h",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/cbb/lan/dhcps/rfc2131.c",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/cbb/lan/dhcps/util.c",
+		"/C/Users/Administrator/Desktop/1dhcps/dhcps~/.strtab",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/cbb/lan/1dhcps/dhcps~/.strtab",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/cbb/lan/dhcps/option.c",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/cbb/lan/dhcps/dnsmasq.c",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/cbb/lan/dhcps/dhcp.c",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/cbb/lan/1dhcps/Makefile",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/cbb/service/sntp/sntp.c",
+		"/Z/test/linux/web_cache/资源文件的缓存处理.txt",
+		"/C/Users/Administrator/Documents/DEV-C++/test/main.c",
+		"/C/Users/Tenda/Documents/Dev-C++/test.c",
+		"/C/Users/Tenda/Documents/Dev-C++/main.c",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/cbb/cbb_tpi/src/tpi_wan.c",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/httpd/httpd/src/balloc.c",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/httpd/httpd/src/main.c",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/cbb/wan/dnspxy/udp.c",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/httpd/11ac/cgi/wifi.c",
+		"/E/修改代码收集/ecos/malloc跟踪/test.c",
+		"/E/修改代码收集/ecos/malloc跟踪/stat_func_called.h",
+		"/E/修改代码收集/ecos/malloc跟踪/测试/readme.txt",
+		"/E/修改代码收集/ecos/malloc跟踪/Makefile",
+		"/E/修改代码收集/ecos/malloc跟踪/malloc_trace_v2.c",
+		"/E/修改代码收集/ecos/malloc跟踪/stat_func_called.c",
+		"/E/修改代码收集/ecos/malloc跟踪/malloc_trace.h",
+		"/C/Users/Administrator/Desktop/wrap.c",
+		"/E/修改代码收集/ecos/malloc跟踪/malloc_trace.c",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/wan_surf_check/wan_surf_check.c",
+		"/E/项目/2016/下半年/韩国SAJ AC6/转测试/第一轮转测试/V01.53.3.12_bin/inputData.txt",
+		"/E/项目/2016/下半年/韩国SAJ AC6/转测试/第一轮转测试/V01.53.3.12_bin/Twl_BCM_Router.ini",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/cbb/cbb_tpi/src/wifi/wifi_wds.c",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/cbb/cbb_tpi/src/wifi/tpi_wifi.c",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/netctrl/wifi_mib.h",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/httpd/11ac/web/css/reasy-ui.css",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/httpd/11ac/web/iptv.html",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/httpd/11ac/web/js/main.js",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/fw_version.h",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/new",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/old",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/httpd/11ac/web/js/login.js",
+		"/D/开发软件、/Sublime Text3/Data/Packages/User/snippet/printf.sublime-snippet",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/tags_need_file.txt",
+		"/D/开发软件、/Sublime Text3/Data/Packages/my/test.py",
+		"/C/Users/Administrator/Documents/Source Insight/QuickerV1_1.em",
+		"/D/开发软件、/Sublime Text3/Data/Packages/User/snippet/main.sublime-snippet",
+		"/D/开发软件、/Sublime Text3/Data/Packages/User/snippet/ifdef.sublime-snippet",
+		"/W/ac6_nex/AC_PRODUCT_SVN4216/cbb/wan/dnspxy/dns.c",
+		"/D/开发软件、/Sublime Text3/Data/Packages/User/snippet/func_note.sublime-snippet",
+		"/W/ac6_nex/AC_PRODUCT_SVN4216/compile_need_file.txt",
+		"/C/Users/ADMINI~1/AppData/Local/Temp/update_vim_project.sh",
+		"/W/ac6_nex/AC_PRODUCT_SVN4216/tttt.c",
+		"/W/ac6_nex/AC_PRODUCT_SVN4216/ctags2.file",
+		"/W/ac6_nex/AC_PRODUCT_SVN4216/filter_ctags_file.sh",
+		"/W/ac6_nex/AC_PRODUCT_SVN4216/ctag_need2.file",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/auto_discover/test_iconv.c",
+		"/W/ac6_nex/AC_PRODUCT_SVN4216/cbb/wan/dnspxy/udp.c",
+		"/W/ac6_nex/AC_PRODUCT_SVN4216/prod/auto_discover/utf_gbl.c",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/auto_discover/libiconv/include/iconv.h",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/auto_discover/auto_discover.c",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/prod/auto_discover/libiconv-1.14/srclib/progname.c",
+		"/W/ac6_nex/AC_PRODUCT_SVN4216/cbb/cbb_tpi/src/behavior_manager/tpi_discover.c",
+		"/W/ac6_nex/AC_PRODUCT_SVN4216/prod/httpd/11ac/cgi/status_inf.c",
+		"/W/ac6_nex/AC_PRODUCT_SVN4216/prod/httpd/11ac/cgi/Form_define.c",
+		"/W/ac6_nex/AC_PRODUCT_SVN4216/cbb/lan/dhcps/lease.c",
+		"/W/ac6_nex/AC_PRODUCT_SVN4216/prod/auto_discover/auto_discover.c",
+		"/W/AC6_SAJ/AC_PRODUCT_SVN4301/aa.txtr",
+		"/W/ac6_nex/AC_PRODUCT_SVN4216/prod/auto_discover/mdns_process.c",
+		"/Z/software/enca-master/testfile.txt",
+		"/Z/software/universal-encoding-detector/trunk/README",
+		"/Z/software/universal-encoding-detector/trunk/src/detector.c",
+		"/Z/software/universal-encoding-detector/trunk/test/test_debug.c",
+		"/Z/software/universal-encoding-detector/trunk/test/testing_framework.c",
+		"/Z/software/universal-encoding-detector/trunk/test/test_module",
+		"/Z/software/universal-encoding-detector/trunk/test/test_main.c",
+		"/D/开发软件、/Sublime Text3/Data/Packages/User/snippet/trace.sublime-snippet",
+		"/C/Users/Administrator/AppData/Roaming/Foxmail7/Temp-2660-20161018083306/wrap.c",
+		"/W/ac6_nex/AC_PRODUCT_SVN4216/prod/auto_discover/auto_discover.h"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"Z:\\software\\webs-2-5",
+			"W:\\AC6_SAJ\\AC_PRODUCT_SVN4301\\cbb\\service\\ddns",
+			"W:\\AC6_SAJ\\AC_PRODUCT_SVN4301\\prod\\httpd\\httpd\\src",
+			"W:\\AC6_SAJ\\AC_PRODUCT_SVN4301\\cbb\\lan\\dhcps",
+			"W:\\AC6_SAJ\\AC_PRODUCT_SVN4301\\prod\\httpd\\11ac\\web\\js",
+			"W:\\ac6_nex\\AC_PRODUCT_SVN4216\\prod\\httpd\\11ac\\cgi",
+			"W:\\ac6_nex\\AC_PRODUCT_SVN4216\\cbb\\wan\\dnspxy",
+			"W:\\AC6_SAJ\\AC_PRODUCT_SVN4301\\prod\\httpd\\11ac\\web",
+			"W:\\AC6_SAJ\\AC_PRODUCT_SVN4301\\prod\\httpd\\11ac",
+			"C:\\Users\\Tenda\\Documents\\SecureCRT",
+			"W:\\AC9_SVN3389_NEX01\\AC_PRODUCT_SVN3389\\prod\\httpd\\ac9\\web_nex",
+			"W:\\ac9_end01\\AC9_SVN3389\\prod\\httpd\\ac9\\web",
+			"W:\\AC9_SVN3389_NEX01\\AC_PRODUCT_SVN3389\\prod\\httpd\\ac9\\web_nex",
+			"C:\\Users\\Tenda\\Documents\\SecureCRT",
+			"W:\\AC9_SVN3389_NEX01\\AC_PRODUCT_SVN3389\\prod\\httpd\\ac9\\web_nex",
+			"W:\\AC9_SVN3389_NEX01\\AC_PRODUCT_SVN3389\\prod\\httpd\\ac9\\cgi",
+			"W:\\AC9_SVN3389_NEX01\\AC_PRODUCT_SVN3389\\prod\\httpd\\ac9\\web_nex",
+			"W:\\AC9_NEX01\\AC_PRODUCT_SVN3389\\prod\\httpd\\ac9\\web_nex",
+			"W:\\FH1202_korea\\BCM_4708_SVN869\\userspace\\cgi_html\\tenda_v3",
+			"W:\\FH1202_korea\\BCM_4708_SVN869\\userspace\\cgi_html\\tenda_v3\\",
+			"W:\\FH1202_korea\\BCM_4708_SVN869\\userspace\\cgi_html\\tenda_v3\\lang\\",
+			"W:\\FH1202_korea\\BCM_4708_SVN869\\userspace\\cgi_html\\tenda_v3\\lang\\ko",
+			"W:\\FH1202_korea\\BCM_4708_SVN869\\userspace\\cgi_html\\tenda_v3",
+			"W:\\FH1202_korea\\BCM_4708_SVN869\\userspace\\cgi_html\\tenda_v3\\lang\\cn",
+			"D:\\开发软件、\\Sublime Text3\\Packages\\Default",
+			"W:\\FH1202_korea\\BCM_4708_SVN869\\userspace\\cgi_html\\tenda_v3",
+			"W:\\AC9_korea\\AC_PRODUCT_SVN3389\\prod\\httpd\\ac9\\web",
+			"W:\\AC15_korea\\FH1901_SVN3424\\cbb\\service\\igmpproxy\\src",
+			"Z:\\test\\linux\\multicast_test",
+			"W:\\AC9_korea\\AC_PRODUCT_SVN3389\\prod\\httpd\\ac9\\web",
+			"W:\\AC9_korea\\AC_PRODUCT_SVN3389\\prod\\httpd\\ac9",
+			"W:\\AC15_korea\\FH1901_SVN3424\\prod\\httpd\\fh1901\\web",
+			"W:\\AC9_korea\\AC_PRODUCT_SVN3389\\prod\\httpd\\ac9",
+			"W:\\AC15_korea\\FH1901_SVN3424\\prod\\httpd\\fh1901\\web",
+			"W:\\F3_korea\\BCM_535X_SVN1338\\src\\ecos\\router\\tenda_httpd\\web\\F3_normal_multi\\",
+			"W:\\AC15_korea\\FH1901_SVN3424\\prod\\httpd\\fh1901\\web",
+			"W:\\F3_korea\\BCM_535X_SVN1338\\src\\ecos\\router\\tenda_httpd\\web\\F3_normal_multi\\",
+			"W:\\F3_korea\\BCM_535X_SVN1338\\src\\ecos\\router\\tenda_httpd\\web\\F3_normal_multi\\css",
+			"W:\\AC15_korea\\FH1901_SVN3424\\prod\\httpd\\fh1901\\web",
+			"W:\\F3_korea\\BCM_535X_SVN1338\\src\\ecos\\router\\tenda_httpd\\web\\F3_normal_multi",
+			"W:\\AC15_korea\\FH1901_SVN3424\\prod\\httpd\\fh1901",
+			"W:\\AC15_korea\\FH1901_SVN3424\\cbb\\wan\\dhcpc",
+			"W:\\F3_korea\\BCM_535X_SVN1338\\src\\ecos\\router\\tenda_httpd\\web\\F3_normal_multi",
+			"W:\\A41\\BCM_ECOS_5357C0_SVN76\\src\\ecos\\router\\bcmdhcpd",
+			"D:\\开发软件、\\Sublime Text3",
+			"H:\\代码\\src",
+			"D:\\开发软件、\\Sublime Text3",
+			"C:\\Users\\Tenda\\Documents\\SecureCRT",
+			"W:\\ipv6_link_one\\N301_MTL01\\src\\ecos\\router\\tenda_httpd\\web\\w311r_wisp+apclient_new",
+			"W:\\N301_MTL02\\Tages_ECOS535_6_7_svn115\\N301_MTL01\\src\\ecos\\router\\tenda_httpd\\web\\w311r_wisp+apclient_new",
+			"W:\\AC15_RU01\\AC_PRODUCT_SVN2413\\prod\\httpd\\fh1901\\web\\lang",
+			"W:\\AC15_RU01\\AC_PRODUCT_SVN2413\\prod\\httpd\\fh1901\\web\\js",
+			"W:\\N150_MXG\\w311r+V11.0-FOR01\\src\\ecos\\router\\tenda_httpd\\web\\w311r_wisp+apclient_new",
+			"W:\\AC15_RU01\\AC_PRODUCT_SVN2413\\prod\\httpd\\fh1901\\web",
+			"W:\\AAA_N150\\Trunk_ECOS535_6_7_SVN415\\src\\ecos\\router\\tenda_httpd\\web\\tenda-ucd-es-en",
+			"W:\\A41\\BCM_ECOS_5357C0_SVN76\\src\\ecos\\router\\tenda_httpd\\web\\A31_tenda_en",
+			"W:\\N301_MTL02\\Tages_ECOS535_6_7_svn115\\N301_MTL01\\src\\ecos\\router\\tenda_httpd\\web\\w311r_wisp+apclient_new",
+			"W:\\N3_ecos_yilake_kesu\\BCM_ECOS535_6_7_SVN2205\\src\\ecos\\router\\tenda_httpd_w3000r\\web\\w3000r_tenda_en",
+			"C:\\Users\\Tenda\\Documents\\SecureCRT",
+			"W:\\F318_NEX\\BCM_ECOS535_6_7_SVN1784\\src\\ecos\\router\\tenda_httpd\\web\\F318_NEX",
+			"W:\\W311R_NEX\\BCM_ECOS535_6_7_SVN1784\\src\\ecos\\router\\tenda_httpd\\web\\w311r_NEX_mult_new",
+			"W:\\F318_NEX\\BCM_ECOS535_6_7_SVN1784\\src\\ecos\\router\\tenda_httpd\\web\\F318_NEX",
+			"W:\\W311R_NEX\\BCM_ECOS535_6_7_SVN1784\\src\\ecos\\router\\tenda_httpd\\web\\w311r_NEX_mult_new",
+			"W:\\F318_NEX\\BCM_ECOS535_6_7_SVN1784\\src\\ecos\\router\\tenda_httpd\\web\\F318_NEX",
+			"C:\\Users\\Tenda\\Documents\\SecureCRT",
+			"W:\\N301_MTL02\\Tages_ECOS535_6_7_svn115\\N301_MTL01\\src\\ecos\\router\\tenda_httpd\\web\\w311r_wisp+apclient_new",
+			"W:\\W311R_NEX\\BCM_ECOS535_6_7_SVN1784\\src\\ecos\\router\\tenda_httpd\\web\\w311r_NEX_mult_new",
+			"W:\\N301_MTL02\\Tages_ECOS535_6_7_svn115\\N301_MTL01\\src\\ecos\\router\\tenda_httpd\\web\\w311r_wisp+apclient_new\\lang\\pt",
+			"W:\\N301_MTL02\\Tages_ECOS535_6_7_svn115\\N301_MTL01\\src\\ecos\\router\\tenda_httpd\\web\\w311r_wisp+apclient_new\\lang",
+			"W:\\W311R_NEX\\BCM_ECOS535_6_7_SVN1784\\src\\ecos\\router\\tenda_httpd\\web\\w311r_NEX_mult_new\\lang\\pt",
+			"W:\\W311R_NEX\\BCM_ECOS535_6_7_SVN1784\\src\\ecos\\router\\tenda_httpd\\web\\w311r_NEX_mult_new",
+			"W:\\W311R_NEX\\BCM_ECOS535_6_7_SVN1784\\src\\ecos\\router\\tenda_httpd\\web\\w311r_NEX_mult_new\\lang\\pt",
+			"W:\\FH456_TG_KS\\BCM_535X\\src\\ecos\\router\\tenda_httpd_ucd\\web\\tenda-ucd-multi",
+			"C:\\Users\\Tenda\\Documents\\SecureCRT",
+			"W:\\N150_SMG01\\BCM_ECOS535_6_7_svn115\\src\\ecos\\router\\tenda_httpd\\web\\N150_SGM01_multi",
+			"W:\\W311R_NEX\\BCM_ECOS535_6_7_SVN1784\\src\\ecos\\router\\tenda_httpd\\web\\w311r_NEX_mult_new",
+			"W:\\N150_SMG01\\BCM_ECOS535_6_7_svn115\\src\\ecos\\router\\tenda_httpd\\web\\N150_SGM01_multi",
+			"C:\\Users\\Tenda\\Documents\\SecureCRT",
+			"W:\\N150_SMG01\\BCM_ECOS535_6_7_svn115\\src\\ecos\\router\\tenda_httpd\\web\\N150_SGM01_multi",
+			"W:\\W311R_NEX\\BCM_ECOS535_6_7_SVN1784\\src\\ecos\\router\\tenda_httpd\\web\\w311r_NEX_mult_new",
+			"W:\\N301_MTL02\\Tages_ECOS535_6_7_svn115\\N301_MTL01\\src\\ecos\\router\\tenda_httpd\\web\\w311r_wisp+apclient_new",
+			"W:\\W311R_NEX\\BCM_ECOS535_6_7_SVN1784\\src\\ecos\\router\\tenda_httpd\\web\\w311r_NEX_mult_new",
+			"W:\\W311R_NEX\\BCM_ECOS535_6_7_SVN1784\\src\\ecos\\router\\tenda_httpd\\web\\w311r_NEX_mult_new\\lang",
+			"W:\\W311R_NEX\\BCM_ECOS535_6_7_SVN1784\\src\\ecos\\router\\tenda_httpd\\web\\w311r_NEX_mult_new",
+			"W:\\N301_MTL02\\Tages_ECOS535_6_7_svn115\\N301_MTL01\\src\\ecos\\router\\tenda_httpd\\web\\w311r_wisp+apclient_new",
+			"W:\\W311R_NEX\\BCM_ECOS535_6_7_SVN1784\\src\\ecos\\router\\tenda_httpd\\web\\w311r_NEX_mult_new",
+			"W:\\N301_MTL02\\Tages_ECOS535_6_7_svn115\\N301_MTL01\\src\\ecos\\router\\tenda_httpd\\web\\w311r_wisp+apclient_new\\",
+			"W:\\N301_MTL02\\Tages_ECOS535_6_7_svn115\\N301_MTL01\\src\\ecos\\router\\tenda_httpd\\web\\w311r_wisp+apclient_new\\lang\\pt",
+			"W:\\N301_MTL02\\Tages_ECOS535_6_7_svn115\\N301_MTL01\\src\\ecos\\router\\tenda_httpd\\web\\w311r_wisp+apclient_new\\",
+			"W:\\N301_MTL02\\Tages_ECOS535_6_7_svn115\\N301_MTL01\\src\\ecos\\router\\tenda_httpd\\web\\w311r_wisp+apclient_new\\lang\\pt",
+			"W:\\N301_MTL02\\Tages_ECOS535_6_7_svn115\\N301_MTL01\\src\\ecos\\router\\tenda_httpd\\web\\w311r_wisp+apclient_new",
+			"W:\\FH456V1.0_JPZ_KS_branch\\FH456V1.0\\BCM_535X_SVN368\\src\\ecos\\router\\tenda_httpd_ucd\\web\\tenda-ucd-multi",
+			"W:\\N301_MTL02\\Tages_ECOS535_6_7_svn115\\N301_MTL01\\src\\ecos\\router\\tenda_httpd\\web\\w311r_wisp+apclient_new\\",
+			"W:\\N301_MTL02\\Tages_ECOS535_6_7_svn115\\N301_MTL01\\src\\ecos\\router\\tenda_httpd\\web\\w311r_wisp+apclient_new\\lang\\pt",
+			"W:\\N301_MTL02\\Tages_ECOS535_6_7_svn115\\N301_MTL01\\src\\ecos\\router\\tenda_httpd\\web\\w311r_wisp+apclient_new",
+			"",
+			"Y:\\N301_IDC\\BCM5357_1X8\\src\\ecos\\router\\tenda_httpd\\web\\tenda-ucd-multi",
+			"W:\\FH456_JPZ_KS\\BCM5357_1X8\\src\\ecos\\router\\tenda_httpd\\web",
+			"W:\\FH456_JPZ_KS\\BCM5357_1X8\\src\\ecos\\router\\tenda_httpd\\web\\tenda-ucd-multi",
+			"Y:\\N301_IDC\\BCM5357_1X8\\src\\ecos\\router\\tenda_httpd\\web\\tenda-ucd-multi_new",
+			"W:\\W309R_NEX\\BCM_5357_SVN945\\src\\ecos\\router\\tenda_httpd\\web\\w309r_NEX"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"init",
+			"Cannot open URL",
+			"lpath",
+			"url",
+			"Site or Page Not Found",
+			"404",
+			"Site or Page Not Found",
+			"Access Error:",
+			"404",
+			"path",
+			"404",
+			"Site or Page Not Found",
+			"home.htm",
+			"/dir",
+			"”",
+			"theA",
+			"oray",
+			"webroot",
+			"compilation",
+			"usage",
+			"WEBROOT",
+			"WEBS_IF_MODIFIED_SUPPORT",
+			"cache",
+			"js",
+			"ping_results",
+			"optarg",
+			"buff",
+			"daemon",
+			"isopen",
+			"outleft",
+			"time_syn_valid",
+			"check_time",
+			"ping_results",
+			"struct check_ip_result",
+			"yiaddr",
+			"in_addr",
+			"local",
+			"struct",
+			"local",
+			"in_addr",
+			"record_source",
+			"arp_results",
+			"daemon",
+			"malloc",
+			"png",
+			"jpg",
+			".jpg",
+			"dlist_append",
+			"cmsMem_dumpTraceClones",
+			"compareStacks",
+			"malloc",
+			"tpi_wan_get_up_time",
+			"fd",
+			"ret",
+			"wan_dnsredirect_flag",
+			"wan_access_to_extra",
+			"tpi",
+			"IPTV",
+			"is_now_channles_in_country",
+			"country",
+			"country_code",
+			"wl2g.public.country",
+			"#ifdef",
+			"InsertFileHeaderCN",
+			"CreateNewHeaderFile",
+			"AddPromblemNo",
+			"hi",
+			"func_name",
+			"RU",
+			"UPDATE_CLIENT_NAME_TYPE",
+			"gbk",
+			"sizeof",
+			"DOMAIN_AUTO_DISCOVER",
+			"hostname",
+			"lease",
+			"hostname",
+			"a",
+			"hostname",
+			"client_mac_info",
+			"formGetOnlineList",
+			"getOnlineList",
+			"SetOnlineDevName",
+			"nexxt",
+			"TENDA_DNS_NAME",
+			"tenda",
+			"domain",
+			"tenda",
+			"return -1;",
+			"file_name",
+			"argv[1]",
+			"\\",
+			"\\'",
+			"extract_scope",
+			"on_selection_modified",
+			"[]",
+			"apple",
+			"./compress_tools",
+			"parse_data",
+			"is_compress",
+			"java",
+			"output_fd",
+			"start",
+			"product",
+			"exclude",
+			"linux_list.h",
+			"ip6t_ah.h",
+			"OPTARG",
+			"samba",
+			"ALT C",
+			"CTRL ALT F",
+			"modi",
+			"timeen",
+			"DST_en",
+			"svn_use_internal_diff",
+			"lan_addr",
+			"presentationURL",
+			"os_url",
+			"buftmp",
+			"manuft",
+			"buftmp",
+			"read",
+			"OUT",
+			"GUESSOS",
+			"out",
+			"arm",
+			"pentium",
+			"submit",
+			"fp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Nexxt",
+			"",
+			"5671ff",
+			"Tenda",
+			"llm",
+			"(GMT+02:00) Israel, Egypt, Bucharest, Istanbul",
+			"Nexxt",
+			"<title id=\"html_title\">Tenda</title>",
+			"<title>Tenda</title>",
+			"<title>.*</title>",
+			"dsaf",
+			"\\",
+			"Please enter a correct preferred DNS Server.",
+			"Please enter a correct alternate DNS Server.",
+			"Please enter a correct preferred DNS Server.",
+			"Please enter a correct alternate DNS Server.",
+			"Please enter a correct preferred DNS Server.",
+			"aaaaaaaaaaaaaa",
+			"&quot;_(\"Please enter a correct preferred DNS Server.\") &quot;",
+			"\"&quot\" + _(\"Please enter a correct preferred DNS Server.\") + \"&quot;\"",
+			"  \\n",
+			"\\n  ",
+			"",
+			"\\n",
+			"",
+			"wanMsgLogType",
+			"",
+			"\\n\\n",
+			"\\n",
+			"\\r",
+			"a\\n",
+			"\\r\\n",
+			"\\n",
+			"",
+			" ",
+			"Link One",
+			"$1_$2",
+			"icons icons-internet",
+			"<li class=\"nav-list\"><a href=\"port-forwarding.htm\" class=\"img-icons internet\">Port Map</a></li>\n          <li class=\"nav-list\"><a href=\"dmz.htm\" class=\"img-icons icons-control\">DMZ</a></li>",
+			"<li class=\"nav-list\"><a href=\"signal_control.htm\" class=\"img-icons icons-signal\">Signal</a></li>\n          <li class=\"nav-list\"><a href=\"port-forwarding.htm\" class=\"img-icons icons-port\">Port Map</a></li>\n          <li class=\"nav-list\"><a href=\"dmz.htm\" class=\"img-icons icons-port\">DMZ</a></li>",
+			"Port Map</a>",
+			"Port Map"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "www/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 818,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.vcs":
+	{
+		"height": 142.0
+	},
+	"pinned_build_system": "",
+	"project": "webs2.5.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"webs",
+				"prod\\httpd\\httpd\\src\\webs.c"
+			],
+			[
+				"sntp",
+				"cbb\\service\\sntp\\sntp.c"
+			],
+			[
+				"balloc",
+				"prod\\httpd\\httpd\\src\\balloc.c"
+			],
+			[
+				"main",
+				"prod\\httpd\\httpd\\src\\main.c"
+			],
+			[
+				"wan_surf",
+				"prod\\wan_surf_check\\wan_surf_check.c"
+			],
+			[
+				"udp",
+				"cbb\\wan\\dnspxy\\udp.c"
+			],
+			[
+				"iptv.html",
+				"prod\\httpd\\11ac\\web\\iptv.html"
+			],
+			[
+				"main.js",
+				"prod\\httpd\\11ac\\web\\js\\main.js"
+			],
+			[
+				"fw_v",
+				"fw_version.h"
+			],
+			[
+				"login.js",
+				"prod\\httpd\\11ac\\web\\js\\login.js"
+			],
+			[
+				"reasy",
+				"prod\\httpd\\11ac\\web\\css\\reasy-ui.css"
+			],
+			[
+				"udp.c",
+				"cbb\\wan\\dnspxy\\udp.c"
+			],
+			[
+				"dev.c",
+				"bsp\\kernel\\kpatch\\bcm47189_wl_9.10.178.7_2.6.36\\net\\core\\dev.c"
+			],
+			[
+				"mten",
+				"prod\\httpd\\11ac\\cgi\\mtenda.c"
+			],
+			[
+				"system_ho",
+				"prod\\httpd\\11ac\\cgi\\system_hostname.c"
+			],
+			[
+				"defa",
+				"targets\\ac6\\default.cfg"
+			],
+			[
+				"system_timehtml",
+				"prod\\httpd\\11ac\\web\\system_time.html"
+			],
+			[
+				"system_time",
+				"prod\\httpd\\11ac\\web\\js\\system_time.js"
+			],
+			[
+				"system_host",
+				"prod\\httpd\\11ac\\cgi\\system_hostname.c"
+			],
+			[
+				"miniupnp.c",
+				"cbb\\service\\upnp\\miniupnpd.c"
+			],
+			[
+				"miniupnp",
+				"cbb\\service\\upnp\\miniupnpd"
+			],
+			[
+				"upnp",
+				"cbb\\service\\minidlna\\minidlna-1.1.4\\upnpdescgen.c"
+			],
+			[
+				"master",
+				"cbb\\wan\\dnspxy\\master.c"
+			],
+			[
+				"envram",
+				"targets\\ac6\\envram.cfg"
+			],
+			[
+				"mib.c",
+				"infra\\cfm\\cfm\\mib.c"
+			],
+			[
+				"tpi_dhcps",
+				"cbb\\cbb_tpi\\src\\tpi_dhcps.c"
+			],
+			[
+				"defau",
+				"targets\\ac6\\default.cfg"
+			],
+			[
+				"networld",
+				"prod\\httpd\\11ac\\web\\network-diagnose.html"
+			],
+			[
+				"main.html",
+				"prod\\httpd\\11ac\\web\\main.html"
+			],
+			[
+				"index",
+				"prod\\httpd\\11ac\\web\\index.html"
+			],
+			[
+				"login",
+				"prod\\httpd\\11ac\\web\\login.html"
+			],
+			[
+				"fast_et",
+				"prod\\httpd\\11ac\\cgi\\fast_setting.c"
+			],
+			[
+				"status",
+				"prod\\httpd\\11ac\\cgi\\status_inf.c"
+			],
+			[
+				"status_",
+				"prod\\httpd\\fh1901\\cgi\\status_inf.c"
+			],
+			[
+				"module_id",
+				"infra\\infra_tpi\\include\\module_id.h"
+			],
+			[
+				"form",
+				"prod\\httpd\\11ac\\cgi\\Form_define.h"
+			],
+			[
+				"form_def",
+				"prod\\httpd\\11ac\\cgi\\Form_define.c"
+			],
+			[
+				"objs",
+				"prod\\httpd\\11ac\\cgi\\objs.makefile"
+			],
+			[
+				"system_up",
+				"web\\system_upgrade.html"
+			],
+			[
+				"system.js",
+				"web\\js\\system.js"
+			],
+			[
+				"tra",
+				"web\\lang\\kr\\translate.json"
+			],
+			[
+				"netw",
+				"web\\network-diagnose.html"
+			],
+			[
+				"system_upg",
+				"web\\system_upgrade.html"
+			],
+			[
+				"lan.js",
+				"web_nex\\js\\lan.js"
+			],
+			[
+				"time",
+				"web_nex\\js\\system_time.js"
+			],
+			[
+				"cgi_tel",
+				"cgi\\cgi_telnet_config.c"
+			],
+			[
+				"wire",
+				"web_nex\\wireless_ssid.html"
+			],
+			[
+				"for",
+				"cgi\\Form_define.c"
+			],
+			[
+				"remo",
+				"js\\remote_web.js"
+			],
+			[
+				"wrl",
+				"tenda_v3\\wrlbasicsetting.asp"
+			],
+			[
+				"wrlba",
+				"tenda_v3\\js\\privatejs\\wrlbasicsetting.js"
+			],
+			[
+				"wrls",
+				"tenda_v3\\js\\privatejs\\wrlstation.js"
+			],
+			[
+				"cmd",
+				"tenda_v3\\cmd.asp"
+			],
+			[
+				"log",
+				"tenda_v3\\js\\privatejs\\login.js"
+			],
+			[
+				"sys",
+				"tenda_v3\\system_hostname.asp"
+			],
+			[
+				"inde",
+				"tenda_v3\\index.asp"
+			],
+			[
+				"config",
+				"W:\\FH1202_korea\\BCM_4708_SVN869\\config.mk"
+			],
+			[
+				"wireless.xml",
+				"tenda_v3\\lang\\ko\\wireless.xml"
+			],
+			[
+				"base",
+				"tenda_v3\\lang\\ko\\base.xml"
+			],
+			[
+				"wrlsta",
+				"tenda_v3\\js\\privatejs\\wrlstation.js"
+			],
+			[
+				"igmp",
+				"src\\igmpproxy.sh"
+			],
+			[
+				"fw",
+				"W:\\AC9_korea\\AC_PRODUCT_SVN3389\\fw_version.h"
+			],
+			[
+				"wifi",
+				"ac9\\cgi\\wifi.c"
+			],
+			[
+				"macro",
+				"ac9\\web\\js\\macro_config.js"
+			],
+			[
+				"systim",
+				"ac9\\web\\system_time.html"
+			],
+			[
+				"lo",
+				"F3_normal_multi\\login.html"
+			],
+			[
+				"quic",
+				"F3_normal_multi\\js\\quickset.js"
+			],
+			[
+				"css",
+				"F3_normal_multi\\css\\quickset.css"
+			],
+			[
+				"b28",
+				"F3_normal_multi\\lang\\b28n.js"
+			],
+			[
+				"qu",
+				"F3_normal_multi\\quickset.html"
+			],
+			[
+				"ten.c",
+				"fh1901\\cgi\\tenda_ate.c"
+			],
+			[
+				"nvram",
+				"W:\\AC15_korea\\FH1901_SVN3424\\targets\\fh1901\\nvram_default.cfg"
+			],
+			[
+				"de",
+				"W:\\AC15_korea\\FH1901_SVN3424\\targets\\fh1901\\default.cfg"
+			],
+			[
+				"",
+				"W:\\AC15_korea\\FH1901_SVN3424\\targets\\fh1901\\default.cfg"
+			],
+			[
+				"env",
+				"W:\\AC15_korea\\FH1901_SVN3424\\targets\\fh1901\\envram.cfg"
+			],
+			[
+				"envra",
+				"W:\\AC15_korea\\FH1901_SVN3424\\targets\\fh1901\\envram.cfg"
+			],
+			[
+				"ten",
+				"fh1901\\cgi\\tenda_ate.c"
+			],
+			[
+				"inex",
+				"fh1901\\web\\index.html"
+			],
+			[
+				"systen",
+				"fh1901\\cgi\\system_hostname.c"
+			],
+			[
+				"def",
+				"W:\\AC15_korea\\FH1901_SVN3424\\targets\\fh1901\\default.cfg"
+			],
+			[
+				"upgra",
+				"fh1901\\web\\system_upgrade.html"
+			],
+			[
+				"clo",
+				"fh1901\\web\\cloud_managment.html"
+			],
+			[
+				"advan",
+				"F3_normal_multi\\advanced.html"
+			],
+			[
+				"ate",
+				"fh1901\\cgi\\tenda_ate.c"
+			],
+			[
+				"dhcp_ma",
+				"userSpace\\cbb\\src\\dhcp\\client\\dhcpc_mainloop.c"
+			],
+			[
+				"tmlang.tn",
+				"Sublime Text3\\Data\\Cache\\SyntaxHighlightTools\\tmLang.tmLanguage.cache"
+			],
+			[
+				"thread",
+				"src\\ecos\\ecos-3.0\\packages\\kernel\\v3_0\\src\\common\\thread.cxx"
+			],
+			[
+				"mtenda",
+				"src\\ecos\\router\\tenda_httpd\\mtenda.c"
+			],
+			[
+				".asp",
+				"src\\ecos\\router\\tenda_httpd\\web\\A31_tenda_en\\login.asp"
+			],
+			[
+				"rc.c",
+				"src\\ecos\\router\\rc\\rc.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"W:\\AC6_SAJ\\AC_PRODUCT_SVN4301\\ac6_saj.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
