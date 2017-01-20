@@ -26,7 +26,6 @@
 
 int websPageOpen(webs_t wp, char_t *lpath, char_t *path, int mode, int perm)
 {
-#undef WIN32
 #if defined(WIN32)
 	errno_t	error;
 #endif

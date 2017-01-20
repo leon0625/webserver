@@ -161,7 +161,7 @@ char_t *ejEvalFile(int eid, char_t *path, char_t **emsg)
 	if ((ep = ejPtr(eid)) == NULL) {
 		return NULL;
 	}
-#undef WIN32	
+	
 #if !defined(WIN32)
 	fd = gopen(path, O_RDONLY | O_BINARY, 0666);
 #else
