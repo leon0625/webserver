@@ -684,21 +684,22 @@ socket_t *socketPtr(int sid)
 
 int socketGetError()
 {
+
 #if (defined (WIN) || defined (CE))
-	switch (WSAGetLastError()) {
-	case WSAEWOULDBLOCK:
-		return EWOULDBLOCK;
-	case WSAECONNRESET:
-		return ECONNRESET;
-	case WSAENETDOWN:
-		return ENETDOWN;
-	case WSAEPROCLIM:
-		return EAGAIN;
-	case WSAEINTR:
-		return EINTR;
-	default:
-		return EINVAL;
-	}
+	// switch (WSAGetLastError()) {
+	// case WSAEWOULDBLOCK:
+	// 	return EWOULDBLOCK;
+	// case WSAECONNRESET:
+	// 	return ECONNRESET;
+	// case WSAENETDOWN:
+	// 	return ENETDOWN;
+	// case WSAEPROCLIM:
+	// 	return EAGAIN;
+	// case WSAEINTR:
+	// 	return EINTR;
+	// default:
+	// 	return EINVAL;
+	// }
 #else
 	return errno;
 #endif

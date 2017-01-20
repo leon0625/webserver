@@ -248,6 +248,7 @@ void websCgiGatherOutput (cgiRec *cgip)
 {
 	gstat_t	sbuf;
 	char_t	cgiBuf[FNAMESIZE];
+#undef WIN32
 #if defined(WIN32)
 	errno_t	error;
 #endif

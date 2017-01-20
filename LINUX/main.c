@@ -136,6 +136,106 @@ static void sigintHandler(int unused)
 	finished = 1;
 }
 
+/* llm add */
+#define CONFIG_FILE "webs.conf"
+#define PATH_MAX_LEN 256
+
+typedef struct{
+	unsigned short port;
+	char root_path[PATH_MAX_LEN];
+	char index_page[PATH_MAX_LEN];
+}webs_conf_t;
+
+int parse_conf_file(webs_conf_t *webs_config)
+{
+	FILE *fp = NULL;
+	char buf[1024] = {0};
+	char *p = NULL;
+	int port = 0;
+	int len = 0;
+
+	fp = fopen(CONFIG_FILE, "r");
+	if(!fp)
+	{
+		printf("open %s failed:%m\n", CONFIG_FILE);
+		return -1;
+	}
+
+	while(fgets(buf, sizeof(buf), fp))
+	{
+		p = buf;
+		/* skip space,tab */
+		while(*p && (*p == ' ' || *p == '\t'))
+			p++;
+		/* skip comment line */
+		if(*p == '#')
+			continue;
+		/* parse config */
+		if(!strncmp(p, "port", strlen("port")))
+		{
+			p += strlen("port=");
+			port = atoi(p);
+			if(port < 0 || port > 65535)
+			{
+				printf("invalid port\n");
+			}
+			else
+			{
+				webs_config->port = port;
+			}
+		}
+		else if(!strncmp(p, "path", strlen("path")))
+		{
+			p += strlen("path=");
+			/* skip '\n' */
+			len = strlen(p);
+			if(p[len - 1] == '\n')
+			{
+				p[len - 1] = '\0';
+			}
+			strncpy(webs_config->root_path, p, PATH_MAX_LEN - 1);
+		}
+		else if(!strncmp(p, "indexpage", strlen("indexpage")))
+		{
+			p += strlen("indexpage=");
+			/* skip '\n' */
+			len = strlen(p);
+			if(p[len - 1] == '\n')
+				p[len - 1] = '\0';
+			strncpy(webs_config->index_page, p, PATH_MAX_LEN - 1);
+		}
+		else
+		{
+			/* do nothing */
+		}
+	}
+	fclose(fp);
+	return 0;
+}
+
+int websLocalFormHandler(webs_t wp, char_t *urlPrefix, char_t *webDir, int arg, 
+	char_t *url, char_t *path, char_t *query)
+{
+	a_assert(websValid(wp));
+	a_assert(url && *url);
+	a_assert(path && *path == '/');
+
+	websStats.formHits++;
+
+	// printf("url: %s\n, path: %s\n", url, path);
+/*
+ *	Extract the form name
+ */
+
+	/* 添加.txt后缀, 这里没长度判断，有越界风险 */
+	strcat(path, ".txt");
+	// printf("new path: %s\n", path);
+	/* 返回0，让它走后面的defaulthandle */
+	return 0;	
+}
+
+/* llm add end */
+
 /******************************************************************************/
 /*
  *	Initialize the web server.
@@ -148,7 +248,11 @@ static int initWebs(int demo)
 	char			host[128], dir[128], webdir[128];
 	char			*cp;
 	char_t			wbuf[128];
+	webs_conf_t		webs_conf = {10080, "../www", "home.htm"}; 
 
+	parse_conf_file(&webs_conf);
+	printf("port:  %d, path: %s, index page: %s\n", webs_conf.port,
+				webs_conf.root_path, webs_conf.index_page);
 /*
  *	Initialize the socket subsystem
  */
@@ -181,6 +285,7 @@ static int initWebs(int demo)
  *	Set ../web as the root web. Modify this to suit your needs
  *	A "-demo" option to the command line will set a webdemo root
  */
+#if 0
 	getcwd(dir, sizeof(dir)); 
 	if ((cp = strrchr(dir, '/'))) {
 		*cp = '\0';
@@ -188,9 +293,21 @@ static int initWebs(int demo)
 	if (demo) {
 		sprintf(webdir, "%s/%s", dir, demoWeb);
 	} else {
-		sprintf(webdir, "%s/%s", dir, rootWeb);
-	}
+		// sprintf(webdir, "%s/%s", dir, rootWeb);
 
+	}
+#else
+	if(webs_conf.root_path[0] == '/')	/* 绝对路径 */
+	{
+		sprintf(webdir, "%s", webs_conf.root_path);
+	}
+	else	/* 相对路径 */
+	{
+		getcwd(dir, sizeof(dir)); 
+		sprintf(webdir, "%s/%s", dir, webs_conf.root_path);
+	}
+#endif
+	printf("webdir: %s\n", webdir);
 /*
  *	Configure the web server options before opening the web server
  */
@@ -204,15 +321,16 @@ static int initWebs(int demo)
 /*
  *	Configure the web server options before opening the web server
  */
-	websSetDefaultPage(T("default.asp"));
+	// websSetDefaultPage(T("default.asp"));
+	websSetDefaultPage(webs_conf.index_page);
 	websSetPassword(password);
 
 /* 
  *	Open the web server on the given port. If that port is taken, try
  *	the next sequential port for up to "retries" attempts.
  */
-	websOpenServer(port, retries);
-
+	// websOpenServer(port, retries);
+	websOpenServer(webs_conf.port, retries);
 /*
  * 	First create the URL handlers. Note: handlers are called in sorted order
  *	with the longest path handler examined first. Here we define the security 
@@ -220,7 +338,7 @@ static int initWebs(int demo)
  */
 	websUrlHandlerDefine(T(""), NULL, 0, websSecurityHandler, 
 		WEBS_HANDLER_FIRST);
-	websUrlHandlerDefine(T("/goform"), NULL, 0, websFormHandler, 0);
+	websUrlHandlerDefine(T("/goform"), NULL, 0, websLocalFormHandler, 0);
 	websUrlHandlerDefine(T("/cgi-bin"), NULL, 0, websCgiHandler, 0);
 	websUrlHandlerDefine(T(""), NULL, 0, websDefaultHandler, 
 		WEBS_HANDLER_LAST); 
@@ -295,7 +413,7 @@ static int websHomePageHandler(webs_t wp, char_t *urlPrefix, char_t *webDir,
  *	If the empty or "/" URL is invoked, redirect default URLs to the home page
  */
 	if (*url == '\0' || gstrcmp(url, T("/")) == 0) {
-		websRedirect(wp, WEBS_DEFAULT_HOME);
+		websRedirect(wp, websGetDefaultPage());
 		return 1;
 	}
 	return 0;

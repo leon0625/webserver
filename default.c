@@ -92,6 +92,8 @@ int websDefaultHandler(webs_t wp, char_t *urlPrefix, char_t *webDir, int arg,
 	a_assert(query);
 
 	flags = websGetRequestFlags(wp);
+
+    printf("path: %s\n", path);
 /*
  *	We do whitelist validation in addition to standard URL validation.
  *	The whitelist should really catch anything invalid first.
@@ -163,7 +165,7 @@ int websDefaultHandler(webs_t wp, char_t *urlPrefix, char_t *webDir, int arg,
        * 17 Mar 03 BgP -- prevent a cross-site scripting exploit
 		websError(wp, 404, T("Cannot open URL %s"), url);
        */
-        printf("llm->%s(%d)\n", __FUNCTION__, __LINE__);
+        // printf("llm->%s(%d)\n", __FUNCTION__, __LINE__);
 		websError(wp, 404, T("Cannot open URL"));
 		websBuildWhitelist();
 		return 1;
